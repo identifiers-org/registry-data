@@ -1,10 +1,10 @@
-name: Updating registry repository
-run-name: Daily update
+name: Check & update repository periodically
+run-name: Periodic update
 on: 
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 1 * * *"
 jobs:
-  daily-check:
+  periodic-update:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -14,11 +14,14 @@ jobs:
         with:
           node-version: 22
       - name: Run update script
-        run: npm ci && npm run update-from-live
+        working-directory: ./scripts
+        run: |
+          npm ci
+          npm run update-from-live
       - name: Commit on change
         run: |
-          if ! git diff --quite registry-data; then
-            git config --local user.user "Registry Bot"
+          if ! git diff --quiet registry-data; then
+            git config --local user.name "Registry Bot"
             git config --local user.email "identifiers-org@ebi.ac.uk"
             git add registry-data/
             git commit -m 'Update repository from live dataset'

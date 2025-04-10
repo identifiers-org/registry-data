@@ -17,10 +17,10 @@ const main = async () => {
     // Checking if versions are equal
     const fileByKey = _.keyBy(fileDataset, "prefix");
     const liveByKey = _.keyBy(liveDataset, "prefix");
-    // if (_.isEqual(fileByKey, liveByKey)) {
-    //     console.info("NO CHANGES between live and repository datasets");
-    //     return;
-    // } 
+    if (_.isEqual(fileByKey, liveByKey)) {
+        console.info("NO CHANGES between live and repository datasets");
+        return;
+    } 
     console.info("CHANGES FOUND between live and repository datasets");
     
 
