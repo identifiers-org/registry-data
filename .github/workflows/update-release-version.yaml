@@ -1,6 +1,7 @@
 name: Update repository version on dataset update
 run-name: Update dataset version
 on: 
+  workflow_dispatch:
   push:
     branches: [main]
     paths: 
@@ -17,10 +18,12 @@ jobs:
         run: date +"%Y-%m-%d" > VERSION
       - name: Commit new version
         run: |
-          git config --local user.name "Registry Bot"
-          git config --local user.email "identifiers-org@ebi.ac.uk"
-          git add VERSION
-          git commit -m 'Update repository dataset version'
+          if ! git diff --quiet VERSION; then
+            git config --local user.name "Registry Bot"
+            git config --local user.email "identifiers-org@ebi.ac.uk"
+            git add VERSION
+            git commit -m 'Update repository dataset version'
+          fi
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

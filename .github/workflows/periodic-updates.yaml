@@ -1,6 +1,7 @@
 name: Check & update repository periodically
 run-name: Periodic update
 on: 
+  workflow_dispatch:
   schedule:
     - cron: "0 1 * * *"
 jobs:
@@ -10,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-node@v4
         with:
           node-version: 22
@@ -29,4 +32,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PUSH_PAT }}

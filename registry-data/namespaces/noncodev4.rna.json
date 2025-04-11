@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:29.833+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-04-14T08:49:41.833+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "NONCODE is a database of expression and functional lncRNA (long noncoding RNA) data obtained from microarray studies. LncRNAs have been shown to play key roles in various biological processes such as imprinting control, circuitry controlling pluripotency and differentiation, immune responses and chromosome dynamics. The collection references NONCODE version 4 and relates to individual transcripts.",
     "id": 1368,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000481",
-    "modified": "2019-06-11T14:17:29.833+00:00",
+    "modified": "2025-04-14T08:49:50.398+00:00",
     "name": "NONCODE v4 Transcript",
     "namespaceEmbeddedInLui": false,
     "pattern": "^NONHSAT\\d{6}$",
     "prefix": "noncodev4.rna",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

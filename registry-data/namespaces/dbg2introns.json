@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:51.708+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-04-11T13:12:46.653+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The Database for Bacterial Group II Introns  provides a catalogue of full-length, non-redundant group II introns present in bacterial DNA sequences in GenBank.",
     "id": 917,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000318",
-    "modified": "2019-06-11T14:16:51.708+00:00",
+    "modified": "2025-04-11T13:13:00.886+00:00",
     "name": "DBG2 Introns",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\w{1,2}\\.(\\w{1,2}\\.)?[A-Za-z0-9]+$",
     "prefix": "dbg2introns",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

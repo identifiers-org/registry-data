@@ -8,7 +8,7 @@
     "id": 1466,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000519",
-    "modified": "2019-06-11T14:17:39.487+00:00",
+    "modified": "2025-04-11T15:02:23.103+00:00",
     "name": "Identifiers.org Terms",
     "namespaceEmbeddedInLui": false,
     "pattern": "^[A-Za-z]+$",
@@ -18,8 +18,8 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
+            "deprecated": true,
+            "deprecationDate": "2025-04-11T14:56:49.071+00:00",
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
             "description": "IdoT via biomodels.net",
@@ -49,8 +49,43 @@
             "resourceHomeUrl": "https://identifiers.org/",
             "sampleId": "identifierPattern",
             "urlPattern": "https://biomodels.net/vocab/idot.rdf#{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "identifiers.org ontology terms via github repository",
+            "id": 4254,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00001090",
+            "name": "idot via github",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "gh",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://github.com/identifiers-org/ontop",
+            "sampleId": "Namespace",
+            "urlPattern": "https://github.com/identifiers-org/ontop/tree/main/idorg-ontology#idot{$id}"
         }
     ],
-    "sampleId": "identifierPattern",
+    "sampleId": "Namespace",
     "successor": null
 }

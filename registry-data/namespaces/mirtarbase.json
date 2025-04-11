@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:49.171+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-04-14T09:37:58.872+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "miRTarBase is a database of miRNA-target interactions (MTIs), collected manually from relevant literature, following Natural Language Processing of the text to identify research articles related to functional studies of miRNAs. Generally, the collected MTIs are validated experimentally by reporter assay, western blot, microarray and next-generation sequencing experiments.",
     "id": 1567,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000562",
-    "modified": "2019-06-11T14:17:49.171+00:00",
+    "modified": "2025-04-14T09:38:37.217+00:00",
     "name": "miRTarBase",
     "namespaceEmbeddedInLui": false,
     "pattern": "^MIRT\\d{6}$",
     "prefix": "mirtarbase",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,
