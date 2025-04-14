@@ -8,7 +8,7 @@
   },
   "author": "Renato Juacaba Neto",
   "license": "MIT",
-  "description": "Script to update repository",
+  "description": "Simple node script to download live dataset and minimally rewrite repository files. See .nvmrc for node version.",
   "dependencies": {
     "axios": "^1.8.4",
     "json-stable-stringify": "^1.2.1",
