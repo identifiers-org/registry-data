@@ -35621,9 +35621,9 @@
                 "providerCode": "CURATOR_REVIEW",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://bioinfo.lifl.fr/norine/",
+                "resourceHomeUrl": "https://bioinfo.cristal.univ-lille.fr/norine/",
                 "sampleId": "NOR00681",
-                "urlPattern": "http://bioinfo.lifl.fr/norine/result.jsp?ID={$id}"
+                "urlPattern": "https://bioinfo.cristal.univ-lille.fr/norine/result.jsp?ID={$id}"
             }
         ],
         "sampleId": "NOR00681",
