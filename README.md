@@ -23,10 +23,10 @@ The commit history can be used to check recent changes to the identifiers.org re
 
 ### Checking history via Github.com UI
 
-Recent changes to the dataset can be seen in the [commit history of full.json](https://github.com/identifiers-org/registry-data/commits/main/registry-data/full.json). 
+Recent changes to the dataset can be seen in the [commit history of full.json](https://github.com/identifiers-org/registry-data/commits/master/registry-data/full.json). 
 You will have to click on individual commits to see its changes.
 
-Alternatively, recent changes to an individual namespace can be seen in the commit history of the specific namespace file, for example, [the commit history for 3dmet can be found here](https://github.com/identifiers-org/registry-data/commits/main/registry-data/namespaces/3dmet.json). 
+Alternatively, recent changes to an individual namespace can be seen in the commit history of the specific namespace file, for example, [the commit history for 3dmet can be found here](https://github.com/identifiers-org/registry-data/commits/master/registry-data/namespaces/3dmet.json). 
 Again, You will have to click on individual commits to see its changes.
 
 ### Checking history via git command line
