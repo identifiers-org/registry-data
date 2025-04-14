@@ -40,3 +40,7 @@ The similar command below can be used to see changes on a specific namespace fil
 ```bash
 git log --patch -10 registry-data/namespaces/3dmet.json 
 ```
+
+## Licenses
+
+Identifiers.org data falls under [Creative Commons CC4 Attribution license](https://creativecommons.org/licenses/by/4.0/) while source code falls under MIT. See <https://docs.identifiers.org/pages/terms_of_use.html> for more information.
