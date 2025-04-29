@@ -57,41 +57,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "PubMed through Linkedlife data",
-            "id": 64,
-            "institution": {
-                "description": "Linked Life Data (LLD) is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point. The service allows writing of complex data analytical queries, answering complex bioinformatics questions such as 'give me all human genes located in Y-chromosome with the known molecular interactions'; simply navigate through the information, or export subsets like 'all approved drugs and their brand names'. ",
-                "homeUrl": "http://linkedlifedata.com/",
-                "id": 63,
-                "location": {
-                    "countryCode": "BG",
-                    "countryName": "Bulgaria"
-                },
-                "name": "Linkedlifedata, Ontotext, Sofia",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "BG",
-                "countryName": "Bulgaria"
-            },
-            "mirId": "MIR:00100745",
-            "name": "PubMed through Linkedlife data",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://linkedlifedata.com/",
-            "sampleId": "23735196",
-            "urlPattern": "http://linkedlifedata.com/resource/pubmed/id/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "HubMed",
             "id": 60,
             "institution": {
@@ -189,6 +154,41 @@
             "resourceHomeUrl": "https://scholia.toolforge.org/",
             "sampleId": "29029422",
             "urlPattern": "https://scholia.toolforge.org/pubmed/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2025-04-28T09:17:05.836+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "PubMed through Linkedlife data",
+            "id": 64,
+            "institution": {
+                "description": "Linked Life Data (LLD) is a data-as-a-service platform that provides access to 25 public biomedical databases through a single access point. The service allows writing of complex data analytical queries, answering complex bioinformatics questions such as 'give me all human genes located in Y-chromosome with the known molecular interactions'; simply navigate through the information, or export subsets like 'all approved drugs and their brand names'. ",
+                "homeUrl": "http://linkedlifedata.com/",
+                "id": 63,
+                "location": {
+                    "countryCode": "BG",
+                    "countryName": "Bulgaria"
+                },
+                "name": "Linkedlifedata, Ontotext, Sofia",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "BG",
+                "countryName": "Bulgaria"
+            },
+            "mirId": "MIR:00100745",
+            "name": "PubMed through Linkedlife data",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://linkedlifedata.com/",
+            "sampleId": "23735196",
+            "urlPattern": "http://linkedlifedata.com/resource/pubmed/id/{$id}"
         }
     ],
     "sampleId": "16333295",

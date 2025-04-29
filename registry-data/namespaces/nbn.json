@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://nbn-resolving.org/resolve_urn.htm",
             "sampleId": "urn:nbn:fi:tkk-004781",
-            "urlPattern": "http://nbn-resolving.org/resolver?identifier={$id}&verb=redirect"
+            "urlPattern": "http://nbn-resolving.org/{$id}"
         }
     ],
     "sampleId": "urn:nbn:fi:tkk-004781",

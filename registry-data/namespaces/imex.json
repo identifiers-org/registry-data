@@ -76,14 +76,14 @@
             },
             "mirId": "MIR:00100663",
             "name": "IMEx Consortium though Intact",
-            "official": false,
+            "official": true,
             "protectedUrls": false,
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.ebi.ac.uk/intact/",
             "sampleId": "IM-19210-3",
-            "urlPattern": "https://imexcentral.org/icentral/imex/rec/{$id}"
+            "urlPattern": "https://www.ebi.ac.uk/intact/search?query={$id}#interaction"
         }
     ],
     "sampleId": "IM-19210-3",

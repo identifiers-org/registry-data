@@ -25,15 +25,15 @@
             "description": "The Arabidopsis Information Resource (TAIR) Locus",
             "id": 185,
             "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 180,
+                "description": "Grant-funded research data repositories and tools risk termination when grants end, resulting in lost data, resources and expertise. We work with the creators of these resources to develop innovative and sustainable funding support, ensuring that valuable scientific data and software resources survive and prosper.\n",
+                "homeUrl": "https://www.phoenixbioinformatics.org/",
+                "id": 3367,
                 "location": {
                     "countryCode": "US",
                     "countryName": "United States"
                 },
-                "name": "Carnegie Institution of Washington Department of Plant Biology and National Center for Genome Resources (NCGR)",
-                "rorId": null
+                "name": "Phoenix Bioinformatics",
+                "rorId": "https://ror.org/0018yg518"
             },
             "location": {
                 "countryCode": "US",
@@ -46,9 +46,9 @@
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://arabidopsis.org/index.jsp",
+            "resourceHomeUrl": "http://arabidopsis.org/",
             "sampleId": "2200950",
-            "urlPattern": "http://www.arabidopsis.org/servlets/TairObject?accession=Locus:{$id}"
+            "urlPattern": "https://www.arabidopsis.org/locus?accession={$id}"
         }
     ],
     "sampleId": "2200950",

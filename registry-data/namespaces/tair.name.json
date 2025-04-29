@@ -46,9 +46,9 @@
             "providerCode": "tair",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.arabidopsis.org/index.jsp",
+            "resourceHomeUrl": "https://www.arabidopsis.org/",
             "sampleId": "AT5G05330",
-            "urlPattern": "https://www.arabidopsis.org/servlets/TairObject?type=locus&name={$id}"
+            "urlPattern": "https://www.arabidopsis.org/locus?name={$id}"
         }
     ],
     "sampleId": "AT5G05330",
