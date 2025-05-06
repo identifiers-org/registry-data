@@ -8,10 +8,10 @@
     "id": 3501,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00001002",
-    "modified": "2023-04-14T08:41:21.064+00:00",
+    "modified": "2025-05-06T12:44:06.626+00:00",
     "name": "Gemeinsame Normdatei",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9X\\-]+",
+    "pattern": "^[0-9X\\-]+$",
     "prefix": "gnd",
     "renderDeprecatedLanding": false,
     "resources": [

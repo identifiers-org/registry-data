@@ -8,10 +8,10 @@
     "id": 1142,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000394",
-    "modified": "2019-06-11T14:17:10.647+00:00",
+    "modified": "2025-05-06T12:25:02.286+00:00",
     "name": "Affymetrix Probeset",
     "namespaceEmbeddedInLui": false,
-    "pattern": "\\d{4,}((_[asx])?_at)?",
+    "pattern": "^\\d{4,}((_[asx])?_at)?$",
     "prefix": "affy.probeset",
     "renderDeprecatedLanding": false,
     "resources": [

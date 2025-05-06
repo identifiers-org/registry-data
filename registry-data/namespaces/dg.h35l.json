@@ -8,10 +8,10 @@
     "id": 3189,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000944",
-    "modified": "2022-02-27T20:40:41.328+00:00",
+    "modified": "2025-05-06T12:42:37.927+00:00",
     "name": "HEAL Data Platform",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "dg.h35l",
     "renderDeprecatedLanding": false,
     "resources": [

@@ -8,10 +8,10 @@
     "id": 432,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000136",
-    "modified": "2019-06-11T14:16:09.596+00:00",
+    "modified": "2025-05-06T12:13:40.874+00:00",
     "name": "Unit Ontology",
     "namespaceEmbeddedInLui": true,
-    "pattern": "^UO:\\d{7}?",
+    "pattern": "^UO:\\d{7}?$",
     "prefix": "uo",
     "renderDeprecatedLanding": false,
     "resources": [

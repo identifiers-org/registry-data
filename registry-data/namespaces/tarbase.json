@@ -8,10 +8,10 @@
     "id": 976,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000340",
-    "modified": "2019-06-11T14:16:56.599+00:00",
+    "modified": "2025-05-06T12:24:28.947+00:00",
     "name": "TarBase",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^[a-z]{3}\\-(mir|let|lin)\\-\\w+(\\-\\w+\\-\\w+)?",
+    "pattern": "^[a-z]{3}\\-(mir|let|lin)\\-\\w+(\\-\\w+\\-\\w+)?$",
     "prefix": "tarbase",
     "renderDeprecatedLanding": false,
     "resources": [

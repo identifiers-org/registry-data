@@ -8,10 +8,10 @@
     "id": 2085,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000707",
-    "modified": "2020-02-28T10:24:36.137+00:00",
+    "modified": "2025-05-06T12:29:17.225+00:00",
     "name": "MINID Test",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[A-Za-z0-9]+$",
+    "pattern": "^[A-Za-z0-9]+$",
     "prefix": "minid.test",
     "renderDeprecatedLanding": false,
     "resources": [

@@ -8,10 +8,10 @@
     "id": 2497,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000774",
-    "modified": "2021-02-01T15:47:59.756+00:00",
+    "modified": "2025-05-06T12:30:04.741+00:00",
     "name": "VMH Gene",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^[0-9]+\\.[0-9]+",
+    "pattern": "^[0-9]+\\.[0-9]+$",
     "prefix": "vmhgene",
     "renderDeprecatedLanding": false,
     "resources": [

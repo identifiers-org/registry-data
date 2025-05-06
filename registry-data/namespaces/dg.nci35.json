@@ -8,10 +8,10 @@
     "id": 3177,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000936",
-    "modified": "2022-02-27T20:37:35.848+00:00",
+    "modified": "2025-05-06T12:42:05.290+00:00",
     "name": "NCI Data Commons Framework Services",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "dg.nci35",
     "renderDeprecatedLanding": false,
     "resources": [

@@ -8,10 +8,10 @@
     "id": 3853,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00001068",
-    "modified": "2024-05-08T12:45:54.541+00:00",
+    "modified": "2025-05-06T12:36:42.041+00:00",
     "name": "Metadata Management and distribution system for Multiple GNSS Networks",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[a-zA-Z0-9]+\\.[a-f0-9]{24}",
+    "pattern": "^[a-zA-Z0-9]+\\.[a-f0-9]{24}$",
     "prefix": "moid",
     "renderDeprecatedLanding": false,
     "resources": [

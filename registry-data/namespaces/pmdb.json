@@ -8,10 +8,10 @@
     "id": 578,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000190",
-    "modified": "2019-06-11T14:16:22.644+00:00",
+    "modified": "2025-05-06T12:23:07.196+00:00",
     "name": "Protein Model Database",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^PM\\d{7}",
+    "pattern": "^PM\\d{7}$",
     "prefix": "pmdb",
     "renderDeprecatedLanding": false,
     "resources": [

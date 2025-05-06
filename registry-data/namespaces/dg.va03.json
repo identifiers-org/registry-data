@@ -8,10 +8,10 @@
     "id": 3533,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00001104",
-    "modified": "2023-05-02T09:56:24.768+00:00",
+    "modified": "2025-05-06T12:44:30.059+00:00",
     "name": "VA Data Commons",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "dg.va03",
     "renderDeprecatedLanding": false,
     "resources": [

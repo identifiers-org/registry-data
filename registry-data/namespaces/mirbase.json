@@ -8,10 +8,10 @@
     "id": 263,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000078",
-    "modified": "2019-06-11T14:15:53.607+00:00",
+    "modified": "2025-05-06T13:34:45.335+00:00",
     "name": "miRBase Sequence",
     "namespaceEmbeddedInLui": false,
-    "pattern": "MI\\d{7}",
+    "pattern": "^MI\\d{7}$",
     "prefix": "mirbase",
     "renderDeprecatedLanding": false,
     "resources": [

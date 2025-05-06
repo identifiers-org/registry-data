@@ -8,10 +8,10 @@
     "id": 200,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000056",
-    "modified": "2019-06-11T14:15:47.775+00:00",
+    "modified": "2025-05-06T12:12:37.332+00:00",
     "name": "Protein Modification Ontology",
     "namespaceEmbeddedInLui": true,
-    "pattern": "^MOD:\\d{5}",
+    "pattern": "^MOD:\\d{5}$",
     "prefix": "mod",
     "renderDeprecatedLanding": false,
     "resources": [

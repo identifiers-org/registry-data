@@ -8,10 +8,10 @@
     "id": 1247,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000434",
-    "modified": "2019-06-11T14:17:19.532+00:00",
+    "modified": "2025-05-06T12:26:17.522+00:00",
     "name": "DailyMed",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^[A-Za-z0-9-]+",
+    "pattern": "^[A-Za-z0-9-]+$",
     "prefix": "dailymed",
     "renderDeprecatedLanding": false,
     "resources": [

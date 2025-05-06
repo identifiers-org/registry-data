@@ -8,10 +8,10 @@
     "id": 1765,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000636",
-    "modified": "2019-06-11T14:18:07.981+00:00",
+    "modified": "2025-05-06T12:28:09.995+00:00",
     "name": "VMH metabolite",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[a-zA-Z0-9_\\(\\_\\)\\[\\]]+",
+    "pattern": "^[a-zA-Z0-9_\\(\\_\\)\\[\\]]+$",
     "prefix": "vmhmetabolite",
     "renderDeprecatedLanding": false,
     "resources": [

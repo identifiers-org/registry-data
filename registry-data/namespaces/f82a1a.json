@@ -8,10 +8,10 @@
     "id": 3161,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000926",
-    "modified": "2022-02-27T20:32:53.923+00:00",
+    "modified": "2025-05-06T12:41:09.976+00:00",
     "name": "Kids First Data Catalog",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "f82a1a",
     "renderDeprecatedLanding": false,
     "resources": [

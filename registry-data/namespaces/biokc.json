@@ -8,10 +8,10 @@
     "id": 3472,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000995",
-    "modified": "2023-03-01T11:40:49.456+00:00",
+    "modified": "2025-05-06T12:43:37.786+00:00",
     "name": "BioKC",
     "namespaceEmbeddedInLui": false,
-    "pattern": "bkc[0-9]*",
+    "pattern": "^bkc[0-9]*$",
     "prefix": "biokc",
     "renderDeprecatedLanding": false,
     "resources": [

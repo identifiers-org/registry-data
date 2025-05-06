@@ -8,10 +8,10 @@
     "id": 698,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000236",
-    "modified": "2019-06-11T14:16:33.634+00:00",
+    "modified": "2025-05-06T12:23:37.540+00:00",
     "name": "nextProt",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^NX_\\w+",
+    "pattern": "^NX_\\w+$",
     "prefix": "nextprot",
     "renderDeprecatedLanding": false,
     "resources": [

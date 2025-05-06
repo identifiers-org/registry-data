@@ -8,10 +8,10 @@
     "id": 2969,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000887",
-    "modified": "2021-11-01T17:49:13.981+00:00",
+    "modified": "2025-05-06T12:38:05.853+00:00",
     "name": "Kids First",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "dg.f82a1a",
     "renderDeprecatedLanding": false,
     "resources": [

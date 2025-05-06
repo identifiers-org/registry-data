@@ -8,10 +8,10 @@
     "id": 3139,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000917",
-    "modified": "2022-02-27T20:30:23.278+00:00",
+    "modified": "2025-05-06T12:39:53.073+00:00",
     "name": "https://accessclinicaldata.niaid.nih.gov/",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "dg.nacd",
     "renderDeprecatedLanding": false,
     "resources": [

@@ -8,10 +8,10 @@
     "id": 920,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000319",
-    "modified": "2019-06-11T14:16:51.940+00:00",
+    "modified": "2025-05-06T12:24:03.953+00:00",
     "name": "Spectral Database for Organic Compounds",
     "namespaceEmbeddedInLui": false,
-    "pattern": "\\d+$",
+    "pattern": "^\\d+$",
     "prefix": "sdbs",
     "renderDeprecatedLanding": false,
     "resources": [
@@ -46,9 +46,9 @@
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://riodb01.ibase.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi",
+            "resourceHomeUrl": "https://sdbs.db.aist.go.jp",
             "sampleId": "4544",
-            "urlPattern": "http://riodb01.ibase.aist.go.jp/sdbs/cgi-bin/cre_frame_disp.cgi?sdbsno={$id}"
+            "urlPattern": "https://sdbs.db.aist.go.jp/CompoundView.aspx?sdbsno={$id}"
         }
     ],
     "sampleId": "4544",

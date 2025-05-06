@@ -8,10 +8,10 @@
     "id": 1696,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000611",
-    "modified": "2019-06-11T14:18:02.239+00:00",
+    "modified": "2025-05-06T12:27:17.217+00:00",
     "name": "DataONE",
     "namespaceEmbeddedInLui": false,
-    "pattern": "\\S+",
+    "pattern": "^\\S+$",
     "prefix": "d1id",
     "renderDeprecatedLanding": false,
     "resources": [

@@ -8,10 +8,10 @@
     "id": 2416,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000767",
-    "modified": "2020-10-22T01:16:20.744+00:00",
+    "modified": "2025-05-06T12:29:53.732+00:00",
     "name": "BioSimulators",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[a-zA-Z0-9-_]+",
+    "pattern": "^[a-zA-Z0-9-_]+$",
     "prefix": "biosimulators",
     "renderDeprecatedLanding": false,
     "resources": [

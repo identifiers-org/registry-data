@@ -8,10 +8,10 @@
     "id": 3149,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00001021",
-    "modified": "2022-02-27T20:31:33.330+00:00",
+    "modified": "2025-05-06T12:40:10.627+00:00",
     "name": "NIDDK IBD Genetics Consortium Portal",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "dg.ea80",
     "renderDeprecatedLanding": false,
     "resources": [

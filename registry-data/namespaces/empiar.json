@@ -8,10 +8,10 @@
     "id": 3404,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000986",
-    "modified": "2023-01-25T11:52:06.260+00:00",
+    "modified": "2025-05-06T12:43:14.617+00:00",
     "name": "EMPIAR",
     "namespaceEmbeddedInLui": false,
-    "pattern": "EMPIAR-\\d{5,}",
+    "pattern": "^EMPIAR-\\d{5,}$",
     "prefix": "empiar",
     "renderDeprecatedLanding": false,
     "resources": [

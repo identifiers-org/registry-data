@@ -8,10 +8,10 @@
     "id": 4104,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00001082",
-    "modified": "2024-09-10T12:53:16.243+00:00",
+    "modified": "2025-05-06T12:36:14.229+00:00",
     "name": "Integrated Chemical Environment - Chemical data",
     "namespaceEmbeddedInLui": false,
-    "pattern": "\\d{2,7}-\\d{2}-\\d|DTXSID\\d{7,9}|[A-Z]{14}-[A-Z]{8}[SN][A-Z]-[A-Z]$",
+    "pattern": "^\\d{2,7}-\\d{2}-\\d|DTXSID\\d{7,9}|[A-Z]{14}-[A-Z]{8}[SN][A-Z]-[A-Z]$",
     "prefix": "ice.chem",
     "renderDeprecatedLanding": false,
     "resources": [

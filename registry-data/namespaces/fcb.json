@@ -8,10 +8,10 @@
     "id": 2991,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000891",
-    "modified": "2022-01-09T18:54:14.401+00:00",
+    "modified": "2025-05-06T13:34:37.660+00:00",
     "name": "the FAIR Cookbook",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^FCB\\d{3}",
+    "pattern": "^FCB\\d{3}$",
     "prefix": "fcb",
     "renderDeprecatedLanding": false,
     "resources": [

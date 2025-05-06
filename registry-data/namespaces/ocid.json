@@ -8,10 +8,10 @@
     "id": 1989,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000738",
-    "modified": "2019-09-10T09:27:59.693+00:00",
+    "modified": "2025-05-06T12:28:47.152+00:00",
     "name": "Ontology Concept Identifiers",
     "namespaceEmbeddedInLui": true,
-    "pattern": "ocid:[0-9]{12}",
+    "pattern": "^ocid:[0-9]{12}$",
     "prefix": "ocid",
     "renderDeprecatedLanding": false,
     "resources": [

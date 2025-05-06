@@ -8,10 +8,10 @@
     "id": 481,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000155",
-    "modified": "2019-06-11T14:16:14.213+00:00",
+    "modified": "2025-05-06T12:22:53.998+00:00",
     "name": "TriTrypDB",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^\\w+(\\.)?\\w+(\\.)?\\w+",
+    "pattern": "^\\w+(\\.)?\\w+(\\.)?\\w+$",
     "prefix": "tritrypdb",
     "renderDeprecatedLanding": false,
     "resources": [

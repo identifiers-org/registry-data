@@ -8,10 +8,10 @@
     "id": 847,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000288",
-    "modified": "2019-06-11T14:16:45.846+00:00",
+    "modified": "2025-05-06T12:23:48.578+00:00",
     "name": "Worfdb",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^\\w+(\\.\\d+)?",
+    "pattern": "^\\w+(\\.\\d+)?$",
     "prefix": "worfdb",
     "renderDeprecatedLanding": false,
     "resources": [
@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://worfdb.dfci.harvard.edu/",
             "sampleId": "T01B6.1",
-            "urlPattern": "http://worfdb.dfci.harvard.edu/index.php?search_type=name&page=showresultrc&race_query={$id}"
+            "urlPattern": "http://worfdb.dfci.harvard.edu/html/index.php?search_type=name&page=showresultrc&race_query={$id}"
         }
     ],
     "sampleId": "T01B6.1",

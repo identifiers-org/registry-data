@@ -8,10 +8,10 @@
     "id": 3171,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000932",
-    "modified": "2022-02-27T20:33:39.208+00:00",
+    "modified": "2025-05-06T12:40:34.838+00:00",
     "name": "MIDRC Data Commons",
     "namespaceEmbeddedInLui": false,
-    "pattern": "[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}",
+    "pattern": "^[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}$",
     "prefix": "dg.md1r",
     "renderDeprecatedLanding": false,
     "resources": [
