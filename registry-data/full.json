@@ -30513,6 +30513,118 @@
         "successor": null
     },
     {
+        "created": "2025-05-06T10:59:08.462+00:00",
+        "deprecated": false,
+        "deprecationDate": null,
+        "deprecationOfflineDate": null,
+        "deprecationStatement": null,
+        "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+        "id": 4303,
+        "infoOnPostmortemAccess": null,
+        "mirId": "MIR:00001094",
+        "modified": "2025-05-06T10:59:08.462+00:00",
+        "name": "MGnify Analysis",
+        "namespaceEmbeddedInLui": false,
+        "pattern": "^MGYA\\d{8}$",
+        "prefix": "mgnify.analysis",
+        "renderDeprecatedLanding": false,
+        "resources": [
+            {
+                "authHelpDescription": null,
+                "authHelpUrl": null,
+                "deprecated": false,
+                "deprecationDate": null,
+                "deprecationOfflineDate": null,
+                "deprecationStatement": null,
+                "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+                "id": 4354,
+                "institution": {
+                    "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                    "homeUrl": "https://www.ebi.ac.uk",
+                    "id": 2,
+                    "location": {
+                        "countryCode": "GB",
+                        "countryName": "United Kingdom"
+                    },
+                    "name": "European Bioinformatics Institute",
+                    "rorId": "https://ror.org/02catss52"
+                },
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "mirId": "MIR:00001093",
+                "name": "MGnify",
+                "official": true,
+                "protectedUrls": false,
+                "providerCode": "ebi",
+                "renderDeprecatedLanding": false,
+                "renderProtectedLanding": false,
+                "resourceHomeUrl": "https://www.ebi.ac.uk/metagenomics",
+                "sampleId": "MGYA00791518",
+                "urlPattern": "https://www.ebi.ac.uk/metagenomics/analyses/{$id}"
+            }
+        ],
+        "sampleId": "MGYA00791518",
+        "successor": null
+    },
+    {
+        "created": "2025-05-06T10:57:49.377+00:00",
+        "deprecated": false,
+        "deprecationDate": null,
+        "deprecationOfflineDate": null,
+        "deprecationStatement": null,
+        "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+        "id": 4253,
+        "infoOnPostmortemAccess": null,
+        "mirId": "MIR:00001092",
+        "modified": "2025-05-06T10:57:49.377+00:00",
+        "name": "MGnify Genome",
+        "namespaceEmbeddedInLui": false,
+        "pattern": "^MGYG\\d{9}(\\.\\d+)?$",
+        "prefix": "mgnify.genome",
+        "renderDeprecatedLanding": false,
+        "resources": [
+            {
+                "authHelpDescription": null,
+                "authHelpUrl": null,
+                "deprecated": false,
+                "deprecationDate": null,
+                "deprecationOfflineDate": null,
+                "deprecationStatement": null,
+                "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+                "id": 4304,
+                "institution": {
+                    "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                    "homeUrl": "https://www.ebi.ac.uk",
+                    "id": 2,
+                    "location": {
+                        "countryCode": "GB",
+                        "countryName": "United Kingdom"
+                    },
+                    "name": "European Bioinformatics Institute",
+                    "rorId": "https://ror.org/02catss52"
+                },
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "mirId": "MIR:00001091",
+                "name": "MGnify",
+                "official": true,
+                "protectedUrls": false,
+                "providerCode": "ebi",
+                "renderDeprecatedLanding": false,
+                "renderProtectedLanding": false,
+                "resourceHomeUrl": "https://www.ebi.ac.uk/metagenomics",
+                "sampleId": "MGYG000004903",
+                "urlPattern": "https://www.ebi.ac.uk/metagenomics/genomes/{$id}"
+            }
+        ],
+        "sampleId": "MGYG000004903",
+        "successor": null
+    },
+    {
         "created": "2019-06-11T14:17:42.938+00:00",
         "deprecated": false,
         "deprecationDate": null,
@@ -30569,6 +30681,62 @@
         "successor": null
     },
     {
+        "created": "2025-05-06T11:01:27.215+00:00",
+        "deprecated": false,
+        "deprecationDate": null,
+        "deprecationOfflineDate": null,
+        "deprecationStatement": null,
+        "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+        "id": 4254,
+        "infoOnPostmortemAccess": null,
+        "mirId": "MIR:00001098",
+        "modified": "2025-05-06T11:01:27.215+00:00",
+        "name": "MGnify Protein",
+        "namespaceEmbeddedInLui": false,
+        "pattern": "^MGYP\\d{12}$",
+        "prefix": "mgnify.protein",
+        "renderDeprecatedLanding": false,
+        "resources": [
+            {
+                "authHelpDescription": null,
+                "authHelpUrl": null,
+                "deprecated": false,
+                "deprecationDate": null,
+                "deprecationOfflineDate": null,
+                "deprecationStatement": null,
+                "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+                "id": 4305,
+                "institution": {
+                    "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                    "homeUrl": "https://www.ebi.ac.uk",
+                    "id": 2,
+                    "location": {
+                        "countryCode": "GB",
+                        "countryName": "United Kingdom"
+                    },
+                    "name": "European Bioinformatics Institute",
+                    "rorId": "https://ror.org/02catss52"
+                },
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "mirId": "MIR:00001097",
+                "name": "MGnify",
+                "official": true,
+                "protectedUrls": false,
+                "providerCode": "ebi",
+                "renderDeprecatedLanding": false,
+                "renderProtectedLanding": false,
+                "resourceHomeUrl": "https://www.ebi.ac.uk/metagenomics",
+                "sampleId": "MGYP000261684433",
+                "urlPattern": "https://www.ebi.ac.uk/metagenomics/proteins/{$id}"
+            }
+        ],
+        "sampleId": "MGYP000261684433",
+        "successor": null
+    },
+    {
         "created": "2019-06-11T14:17:36.594+00:00",
         "deprecated": false,
         "deprecationDate": null,
@@ -30622,6 +30790,62 @@
             }
         ],
         "sampleId": "SRS086444",
+        "successor": null
+    },
+    {
+        "created": "2025-05-06T11:00:21.695+00:00",
+        "deprecated": false,
+        "deprecationDate": null,
+        "deprecationOfflineDate": null,
+        "deprecationStatement": null,
+        "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+        "id": 4304,
+        "infoOnPostmortemAccess": null,
+        "mirId": "MIR:00001096",
+        "modified": "2025-05-06T11:00:21.695+00:00",
+        "name": "MGnify Study",
+        "namespaceEmbeddedInLui": false,
+        "pattern": "^MGYS\\d{8}$",
+        "prefix": "mgnify.study",
+        "renderDeprecatedLanding": false,
+        "resources": [
+            {
+                "authHelpDescription": null,
+                "authHelpUrl": null,
+                "deprecated": false,
+                "deprecationDate": null,
+                "deprecationOfflineDate": null,
+                "deprecationStatement": null,
+                "description": "The free-to-use MGnify platform provides assembly, analysis and archiving of microbiome-derived nucleic acid sequence data from a wide range of biomes, with analysis results providing taxonomic and functional\nprofiles. The platform also includes MGnify Proteins, a database of protein sequences derived from the analysis of metagenomic assemblies, and MGnify Genomes, a resource of biome-specific catalogues of microbial genomes, including extensive functional annotations.",
+                "id": 4355,
+                "institution": {
+                    "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                    "homeUrl": "https://www.ebi.ac.uk",
+                    "id": 2,
+                    "location": {
+                        "countryCode": "GB",
+                        "countryName": "United Kingdom"
+                    },
+                    "name": "European Bioinformatics Institute",
+                    "rorId": "https://ror.org/02catss52"
+                },
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "mirId": "MIR:00001183",
+                "name": "MGnify",
+                "official": true,
+                "protectedUrls": false,
+                "providerCode": "ebi",
+                "renderDeprecatedLanding": false,
+                "renderProtectedLanding": false,
+                "resourceHomeUrl": "https://www.ebi.ac.uk/metagenomics",
+                "sampleId": "MGYS00006794",
+                "urlPattern": "https://www.ebi.ac.uk/metagenomics/studies/{$id}"
+            }
+        ],
+        "sampleId": "MGYS00006794",
         "successor": null
     },
     {
