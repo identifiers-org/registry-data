@@ -53,8 +53,8 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
+            "deprecated": true,
+            "deprecationDate": "2025-05-06T15:41:34.415+00:00",
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
             "description": "VariO at Lund University",
@@ -88,8 +88,8 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
+            "deprecated": true,
+            "deprecationDate": "2025-05-06T15:38:36.540+00:00",
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
             "description": "VariO through OLS",
