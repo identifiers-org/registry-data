@@ -10262,7 +10262,7 @@
                 "renderProtectedLanding": false,
                 "resourceHomeUrl": "https://www.dataone.org",
                 "sampleId": "00030692-0FE1-4A1B-955E-A2E55D659267",
-                "urlPattern": "https://cn.dataone.org/cn/v2/resolve/{{$id}}"
+                "urlPattern": "https://cn.dataone.org/cn/v2/resolve/%7B{$id}%7D"
             }
         ],
         "sampleId": "00030692-0FE1-4A1B-955E-A2E55D659267",
