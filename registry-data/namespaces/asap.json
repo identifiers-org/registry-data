@@ -1,14 +1,14 @@
 {
     "created": "2019-06-11T14:16:44.568+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-05-30T12:37:28.087+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "ASAP (a systematic annotation package for community analysis of genomes) stores bacterial genome sequence and functional characterization data. It includes multiple genome sequences at various stages of analysis, corresponding experimental data and access to collections of related genome resources.",
     "id": 831,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000283",
-    "modified": "2019-06-11T14:16:44.568+00:00",
+    "modified": "2025-05-30T12:38:00.777+00:00",
     "name": "ASAP",
     "namespaceEmbeddedInLui": false,
     "pattern": "^[A-Za-z0-9-]+$",
@@ -46,7 +46,7 @@
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://asap.ahabs.wisc.edu/asap/home.php",
+            "resourceHomeUrl": "https://www.genome.wisc.edu/tools/asap.htm",
             "sampleId": "ABE-0009634",
             "urlPattern": "http://asap.ahabs.wisc.edu/asap/feature_info.php?LocationID=WIS&FeatureID={$id}"
         }

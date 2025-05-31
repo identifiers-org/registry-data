@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:04.514+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-05-30T14:39:31.190+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "DOMMINO is a database of macromolecular interactions that includes the interactions between protein domains, interdomain linkers, N- and C-terminal regions and protein peptides.",
     "id": 1071,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000373",
-    "modified": "2019-06-11T14:17:04.514+00:00",
+    "modified": "2025-05-30T14:39:35.337+00:00",
     "name": "DOMMINO",
     "namespaceEmbeddedInLui": false,
     "pattern": "^[0-9][A-Za-z0-9]{3}$",
     "prefix": "dommino",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

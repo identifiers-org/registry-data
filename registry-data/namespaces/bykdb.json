@@ -8,7 +8,7 @@
     "id": 751,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000253",
-    "modified": "2019-06-11T14:16:38.105+00:00",
+    "modified": "2025-05-30T14:30:47.733+00:00",
     "name": "BYKdb",
     "namespaceEmbeddedInLui": false,
     "pattern": "^[A-Z0-9]+$",
@@ -46,11 +46,11 @@
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://bykdb.ibcp.fr/BYKdb/",
-            "sampleId": "A0A009E7X8",
-            "urlPattern": "https://bykdb.ibcp.fr/data/html/annotated/{$id}.html"
+            "resourceHomeUrl": "https://bykdb.lyon.inserm.fr/BYKdb/BYKdbIndex",
+            "sampleId": "A0A009HB13",
+            "urlPattern": "https://bykdb.lyon.inserm.fr/data/html/annotated/{$id}.html"
         }
     ],
-    "sampleId": "A0A009E7X8",
+    "sampleId": "A0A009HB13",
     "successor": null
 }

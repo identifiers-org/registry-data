@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.dpvweb.net/",
             "sampleId": "100",
-            "urlPattern": "http://www.dpvweb.net/dpv/showdpv.php?dpvno={$id}"
+            "urlPattern": "https://www.dpvweb.net/dpv/showdpv/?dpvno={$id}"
         }
     ],
     "sampleId": "100",

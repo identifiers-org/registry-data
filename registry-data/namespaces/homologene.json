@@ -81,9 +81,9 @@
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://homologene.bio2rdf.org/fct",
+            "resourceHomeUrl": "http://bio2rdf.org",
             "sampleId": "1000",
-            "urlPattern": "http://homologene.bio2rdf.org/describe/?url=http://bio2rdf.org/homologene:{$id}"
+            "urlPattern": "http://bio2rdf.org/describe/?url=http://bio2rdf.org/homologene:{$id}"
         }
     ],
     "sampleId": "1000",

@@ -46,9 +46,9 @@
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.geneontology.org/cgi-bin/references.cgi",
+            "resourceHomeUrl": "http://www.geneontology.org",
             "sampleId": "0000041",
-            "urlPattern": "https://github.com/geneontology/go-site/blob/master/metadata/gorefs/goref-{$id}.md"
+            "urlPattern": "https://geneontology.org/GO_REF/{$id}"
         }
     ],
     "sampleId": "0000041",

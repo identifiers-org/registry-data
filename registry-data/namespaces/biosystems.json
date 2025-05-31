@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:15:58.906+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-05-30T13:59:24.086+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The NCBI BioSystems database centralizes and cross-links existing biological systems databases, increasing their utility and target audience by integrating their pathways and systems into NCBI resources.",
     "id": 318,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000097",
-    "modified": "2019-06-11T14:15:58.906+00:00",
+    "modified": "2025-05-30T14:00:10.791+00:00",
     "name": "BioSystems",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "biosystems",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

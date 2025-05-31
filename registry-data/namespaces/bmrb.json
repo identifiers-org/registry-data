@@ -46,9 +46,9 @@
             "providerCode": "bmrb",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.bmrb.wisc.edu/",
+            "resourceHomeUrl": "https://bmrb.io/",
             "sampleId": "15000",
-            "urlPattern": "http://rest.bmrb.wisc.edu/bmrb/{$id}/html"
+            "urlPattern": "https://bmrb.io/data_library/summary/index.php?bmrbId={$id}"
         }
     ],
     "sampleId": "15000",

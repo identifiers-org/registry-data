@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:24.719+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-05-30T14:50:18.945+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "eggNOG (evolutionary genealogy of genes: Non-supervised Orthologous Groups) is a database of orthologous groups of genes. The orthologous groups are annotated with functional description lines (derived by identifying a common denominator for the genes based on their various annotations), with functional categories (i.e derived from the original COG/KOG categories).",
     "id": 604,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000201",
-    "modified": "2019-06-11T14:16:24.719+00:00",
+    "modified": "2025-05-30T14:50:52.193+00:00",
     "name": "eggNOG",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\w+$",
     "prefix": "eggnog",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

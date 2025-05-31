@@ -46,9 +46,9 @@
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://webprod3.hc-sc.gc.ca/dpd-bdpp/index-eng.jsp",
+            "resourceHomeUrl": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database.html",
             "sampleId": "63250",
-            "urlPattern": "http://webprod3.hc-sc.gc.ca/dpd-bdpp/info.do?lang=eng&code={$id}"
+            "urlPattern": "https://health-products.canada.ca/dpd-bdpp/info?lang=eng&code={$id}"
         }
     ],
     "sampleId": "63250",

@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:15:52.667+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-05-30T15:07:19.950+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "HOVERGEN is a database of homologous vertebrate genes that allows one to select sets of homologous genes among vertebrate species, and to visualize multiple alignments and phylogenetic trees.",
     "id": 252,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000074",
-    "modified": "2019-06-11T14:15:52.667+00:00",
+    "modified": "2025-05-30T15:07:31.674+00:00",
     "name": "HOVERGEN",
     "namespaceEmbeddedInLui": false,
     "pattern": "^HBG\\d+$",
     "prefix": "hovergen",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

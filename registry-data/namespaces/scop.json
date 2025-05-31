@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "SCOP at MRC",
-            "id": 1065,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 1064,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "MRC Laboratory of Molecular Biology, Centre for Protein Engineering, Hills Road, Cambridge",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100470",
-            "name": "SCOP at MRC",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://scop.mrc-lmb.cam.ac.uk/scop/",
-            "sampleId": "47419",
-            "urlPattern": "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?sunid={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "SCOP at Berkeley",
             "id": 1067,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://scop.berkeley.edu/",
             "sampleId": "47419",
             "urlPattern": "http://scop.berkeley.edu/sunid={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2025-05-30T14:04:46.198+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SCOP at MRC",
+            "id": 1065,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1064,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "MRC Laboratory of Molecular Biology, Centre for Protein Engineering, Hills Road, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100470",
+            "name": "SCOP at MRC",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "CURATOR_REVIEW",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://scop.mrc-lmb.cam.ac.uk/scop/",
+            "sampleId": "47419",
+            "urlPattern": "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?sunid={$id}"
         }
     ],
     "sampleId": "47419",

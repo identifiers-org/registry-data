@@ -22,6 +22,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "The National Library of Medicine (NLM), on the campus of the National Institutes of Health in Bethesda, Maryland, has been a center of information innovation since its founding in 1836. The world’s largest biomedical library, NLM maintains and makes available a vast print collection and produces electronic information resources on a wide range of topics that are searched billions of times each year by millions of people around the globe. It also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates an 8,000+ member Network of the National Library of Medicine that promotes and provides access to health information in communities across the United States.",
+            "id": 4404,
+            "institution": {
+                "description": "The National Library of Medicine (NLM), on the campus of the National Institutes of Health in Bethesda, Maryland, has been a center of information innovation since its founding in 1836. The world’s largest biomedical library, NLM maintains and makes available a vast print collection and produces electronic information resources on a wide range of topics that are searched billions of times each year by millions of people around the globe. It also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates an 8,000+ member Network of the National Library of Medicine that promotes and provides access to health information in communities across the United States.",
+                "homeUrl": "https://www.nlm.nih.gov/",
+                "id": 4058,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "United States National Library of Medicine",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00001099",
+            "name": "National Library of Medicine",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "nlm",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.nlm.nih.gov/",
+            "sampleId": "C0021390",
+            "urlPattern": "https://uts.nlm.nih.gov/uts/umls/concept/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2025-05-30T12:46:51.670+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "Unified Medical Language System at LinkedLifeData",
             "id": 1562,
             "institution": {
@@ -41,7 +76,7 @@
             },
             "mirId": "MIR:00100736",
             "name": "Unified Medical Language System at LinkedLifeData",
-            "official": true,
+            "official": false,
             "protectedUrls": false,
             "providerCode": "CURATOR_REVIEW",
             "renderDeprecatedLanding": false,
