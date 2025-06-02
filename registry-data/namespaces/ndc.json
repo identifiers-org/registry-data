@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Bio2RDF",
-            "id": 1240,
-            "institution": {
-                "description": "Bio2RDF is an open-source project that uses Semantic Web technologies to build and provide the largest network of Linked Data for the Life Sciences. Bio2RDF defines a set of simple conventions to create RDF(S) compatible Linked Data from a diverse set of heterogeneously formatted sources obtained from multiple data providers.",
-                "homeUrl": "https://bio2rdf.org",
-                "id": 33,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Bio2RDF.org",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100700",
-            "name": "Bio2RDF",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://ndc.bio2rdf.org/fct",
-            "sampleId": "0002-1975-61",
-            "urlPattern": "http://ndc.bio2rdf.org/describe/?url=http://bio2rdf.org/ndc:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "National Drug Code at Food and Drug Administration",
             "id": 1239,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://www.accessdata.fda.gov/scripts/cder/ndc/",
             "sampleId": "0002-1975-61",
             "urlPattern": "http://www.hipaaspace.com/Medical_Billing/Coding/National.Drug.Codes/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bio2RDF",
+            "id": 1240,
+            "institution": {
+                "description": "Bio2RDF is an open-source project that uses Semantic Web technologies to build and provide the largest network of Linked Data for the Life Sciences. Bio2RDF defines a set of simple conventions to create RDF(S) compatible Linked Data from a diverse set of heterogeneously formatted sources obtained from multiple data providers.",
+                "homeUrl": "https://bio2rdf.org",
+                "id": 33,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Bio2RDF.org",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100700",
+            "name": "Bio2RDF",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://ndc.bio2rdf.org/fct",
+            "sampleId": "0002-1975-61",
+            "urlPattern": "http://ndc.bio2rdf.org/describe/?url=http://bio2rdf.org/ndc:{$id}"
         }
     ],
     "sampleId": "0002-1975-61",

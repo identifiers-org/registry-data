@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Protein Databank through PDBsum",
-            "id": 86,
-            "institution": {
-                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
-                "homeUrl": "https://www.ebi.ac.uk",
-                "id": 2,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "European Bioinformatics Institute",
-                "rorId": "https://ror.org/02catss52"
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100166",
-            "name": "Protein Databank through PDBsum",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "ebi",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ebi.ac.uk/pdbsum/",
-            "sampleId": "2gc4",
-            "urlPattern": "https://www.ebi.ac.uk/pdbsum/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "RCSB PDB",
             "id": 80,
             "institution": {
@@ -84,41 +49,6 @@
             "resourceHomeUrl": "https://www.rcsb.org/",
             "sampleId": "2gc4",
             "urlPattern": "https://www.rcsb.org/structure/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Protein Data Bank Japan (PDBj)",
-            "id": 85,
-            "institution": {
-                "description": "In the genome-to-life process, there are complex networks driven by various molecules including proteins. In order to understand the principle of the network, the technologies that connect and analyze those molecular information are indispensable. Focusing on protein structure science, which is one of the strengths of this institute, we would like to promote cutting-edge protein research by combining technologies for network prediction, verification, design and synthesis. We appreciate your continued support and encouragement. ",
-                "homeUrl": "http://www.protein.osaka-u.ac.jp/en/",
-                "id": 84,
-                "location": {
-                    "countryCode": "JP",
-                    "countryName": "Japan"
-                },
-                "name": "Institute for Protein Research, Osaka University",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "JP",
-                "countryName": "Japan"
-            },
-            "mirId": "MIR:00100165",
-            "name": "Protein Data Bank Japan (PDBj)",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "pdbj",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.pdbj.org/",
-            "sampleId": "2gc4",
-            "urlPattern": "https://pdbj.org/mine/summary/{$id}"
         },
         {
             "authHelpDescription": null,
@@ -162,41 +92,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "The Worldwide PDB (wwPDB) organization manages the PDB archive and ensures that the PDB is freely and publicly available to the global community.",
-            "id": 3061,
-            "institution": {
-                "description": "The Worldwide PDB (wwPDB) organization manages the PDB archive and ensures that the PDB is freely and publicly available to the global community.",
-                "homeUrl": "https://www.wwpdb.org/",
-                "id": 3060,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Worldwide Protein Data Bank",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00001018",
-            "name": "Worldwide Protein Data Bank",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "wwpdb",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.wwpdb.org/",
-            "sampleId": "2g4c",
-            "urlPattern": "https://www.wwpdb.org/pdb?id={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Proteopedia",
             "id": 83,
             "institution": {
@@ -224,6 +119,111 @@
             "resourceHomeUrl": "http://www.proteopedia.org/",
             "sampleId": "2gc4",
             "urlPattern": "http://proteopedia.org/wiki/index.php/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Protein Data Bank Japan (PDBj)",
+            "id": 85,
+            "institution": {
+                "description": "In the genome-to-life process, there are complex networks driven by various molecules including proteins. In order to understand the principle of the network, the technologies that connect and analyze those molecular information are indispensable. Focusing on protein structure science, which is one of the strengths of this institute, we would like to promote cutting-edge protein research by combining technologies for network prediction, verification, design and synthesis. We appreciate your continued support and encouragement. ",
+                "homeUrl": "http://www.protein.osaka-u.ac.jp/en/",
+                "id": 84,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Institute for Protein Research, Osaka University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100165",
+            "name": "Protein Data Bank Japan (PDBj)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "pdbj",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.pdbj.org/",
+            "sampleId": "2gc4",
+            "urlPattern": "https://pdbj.org/mine/summary/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Protein Databank through PDBsum",
+            "id": 86,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100166",
+            "name": "Protein Databank through PDBsum",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/pdbsum/",
+            "sampleId": "2gc4",
+            "urlPattern": "https://www.ebi.ac.uk/pdbsum/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The Worldwide PDB (wwPDB) organization manages the PDB archive and ensures that the PDB is freely and publicly available to the global community.",
+            "id": 3061,
+            "institution": {
+                "description": "The Worldwide PDB (wwPDB) organization manages the PDB archive and ensures that the PDB is freely and publicly available to the global community.",
+                "homeUrl": "https://www.wwpdb.org/",
+                "id": 3060,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Worldwide Protein Data Bank",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00001018",
+            "name": "Worldwide Protein Data Bank",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "wwpdb",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.wwpdb.org/",
+            "sampleId": "2g4c",
+            "urlPattern": "https://www.wwpdb.org/pdb?id={$id}"
         }
     ],
     "sampleId": "2gc4",

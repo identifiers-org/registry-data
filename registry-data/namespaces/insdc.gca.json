@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Genome assembly database NCBI",
-            "id": 1687,
-            "institution": {
-                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
-                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
-                "id": 26,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Center for Biotechnology Information",
-                "rorId": "https://ror.org/02meqm098"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100811",
-            "name": "Genome assembly database NCBI",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "ncbi",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/datasets/genome/",
-            "sampleId": "GCA_000155495.1",
-            "urlPattern": "https://www.ncbi.nlm.nih.gov/datasets/genome/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Genome assembly database through ENA",
             "id": 1686,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ena/browse/genome-assembly-database",
             "sampleId": "GCA_000155495.1",
             "urlPattern": "https://www.ebi.ac.uk/ena/data/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Genome assembly database NCBI",
+            "id": 1687,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100811",
+            "name": "Genome assembly database NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/datasets/genome/",
+            "sampleId": "GCA_000155495.1",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/datasets/genome/{$id}"
         }
     ],
     "sampleId": "GCA_000155495.1",

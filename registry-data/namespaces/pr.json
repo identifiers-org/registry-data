@@ -22,6 +22,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "Protein Ontology at Georgetown",
+            "id": 448,
+            "institution": {
+                "description": "As one of approximately 140 academic health and science centers in the United States, Georgetown University Medical Center seeks to provide, in a synergistic fashion, excellence in education — training physicians, nurses and other health care professionals, as well as biomedical scientists — and cutting-edge interdisciplinary research collaboration, enhancing our basic science and translational biomedical research capacity in order to improve human health. We have identified several areas of focus for our research.  ",
+                "homeUrl": "https://gumc.georgetown.edu",
+                "id": 70,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Georgetown University Medical Center",
+                "rorId": "https://ror.org/00hjz7x27"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100184",
+            "name": "Protein Ontology at Georgetown",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://proconsortium.org/",
+            "sampleId": "000000024",
+            "urlPattern": "https://proconsortium.org/cgi-bin/entry_pro?id=PR:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "Protein Ontology through BioPortal",
             "id": 449,
             "institution": {
@@ -84,41 +119,6 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/pr",
             "sampleId": "000000024",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/pr/terms?obo_id=PR:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Protein Ontology at Georgetown",
-            "id": 448,
-            "institution": {
-                "description": "As one of approximately 140 academic health and science centers in the United States, Georgetown University Medical Center seeks to provide, in a synergistic fashion, excellence in education — training physicians, nurses and other health care professionals, as well as biomedical scientists — and cutting-edge interdisciplinary research collaboration, enhancing our basic science and translational biomedical research capacity in order to improve human health. We have identified several areas of focus for our research.  ",
-                "homeUrl": "https://gumc.georgetown.edu",
-                "id": 70,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Georgetown University Medical Center",
-                "rorId": "https://ror.org/00hjz7x27"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100184",
-            "name": "Protein Ontology at Georgetown",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://proconsortium.org/",
-            "sampleId": "000000024",
-            "urlPattern": "https://proconsortium.org/cgi-bin/entry_pro?id=PR:{$id}"
         }
     ],
     "sampleId": "000000024",

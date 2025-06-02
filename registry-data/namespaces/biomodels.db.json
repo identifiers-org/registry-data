@@ -53,41 +53,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "BioModels through OmicsDI",
-            "id": 40,
-            "institution": {
-                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
-                "homeUrl": "https://www.ebi.ac.uk",
-                "id": 2,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "European Bioinformatics Institute",
-                "rorId": "https://ror.org/02catss52"
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100855",
-            "name": "BioModels through OmicsDI",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "omicsdi",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.omicsdi.org/",
-            "sampleId": "BIOMD0000000048",
-            "urlPattern": "https://www.omicsdi.org/dataset/biomodels/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": true,
             "deprecationDate": "2024-10-28T16:26:09.489+00:00",
             "deprecationOfflineDate": null,
@@ -119,6 +84,41 @@
             "resourceHomeUrl": "http://biomodels.caltech.edu/",
             "sampleId": "BIOMD0000000048",
             "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100107/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioModels through OmicsDI",
+            "id": 40,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100855",
+            "name": "BioModels through OmicsDI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "omicsdi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.omicsdi.org/",
+            "sampleId": "BIOMD0000000048",
+            "urlPattern": "https://www.omicsdi.org/dataset/biomodels/{$id}"
         }
     ],
     "sampleId": "BIOMD0000000048",

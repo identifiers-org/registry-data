@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Scholia is a service that creates visual scholarly profiles for topic, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.",
-            "id": 2454,
-            "institution": {
-                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
-                "homeUrl": "https://www.maastrichtuniversity.nl",
-                "id": 283,
-                "location": {
-                    "countryCode": "NL",
-                    "countryName": "Netherlands"
-                },
-                "name": "Maastricht University",
-                "rorId": "https://ror.org/02jz4aj89"
-            },
-            "location": {
-                "countryCode": "NL",
-                "countryName": "Netherlands"
-            },
-            "mirId": "MIR:00000732",
-            "name": "Scholia",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "scholia",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://scholia.toolforge.org/",
-            "sampleId": "50-00-0",
-            "urlPattern": "https://scholia.toolforge.org/cas/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "CAS Common Chemistry",
             "id": 703,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://commonchemistry.cas.org/",
             "sampleId": "50-00-0",
             "urlPattern": "https://commonchemistry.cas.org/detail?cas_rn={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Scholia is a service that creates visual scholarly profiles for topic, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.",
+            "id": 2454,
+            "institution": {
+                "description": "Maastricht University (UM) is the most international university in the Netherlands and, with 18,000 students and 4,400 employees, is still growing. The university stands out for its innovative education model, international character and multidisciplinary approach to research and education.\nThanks to its high-quality research and study programmes as well as a strong focus on social engagement, UM has quickly built up a solid reputation. Today it is considered one of the best young universities in the world.",
+                "homeUrl": "https://www.maastrichtuniversity.nl",
+                "id": 283,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "Maastricht University",
+                "rorId": "https://ror.org/02jz4aj89"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00000732",
+            "name": "Scholia",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "scholia",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://scholia.toolforge.org/",
+            "sampleId": "50-00-0",
+            "urlPattern": "https://scholia.toolforge.org/cas/{$id}"
         }
     ],
     "sampleId": "50-00-0",

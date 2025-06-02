@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Human Phenotype Ontology through OLS",
-            "id": 1592,
-            "institution": {
-                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
-                "homeUrl": "https://www.ebi.ac.uk",
-                "id": 2,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "European Bioinformatics Institute",
-                "rorId": "https://ror.org/02catss52"
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100754",
-            "name": "Human Phenotype Ontology through OLS",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "ols",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/hp",
-            "sampleId": "0000118",
-            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/hp/terms?obo_id=HP:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Human Phenotype Ontology at Institute for Medical Genetics and Human Genetics",
             "id": 1591,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://hpo.jax.org/",
             "sampleId": "0000118",
             "urlPattern": "https://hpo.jax.org/app/browse/term/HP:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Phenotype Ontology through OLS",
+            "id": 1592,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100754",
+            "name": "Human Phenotype Ontology through OLS",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ols",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/hp",
+            "sampleId": "0000118",
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/hp/terms?obo_id=HP:{$id}"
         }
     ],
     "sampleId": "0000118",

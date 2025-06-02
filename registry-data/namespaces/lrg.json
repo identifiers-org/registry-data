@@ -53,41 +53,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": true,
-            "deprecationDate": "2024-10-31T14:30:08.102+00:00",
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Locus Reference Genomic through Ensembl mirror (US west)",
-            "id": 1084,
-            "institution": {
-                "description": "At EMBL’s European Bioinformatics Institute (EMBL-EBI), we help scientists realise the potential of big data in biology, exploiting complex information to make discoveries that benefit humankind.",
-                "homeUrl": "https://ebi.ac.uk",
-                "id": 1081,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "EnSembl, Sanger Institute and European Bioinformatics Institute, Hinxton, Cambridge",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100630",
-            "name": "Locus Reference Genomic through Ensembl mirror (US west)",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": true,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://uswest.ensembl.org/",
-            "sampleId": "LRG_1",
-            "urlPattern": "http://uswest.ensembl.org/Homo_sapiens/LRG/Summary?lrg={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": false,
             "deprecationDate": null,
             "deprecationOfflineDate": null,
@@ -154,6 +119,41 @@
             "resourceHomeUrl": "http://asia.ensembl.org/",
             "sampleId": "LRG_1",
             "urlPattern": "http://asia.ensembl.org/Homo_sapiens/LRG/Summary?lrg={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-31T14:30:08.102+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Locus Reference Genomic through Ensembl mirror (US west)",
+            "id": 1084,
+            "institution": {
+                "description": "At EMBL’s European Bioinformatics Institute (EMBL-EBI), we help scientists realise the potential of big data in biology, exploiting complex information to make discoveries that benefit humankind.",
+                "homeUrl": "https://ebi.ac.uk",
+                "id": 1081,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "EnSembl, Sanger Institute and European Bioinformatics Institute, Hinxton, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100630",
+            "name": "Locus Reference Genomic through Ensembl mirror (US west)",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": true,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://uswest.ensembl.org/",
+            "sampleId": "LRG_1",
+            "urlPattern": "http://uswest.ensembl.org/Homo_sapiens/LRG/Summary?lrg={$id}"
         },
         {
             "authHelpDescription": null,

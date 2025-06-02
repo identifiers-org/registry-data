@@ -53,41 +53,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Ensembl US East mirror",
-            "id": 11,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 8,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "Sanger Institute and European Bioinformatics Institute, Hinxton, Cambridge",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100562",
-            "name": "Ensembl US East mirror",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://useast.ensembl.org/",
-            "sampleId": "ENSG00000139618",
-            "urlPattern": "http://useast.ensembl.org/id/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": true,
             "deprecationDate": "2024-10-23T16:04:26.849+00:00",
             "deprecationOfflineDate": null,
@@ -119,6 +84,41 @@
             "resourceHomeUrl": "http://uswest.ensembl.org/",
             "sampleId": "ENSG00000139618",
             "urlPattern": "http://uswest.ensembl.org/id/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Ensembl US East mirror",
+            "id": 11,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 8,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Sanger Institute and European Bioinformatics Institute, Hinxton, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100562",
+            "name": "Ensembl US East mirror",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://useast.ensembl.org/",
+            "sampleId": "ENSG00000139618",
+            "urlPattern": "http://useast.ensembl.org/id/{$id}"
         },
         {
             "authHelpDescription": null,

@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Bio2RDF",
-            "id": 656,
-            "institution": {
-                "description": "Bio2RDF is an open-source project that uses Semantic Web technologies to build and provide the largest network of Linked Data for the Life Sciences. Bio2RDF defines a set of simple conventions to create RDF(S) compatible Linked Data from a diverse set of heterogeneously formatted sources obtained from multiple data providers.",
-                "homeUrl": "https://bio2rdf.org",
-                "id": 33,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Bio2RDF.org",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "FR",
-                "countryName": "France"
-            },
-            "mirId": "MIR:00100701",
-            "name": "Bio2RDF",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://bio2rdf.org/",
-            "sampleId": "85163",
-            "urlPattern": "http://bio2rdf.org/orphanet:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Orphanet at Inserm",
             "id": 655,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://www.orpha.net/consor/",
             "sampleId": "85163",
             "urlPattern": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=EN&Expert={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Bio2RDF",
+            "id": 656,
+            "institution": {
+                "description": "Bio2RDF is an open-source project that uses Semantic Web technologies to build and provide the largest network of Linked Data for the Life Sciences. Bio2RDF defines a set of simple conventions to create RDF(S) compatible Linked Data from a diverse set of heterogeneously formatted sources obtained from multiple data providers.",
+                "homeUrl": "https://bio2rdf.org",
+                "id": 33,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Bio2RDF.org",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100701",
+            "name": "Bio2RDF",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bio2rdf.org/",
+            "sampleId": "85163",
+            "urlPattern": "http://bio2rdf.org/orphanet:{$id}"
         }
     ],
     "sampleId": "85163",

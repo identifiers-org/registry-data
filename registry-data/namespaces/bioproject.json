@@ -18,6 +18,41 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-30T16:37:42.149+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "BioProject at DNA Data Bank of Japan",
+            "id": 1001,
+            "institution": {
+                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
+                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
+                "id": 121,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100444",
+            "name": "BioProject at DNA Data Bank of Japan",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://trace.ddbj.nig.ac.jp/bioproject/",
+            "sampleId": "PRJDB3",
+            "urlPattern": "http://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
             "deprecated": false,
             "deprecationDate": null,
             "deprecationOfflineDate": null,
@@ -84,41 +119,6 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ena/",
             "sampleId": "PRJDB3",
             "urlPattern": "https://www.ebi.ac.uk/ena/browser/view/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": true,
-            "deprecationDate": "2024-10-30T16:37:42.149+00:00",
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "BioProject at DNA Data Bank of Japan",
-            "id": 1001,
-            "institution": {
-                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
-                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
-                "id": 121,
-                "location": {
-                    "countryCode": "JP",
-                    "countryName": "Japan"
-                },
-                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "JP",
-                "countryName": "Japan"
-            },
-            "mirId": "MIR:00100444",
-            "name": "BioProject at DNA Data Bank of Japan",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://trace.ddbj.nig.ac.jp/bioproject/",
-            "sampleId": "PRJDB3",
-            "urlPattern": "http://trace.ddbj.nig.ac.jp/BPSearch/bioproject?acc={$id}"
         }
     ],
     "sampleId": "PRJDB3",

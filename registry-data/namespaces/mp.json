@@ -22,33 +22,33 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Mammalian Phenotype Ontology through BioPortal",
-            "id": 1617,
+            "description": "Mammalian Phenotype Ontology at The Jackson Lab",
+            "id": 1615,
             "institution": {
-                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
-                "homeUrl": "https://ncbo.bioontology.org/",
-                "id": 5,
+                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
+                "homeUrl": "https://www.jax.org/#",
+                "id": 91,
                 "location": {
                     "countryCode": "US",
                     "countryName": "United States"
                 },
-                "name": "National Center for Biomedical Ontology, Stanford",
-                "rorId": null
+                "name": "The Jackson Laboratory",
+                "rorId": "https://ror.org/021sy4w91"
             },
             "location": {
                 "countryCode": "US",
                 "countryName": "United States"
             },
-            "mirId": "MIR:00100776",
-            "name": "Mammalian Phenotype Ontology through BioPortal",
+            "mirId": "MIR:00100774",
+            "name": "Mammalian Phenotype Ontology at The Jackson Lab",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "bptl",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://bioportal.bioontology.org/ontologies/MP",
+            "resourceHomeUrl": "http://www.informatics.jax.org/",
             "sampleId": "0005452",
-            "urlPattern": "https://bioportal.bioontology.org/ontologies/MP/MP:{$id}"
+            "urlPattern": "http://www.informatics.jax.org/searches/Phat.cgi?id=MP:{$id}"
         },
         {
             "authHelpDescription": null,
@@ -92,33 +92,33 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Mammalian Phenotype Ontology at The Jackson Lab",
-            "id": 1615,
+            "description": "Mammalian Phenotype Ontology through BioPortal",
+            "id": 1617,
             "institution": {
-                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
-                "homeUrl": "https://www.jax.org/#",
-                "id": 91,
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
                 "location": {
                     "countryCode": "US",
                     "countryName": "United States"
                 },
-                "name": "The Jackson Laboratory",
-                "rorId": "https://ror.org/021sy4w91"
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
             },
             "location": {
                 "countryCode": "US",
                 "countryName": "United States"
             },
-            "mirId": "MIR:00100774",
-            "name": "Mammalian Phenotype Ontology at The Jackson Lab",
+            "mirId": "MIR:00100776",
+            "name": "Mammalian Phenotype Ontology through BioPortal",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "",
+            "providerCode": "bptl",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.informatics.jax.org/",
+            "resourceHomeUrl": "https://bioportal.bioontology.org/ontologies/MP",
             "sampleId": "0005452",
-            "urlPattern": "http://www.informatics.jax.org/searches/Phat.cgi?id=MP:{$id}"
+            "urlPattern": "https://bioportal.bioontology.org/ontologies/MP/MP:{$id}"
         }
     ],
     "sampleId": "0005452",

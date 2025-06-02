@@ -57,41 +57,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Human Disease Ontology at Northwestern University",
-            "id": 693,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 692,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "University of Maryland (Maryland) and Northwestern University (Illinois)",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100297",
-            "name": "Human Disease Ontology at Northwestern University",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "hdo",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://disease-ontology.org/",
-            "sampleId": "11337",
-            "urlPattern": "http://disease-ontology.org/term/DOID:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Human Disease Ontology through OLS",
             "id": 691,
             "institution": {
@@ -119,6 +84,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/doid",
             "sampleId": "11337",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/doid/terms?obo_id=DOID:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Disease Ontology at Northwestern University",
+            "id": 693,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 692,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Maryland (Maryland) and Northwestern University (Illinois)",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100297",
+            "name": "Human Disease Ontology at Northwestern University",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "hdo",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://disease-ontology.org/",
+            "sampleId": "11337",
+            "urlPattern": "http://disease-ontology.org/term/DOID:{$id}"
         }
     ],
     "sampleId": "11337",

@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "MassBank in Europe",
-            "id": 804,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 803,
-                "location": {
-                    "countryCode": "DE",
-                    "countryName": "Germany"
-                },
-                "name": "NORMAN Network and The MassBank Consortium",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "DE",
-                "countryName": "Germany"
-            },
-            "mirId": "MIR:00100666",
-            "name": "MassBank in Europe",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "massbankeu",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://massbank.eu/",
-            "sampleId": "PB000166",
-            "urlPattern": "https://massbank.eu/MassBank/RecordDisplay?id={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "MassBank in Japan",
             "id": 802,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://www.massbank.jp",
             "sampleId": "PB000166",
             "urlPattern": "https://massbank.jp/RecordDisplay?id={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MassBank in Europe",
+            "id": 804,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 803,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "NORMAN Network and The MassBank Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100666",
+            "name": "MassBank in Europe",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "massbankeu",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://massbank.eu/",
+            "sampleId": "PB000166",
+            "urlPattern": "https://massbank.eu/MassBank/RecordDisplay?id={$id}"
         }
     ],
     "sampleId": "MSBNK-IPB_Halle-PB000166",

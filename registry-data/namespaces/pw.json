@@ -22,6 +22,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "Pathway Ontology at Rat Genome Database",
+            "id": 717,
+            "institution": {
+                "description": "We are a distinguished leader and innovator in the education and development of the next generation of physicians, scientists, pharmacists and health professionals; we discover and translate new knowledge in the biomedical and health sciences; we provide cutting-edge, collaborative patient care of the highest quality; and we improve the health of the communities we serve.",
+                "homeUrl": "http://www.mcw.edu/MCW",
+                "id": 176,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Medical College of Wisconsin",
+                "rorId": "https://ror.org/00qqv6244"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100309",
+            "name": "Pathway Ontology at Rat Genome Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://rgd.mcw.edu/rgdweb/ontology/search.html",
+            "sampleId": "0000208",
+            "urlPattern": "http://rgd.mcw.edu/rgdweb/ontology/annot.html?acc_id=PW:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "Pathway Ontology through OLS",
             "id": 718,
             "institution": {
@@ -84,41 +119,6 @@
             "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/PW",
             "sampleId": "0000208",
             "urlPattern": "http://purl.bioontology.org/ontology/PW/PW:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Pathway Ontology at Rat Genome Database",
-            "id": 717,
-            "institution": {
-                "description": "We are a distinguished leader and innovator in the education and development of the next generation of physicians, scientists, pharmacists and health professionals; we discover and translate new knowledge in the biomedical and health sciences; we provide cutting-edge, collaborative patient care of the highest quality; and we improve the health of the communities we serve.",
-                "homeUrl": "http://www.mcw.edu/MCW",
-                "id": 176,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Medical College of Wisconsin",
-                "rorId": "https://ror.org/00qqv6244"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100309",
-            "name": "Pathway Ontology at Rat Genome Database",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://rgd.mcw.edu/rgdweb/ontology/search.html",
-            "sampleId": "0000208",
-            "urlPattern": "http://rgd.mcw.edu/rgdweb/ontology/annot.html?acc_id=PW:{$id}"
         }
     ],
     "sampleId": "0000208",

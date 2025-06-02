@@ -22,6 +22,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "Plant Environment Ontology through Gramene",
+            "id": 1463,
+            "institution": {
+                "description": "Founded in 1890, Cold Spring Harbor Laboratory has shaped contemporary biomedical research and education with programs in cancer, neuroscience, plant biology and quantitative biology. Home to eight Nobel Prize winners, the private, not-for-profit Laboratory employs 1,000 people including 600 scientists, students and technicians. The Meetings & Courses Program hosts more than 12,000 scientists from around the world each year on its campuses in Long Island and in Suzhou, China. The Laboratory’s education arm also includes an academic publishing house, a graduate school and programs for middle, high school, and undergraduate students and teachers.",
+                "homeUrl": "https://www.cshl.edu/",
+                "id": 131,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cold Spring Harbor Laboratory",
+                "rorId": "https://ror.org/02qz8b764"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100667",
+            "name": "Plant Environment Ontology through Gramene",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://archive.gramene.org/db/ontology/search_term?id=EO:0007359",
+            "sampleId": "0007404",
+            "urlPattern": "http://archive.gramene.org/db/ontology/search?query=EO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "Plant Environment Ontology through BioPortal",
             "id": 1464,
             "institution": {
@@ -84,41 +119,6 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols/ontologies/eo",
             "sampleId": "0007404",
             "urlPattern": "https://www.ebi.ac.uk/ols/ontologies/eo/terms?obo_id=EO:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Plant Environment Ontology through Gramene",
-            "id": 1463,
-            "institution": {
-                "description": "Founded in 1890, Cold Spring Harbor Laboratory has shaped contemporary biomedical research and education with programs in cancer, neuroscience, plant biology and quantitative biology. Home to eight Nobel Prize winners, the private, not-for-profit Laboratory employs 1,000 people including 600 scientists, students and technicians. The Meetings & Courses Program hosts more than 12,000 scientists from around the world each year on its campuses in Long Island and in Suzhou, China. The Laboratory’s education arm also includes an academic publishing house, a graduate school and programs for middle, high school, and undergraduate students and teachers.",
-                "homeUrl": "https://www.cshl.edu/",
-                "id": 131,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Cold Spring Harbor Laboratory",
-                "rorId": "https://ror.org/02qz8b764"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100667",
-            "name": "Plant Environment Ontology through Gramene",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://archive.gramene.org/db/ontology/search_term?id=EO:0007359",
-            "sampleId": "0007404",
-            "urlPattern": "http://archive.gramene.org/db/ontology/search?query=EO:{$id}"
         }
     ],
     "sampleId": "0007404",

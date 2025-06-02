@@ -54,41 +54,6 @@
             "authHelpDescription": null,
             "authHelpUrl": null,
             "deprecated": true,
-            "deprecationDate": "2024-11-26T09:35:24.015+00:00",
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "ChEMBL target RDF through EBI RDF Platform",
-            "id": 289,
-            "institution": {
-                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
-                "homeUrl": "https://www.ebi.ac.uk",
-                "id": 2,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "European Bioinformatics Institute",
-                "rorId": "https://ror.org/02catss52"
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100743",
-            "name": "ChEMBL target RDF through EBI RDF Platform",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://rdf.ebi.ac.uk/resource/chembl/",
-            "sampleId": "CHEMBL3467",
-            "urlPattern": "https://rdf.ebi.ac.uk/resource/chembl/target/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": true,
             "deprecationDate": "2024-11-26T09:35:25.838+00:00",
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
@@ -119,6 +84,41 @@
             "resourceHomeUrl": "https://github.com/egonw/chembl.rdf",
             "sampleId": "CHEMBL3467",
             "urlPattern": "http://linkedchemistry.info/chembl/chemblid/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-11-26T09:35:24.015+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ChEMBL target RDF through EBI RDF Platform",
+            "id": 289,
+            "institution": {
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100743",
+            "name": "ChEMBL target RDF through EBI RDF Platform",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://rdf.ebi.ac.uk/resource/chembl/",
+            "sampleId": "CHEMBL3467",
+            "urlPattern": "https://rdf.ebi.ac.uk/resource/chembl/target/{$id}"
         }
     ],
     "sampleId": "CHEMBL3467",

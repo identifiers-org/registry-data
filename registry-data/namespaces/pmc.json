@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Europe PMC",
-            "id": 465,
-            "institution": {
-                "description": "Europe PMC provides comprehensive access to life sciences literature from trusted sources. It's available to anyone, anywhere for free. With Europe PMC you can search and read 42.1 million publications, preprints and other documents enriched with links to supporting data, reviews, protocols, and other relevant resources. ",
-                "homeUrl": "https://europepmc.org/",
-                "id": 61,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "Europe PubMed Central partners",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100498",
-            "name": "Europe PMC",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "epmc",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://europepmc.org/",
-            "sampleId": "PMC3084216",
-            "urlPattern": "http://europepmc.org/articles/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "PubMed Central",
             "id": 464,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/pmc/",
             "sampleId": "PMC3084216",
             "urlPattern": "https://www.ncbi.nlm.nih.gov/pmc/articles/{$id}/?tool=pubmed"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Europe PMC",
+            "id": 465,
+            "institution": {
+                "description": "Europe PMC provides comprehensive access to life sciences literature from trusted sources. It's available to anyone, anywhere for free. With Europe PMC you can search and read 42.1 million publications, preprints and other documents enriched with links to supporting data, reviews, protocols, and other relevant resources. ",
+                "homeUrl": "https://europepmc.org/",
+                "id": 61,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Europe PubMed Central partners",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100498",
+            "name": "Europe PMC",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "epmc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://europepmc.org/",
+            "sampleId": "PMC3084216",
+            "urlPattern": "http://europepmc.org/articles/{$id}"
         }
     ],
     "sampleId": "PMC3084216",

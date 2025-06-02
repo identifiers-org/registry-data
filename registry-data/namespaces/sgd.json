@@ -22,76 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "SGD through BioEntity Link",
-            "id": 102,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 101,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "InSilico Inc, in Eugene, Oregon",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100892",
-            "name": "SGD through BioEntity Link",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "bioentitylink",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://bioentity.link/",
-            "sampleId": "S000003909",
-            "urlPattern": "https://bioentity.link/#/lexicon/public/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "SGD through the Alliance of Genome Resources",
-            "id": 104,
-            "institution": {
-                "description": "The primary mission of the Alliance of Genome Resources (the Alliance) is to develop and maintain sustainable genome information resources that facilitate the use of diverse model organisms in understanding the genetic and genomic basis of human biology, health and disease.",
-                "homeUrl": "https://www.alliancegenome.org",
-                "id": 103,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Alliance of Genome Resources",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100906",
-            "name": "SGD through the Alliance of Genome Resources",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "agr",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.alliancegenome.org",
-            "sampleId": "S000003909",
-            "urlPattern": "https://www.alliancegenome.org/gene/SGD:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "SGD",
             "id": 99,
             "institution": {
@@ -154,6 +84,76 @@
             "resourceHomeUrl": "http://bio2rdf.org",
             "sampleId": "S000003909",
             "urlPattern": "http://bio2rdf.org/sgd:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SGD through BioEntity Link",
+            "id": 102,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 101,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "InSilico Inc, in Eugene, Oregon",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100892",
+            "name": "SGD through BioEntity Link",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bioentitylink",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioentity.link/",
+            "sampleId": "S000003909",
+            "urlPattern": "https://bioentity.link/#/lexicon/public/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SGD through the Alliance of Genome Resources",
+            "id": 104,
+            "institution": {
+                "description": "The primary mission of the Alliance of Genome Resources (the Alliance) is to develop and maintain sustainable genome information resources that facilitate the use of diverse model organisms in understanding the genetic and genomic basis of human biology, health and disease.",
+                "homeUrl": "https://www.alliancegenome.org",
+                "id": 103,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Alliance of Genome Resources",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100906",
+            "name": "SGD through the Alliance of Genome Resources",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "agr",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.alliancegenome.org",
+            "sampleId": "S000003909",
+            "urlPattern": "https://www.alliancegenome.org/gene/SGD:{$id}"
         }
     ],
     "sampleId": "S000003909",

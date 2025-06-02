@@ -18,41 +18,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "ExploreEnz at Trinity College",
-            "id": 20,
-            "institution": {
-                "description": "Our university is pulsing with people, energy and ideas. Discover more about our community of staff, students and alumni, and how one of the world’s great cities is home to one of the world’s great universities – Trinity College Dublin. #ThinkTrinity",
-                "homeUrl": "https://www.tcd.ie/",
-                "id": 19,
-                "location": {
-                    "countryCode": "IE",
-                    "countryName": "Ireland"
-                },
-                "name": "Trinity College, Dublin",
-                "rorId": "https://ror.org/02tyrky19"
-            },
-            "location": {
-                "countryCode": "IE",
-                "countryName": "Ireland"
-            },
-            "mirId": "MIR:00100308",
-            "name": "ExploreEnz at Trinity College",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "expenz",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.enzyme-database.org/",
-            "sampleId": "1.1.1.1",
-            "urlPattern": "http://www.enzyme-database.org/query.php?ec={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": true,
             "deprecationDate": "2024-10-23T16:17:10.049+00:00",
             "deprecationOfflineDate": null,
@@ -88,37 +53,37 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": true,
-            "deprecationDate": "2024-10-30T14:01:45.574+00:00",
+            "deprecated": false,
+            "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Enzyme Portal through EMBL-EBI",
-            "id": 22,
+            "description": "KEGG Ligand Database for Enzyme Nomenclature",
+            "id": 16,
             "institution": {
-                "description": "Enzyme Portal integrates publicly available information about enzymes, such as reaction mechanism, small-molecule chemistry, biochemical pathways and drug compounds.",
-                "homeUrl": "https://www.ebi.ac.uk/enzymeportal/",
-                "id": 21,
+                "description": "The Bioinformatics Center aims at developing new informatics technologies for deciphering the genome, especially from the viewpoint of how life operates as a system, and promoting both basic and applied research areas in bioinformatics. The Center consists of three research laboratories, named Chemical Life Science, Mathematical Bioinformatics, and Bio-Knowledge Engineering, which focus on scientific discovery, algorithms, and data mining, respectively. ",
+                "homeUrl": "https://www.bic.kyoto-u.ac.jp/",
+                "id": 15,
                 "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
+                    "countryCode": "JP",
+                    "countryName": "Japan"
                 },
-                "name": "Enzyme Portal at European Bioinformatics Institute, Hinxton, Cambridge",
+                "name": "Kyoto University Bioinformatics Center",
                 "rorId": null
             },
             "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
+                "countryCode": "JP",
+                "countryName": "Japan"
             },
-            "mirId": "MIR:00100835",
-            "name": "Enzyme Portal through EMBL-EBI",
+            "mirId": "MIR:00100002",
+            "name": "KEGG Ligand Database for Enzyme Nomenclature",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "enzymeportal",
-            "renderDeprecatedLanding": true,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ebi.ac.uk/enzymeportal",
+            "resourceHomeUrl": "https://www.genome.jp/dbget-bin/www_bfind?enzyme",
             "sampleId": "1.1.1.1",
-            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100835/{$id}"
+            "urlPattern": "https://www.genome.jp/dbget-bin/www_bget?ec:{$id}"
         },
         {
             "authHelpDescription": null,
@@ -162,33 +127,68 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "KEGG Ligand Database for Enzyme Nomenclature",
-            "id": 16,
+            "description": "ExploreEnz at Trinity College",
+            "id": 20,
             "institution": {
-                "description": "The Bioinformatics Center aims at developing new informatics technologies for deciphering the genome, especially from the viewpoint of how life operates as a system, and promoting both basic and applied research areas in bioinformatics. The Center consists of three research laboratories, named Chemical Life Science, Mathematical Bioinformatics, and Bio-Knowledge Engineering, which focus on scientific discovery, algorithms, and data mining, respectively. ",
-                "homeUrl": "https://www.bic.kyoto-u.ac.jp/",
-                "id": 15,
+                "description": "Our university is pulsing with people, energy and ideas. Discover more about our community of staff, students and alumni, and how one of the world’s great cities is home to one of the world’s great universities – Trinity College Dublin. #ThinkTrinity",
+                "homeUrl": "https://www.tcd.ie/",
+                "id": 19,
                 "location": {
-                    "countryCode": "JP",
-                    "countryName": "Japan"
+                    "countryCode": "IE",
+                    "countryName": "Ireland"
                 },
-                "name": "Kyoto University Bioinformatics Center",
+                "name": "Trinity College, Dublin",
+                "rorId": "https://ror.org/02tyrky19"
+            },
+            "location": {
+                "countryCode": "IE",
+                "countryName": "Ireland"
+            },
+            "mirId": "MIR:00100308",
+            "name": "ExploreEnz at Trinity College",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "expenz",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.enzyme-database.org/",
+            "sampleId": "1.1.1.1",
+            "urlPattern": "http://www.enzyme-database.org/query.php?ec={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2024-10-30T14:01:45.574+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Enzyme Portal through EMBL-EBI",
+            "id": 22,
+            "institution": {
+                "description": "Enzyme Portal integrates publicly available information about enzymes, such as reaction mechanism, small-molecule chemistry, biochemical pathways and drug compounds.",
+                "homeUrl": "https://www.ebi.ac.uk/enzymeportal/",
+                "id": 21,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Enzyme Portal at European Bioinformatics Institute, Hinxton, Cambridge",
                 "rorId": null
             },
             "location": {
-                "countryCode": "JP",
-                "countryName": "Japan"
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
             },
-            "mirId": "MIR:00100002",
-            "name": "KEGG Ligand Database for Enzyme Nomenclature",
+            "mirId": "MIR:00100835",
+            "name": "Enzyme Portal through EMBL-EBI",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
+            "providerCode": "enzymeportal",
+            "renderDeprecatedLanding": true,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.genome.jp/dbget-bin/www_bfind?enzyme",
+            "resourceHomeUrl": "https://www.ebi.ac.uk/enzymeportal",
             "sampleId": "1.1.1.1",
-            "urlPattern": "https://www.genome.jp/dbget-bin/www_bget?ec:{$id}"
+            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100835/{$id}"
         }
     ],
     "sampleId": "1.1.1.1",

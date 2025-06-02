@@ -22,6 +22,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "OBI through Ontobee",
+            "id": 404,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 403,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Michigan Medical School (MI), awrence Berkeley National Laboratory (CA) and Science Commons (MA)",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100162",
+            "name": "OBI through Ontobee",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ontobee.org/",
+            "sampleId": "OBI_0000070",
+            "urlPattern": "http://purl.obolibrary.org/obo/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "Ontology for Biomedical Investigations through Bioportal",
             "id": 405,
             "institution": {
@@ -84,41 +119,6 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/obi",
             "sampleId": "OBI_0000070",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/obi/terms?short_form={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "OBI through Ontobee",
-            "id": 404,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 403,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "University of Michigan Medical School (MI), awrence Berkeley National Laboratory (CA) and Science Commons (MA)",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100162",
-            "name": "OBI through Ontobee",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.ontobee.org/",
-            "sampleId": "OBI_0000070",
-            "urlPattern": "http://purl.obolibrary.org/obo/{$id}"
         }
     ],
     "sampleId": "OBI_0000070",

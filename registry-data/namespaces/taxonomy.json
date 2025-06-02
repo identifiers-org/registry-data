@@ -57,6 +57,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "Taxonomy through UniProt PURL",
+            "id": 30,
+            "institution": {
+                "description": "The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.",
+                "homeUrl": "https://www.uniprot.org",
+                "id": 24,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "UniProt Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100019",
+            "name": "Taxonomy through UniProt PURL",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.uniprot.org/taxonomy/",
+            "sampleId": "9606",
+            "urlPattern": "https://purl.uniprot.org/taxonomy/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "European Nucleotide Archive (ENA)",
             "id": 31,
             "institution": {
@@ -127,41 +162,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "NCBI Taxonomy through OLS",
-            "id": 35,
-            "institution": {
-                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
-                "homeUrl": "https://www.ebi.ac.uk",
-                "id": 2,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "European Bioinformatics Institute",
-                "rorId": "https://ror.org/02catss52"
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100770",
-            "name": "NCBI Taxonomy through OLS",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "ols",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/ncbitaxon/",
-            "sampleId": "9606",
-            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/ncbitaxon/terms?short_form=NCBITaxon_{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Bio2RDF",
             "id": 34,
             "institution": {
@@ -197,33 +197,33 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Taxonomy through UniProt PURL",
-            "id": 30,
+            "description": "NCBI Taxonomy through OLS",
+            "id": 35,
             "institution": {
-                "description": "The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.",
-                "homeUrl": "https://www.uniprot.org",
-                "id": 24,
+                "description": "At EMBL-EBI, we make the world’s public biological data freely available to the scientific community via a range of services and tools, perform basic research and provide professional training in bioinformatics. \nWe are part of the European Molecular Biology Laboratory (EMBL), an international, innovative and interdisciplinary research organisation funded by 26 member states and two associate member states.",
+                "homeUrl": "https://www.ebi.ac.uk",
+                "id": 2,
                 "location": {
                     "countryCode": "GB",
                     "countryName": "United Kingdom"
                 },
-                "name": "UniProt Consortium",
-                "rorId": null
+                "name": "European Bioinformatics Institute",
+                "rorId": "https://ror.org/02catss52"
             },
             "location": {
-                "countryCode": "US",
-                "countryName": "United States"
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
             },
-            "mirId": "MIR:00100019",
-            "name": "Taxonomy through UniProt PURL",
+            "mirId": "MIR:00100770",
+            "name": "NCBI Taxonomy through OLS",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "",
+            "providerCode": "ols",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.uniprot.org/taxonomy/",
+            "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/ncbitaxon/",
             "sampleId": "9606",
-            "urlPattern": "https://purl.uniprot.org/taxonomy/{$id}"
+            "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/ncbitaxon/terms?short_form=NCBITaxon_{$id}"
         }
     ],
     "sampleId": "9606",

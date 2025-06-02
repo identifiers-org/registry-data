@@ -22,6 +22,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "Plant Ontology through Amigo",
+            "id": 897,
+            "institution": {
+                "description": "Founded in 1890, Cold Spring Harbor Laboratory has shaped contemporary biomedical research and education with programs in cancer, neuroscience, plant biology and quantitative biology. Home to eight Nobel Prize winners, the private, not-for-profit Laboratory employs 1,000 people including 600 scientists, students and technicians. The Meetings & Courses Program hosts more than 12,000 scientists from around the world each year on its campuses in Long Island and in Suzhou, China. The Laboratory’s education arm also includes an academic publishing house, a graduate school and programs for middle, high school, and undergraduate students and teachers.",
+                "homeUrl": "https://www.cshl.edu/",
+                "id": 131,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Cold Spring Harbor Laboratory",
+                "rorId": "https://ror.org/02qz8b764"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100389",
+            "name": "Plant Ontology through Amigo",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "amigo",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.plantontology.org/",
+            "sampleId": "0009089",
+            "urlPattern": "http://www.plantontology.org/amigo/go.cgi?view=details&query=PO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "Plant Ontology through BioPortal",
             "id": 898,
             "institution": {
@@ -84,41 +119,6 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/po",
             "sampleId": "0009089",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/po/terms?obo_id=PO:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Plant Ontology through Amigo",
-            "id": 897,
-            "institution": {
-                "description": "Founded in 1890, Cold Spring Harbor Laboratory has shaped contemporary biomedical research and education with programs in cancer, neuroscience, plant biology and quantitative biology. Home to eight Nobel Prize winners, the private, not-for-profit Laboratory employs 1,000 people including 600 scientists, students and technicians. The Meetings & Courses Program hosts more than 12,000 scientists from around the world each year on its campuses in Long Island and in Suzhou, China. The Laboratory’s education arm also includes an academic publishing house, a graduate school and programs for middle, high school, and undergraduate students and teachers.",
-                "homeUrl": "https://www.cshl.edu/",
-                "id": 131,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Cold Spring Harbor Laboratory",
-                "rorId": "https://ror.org/02qz8b764"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100389",
-            "name": "Plant Ontology through Amigo",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "amigo",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.plantontology.org/",
-            "sampleId": "0009089",
-            "urlPattern": "http://www.plantontology.org/amigo/go.cgi?view=details&query=PO:{$id}"
         }
     ],
     "sampleId": "0009089",

@@ -18,41 +18,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "SCOP at Berkeley",
-            "id": 1067,
-            "institution": {
-                "description": "From a group of academic pioneers in 1868 to the Free Speech Movement in 1964, Berkeley is a place where the brightest minds from across the globe come together to explore, ask questions and improve the world.",
-                "homeUrl": "https://www.berkeley.edu/",
-                "id": 1066,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "University of California, Berkeley",
-                "rorId": "https://ror.org/01an7q238"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100471",
-            "name": "SCOP at Berkeley",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://scop.berkeley.edu/",
-            "sampleId": "47419",
-            "urlPattern": "http://scop.berkeley.edu/sunid={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": true,
             "deprecationDate": "2025-05-30T14:04:46.198+00:00",
             "deprecationOfflineDate": null,
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://scop.mrc-lmb.cam.ac.uk/scop/",
             "sampleId": "47419",
             "urlPattern": "http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?sunid={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "SCOP at Berkeley",
+            "id": 1067,
+            "institution": {
+                "description": "From a group of academic pioneers in 1868 to the Free Speech Movement in 1964, Berkeley is a place where the brightest minds from across the globe come together to explore, ask questions and improve the world.",
+                "homeUrl": "https://www.berkeley.edu/",
+                "id": 1066,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of California, Berkeley",
+                "rorId": "https://ror.org/01an7q238"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100471",
+            "name": "SCOP at Berkeley",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://scop.berkeley.edu/",
+            "sampleId": "47419",
+            "urlPattern": "http://scop.berkeley.edu/sunid={$id}"
         }
     ],
     "sampleId": "47419",

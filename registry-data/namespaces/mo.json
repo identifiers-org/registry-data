@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "MGED Ontology at SourceForge",
-            "id": 885,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 884,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "(Ontology Working Group), European Bioinformatics Institute, Hinxton, Cambridge",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100568",
-            "name": "MGED Ontology at SourceForge",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "ebi",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://mged.sourceforge.net/ontologies/MGEDontology.php",
-            "sampleId": "ArrayGroup",
-            "urlPattern": "https://mged.sourceforge.net/ontologies/MGEDontology.php#{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "MGED Ontology at BioPortal",
             "id": 883,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://bioportal.bioontology.org/",
             "sampleId": "ArrayGroup",
             "urlPattern": "http://purl.bioontology.org/ontology/MO/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MGED Ontology at SourceForge",
+            "id": 885,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 884,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "(Ontology Working Group), European Bioinformatics Institute, Hinxton, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100568",
+            "name": "MGED Ontology at SourceForge",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ebi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://mged.sourceforge.net/ontologies/MGEDontology.php",
+            "sampleId": "ArrayGroup",
+            "urlPattern": "https://mged.sourceforge.net/ontologies/MGEDontology.php#{$id}"
         }
     ],
     "sampleId": "ArrayGroup",

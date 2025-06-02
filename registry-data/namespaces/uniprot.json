@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "UniProt through NCBI",
-            "id": 27,
-            "institution": {
-                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
-                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
-                "id": 26,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Center for Biotechnology Information",
-                "rorId": "https://ror.org/02meqm098"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100330",
-            "name": "UniProt through NCBI",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "ncbi",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/protein/",
-            "sampleId": "P0DP23",
-            "urlPattern": "https://www.ncbi.nlm.nih.gov/protein/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Universal Protein Resource using Persistent URL system",
             "id": 25,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.uniprot.org/",
             "sampleId": "P0DP23",
             "urlPattern": "http://purl.uniprot.org/uniprot/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UniProt through NCBI",
+            "id": 27,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100330",
+            "name": "UniProt through NCBI",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ncbi",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/protein/",
+            "sampleId": "P0DP23",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/protein/{$id}"
         }
     ],
     "sampleId": "P0DP23",

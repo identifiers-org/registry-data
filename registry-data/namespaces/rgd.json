@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "RGD through the Alliance of Genome Resources",
-            "id": 178,
-            "institution": {
-                "description": "The primary mission of the Alliance of Genome Resources (the Alliance) is to develop and maintain sustainable genome information resources that facilitate the use of diverse model organisms in understanding the genetic and genomic basis of human biology, health and disease.",
-                "homeUrl": "https://www.alliancegenome.org",
-                "id": 103,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Alliance of Genome Resources",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100905",
-            "name": "RGD through the Alliance of Genome Resources",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "agr",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.alliancegenome.org",
-            "sampleId": "2018",
-            "urlPattern": "https://www.alliancegenome.org/gene/RGD:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Rat Genome Database",
             "id": 177,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://rgd.mcw.edu/",
             "sampleId": "2018",
             "urlPattern": "http://rgd.mcw.edu/rgdweb/report/gene/main.html?id={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "RGD through the Alliance of Genome Resources",
+            "id": 178,
+            "institution": {
+                "description": "The primary mission of the Alliance of Genome Resources (the Alliance) is to develop and maintain sustainable genome information resources that facilitate the use of diverse model organisms in understanding the genetic and genomic basis of human biology, health and disease.",
+                "homeUrl": "https://www.alliancegenome.org",
+                "id": 103,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Alliance of Genome Resources",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100905",
+            "name": "RGD through the Alliance of Genome Resources",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "agr",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.alliancegenome.org",
+            "sampleId": "2018",
+            "urlPattern": "https://www.alliancegenome.org/gene/RGD:{$id}"
         }
     ],
     "sampleId": "2018",

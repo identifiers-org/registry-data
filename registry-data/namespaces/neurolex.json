@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "NeuroLex through NCBO's BioPortal",
-            "id": 401,
-            "institution": {
-                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
-                "homeUrl": "https://ncbo.bioontology.org/",
-                "id": 5,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Center for Biomedical Ontology, Stanford",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100183",
-            "name": "NeuroLex through NCBO's BioPortal",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "bptl",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/BIRNLEX",
-            "sampleId": "birnlex_1672",
-            "urlPattern": "http://purl.bioontology.org/ontology/BIRNLEX/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "NeuroLex Neuroscience Lexicon",
             "id": 400,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://scicrunch.org/scicrunch/interlex/dashboard",
             "sampleId": "Birnlex_721",
             "urlPattern": "https://scicrunch.org/scicrunch/interlex/search?q={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "NeuroLex through NCBO's BioPortal",
+            "id": 401,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100183",
+            "name": "NeuroLex through NCBO's BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/BIRNLEX",
+            "sampleId": "birnlex_1672",
+            "urlPattern": "http://purl.bioontology.org/ontology/BIRNLEX/{$id}"
         }
     ],
     "sampleId": "Birnlex_721",

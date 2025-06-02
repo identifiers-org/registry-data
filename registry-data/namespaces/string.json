@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "STRING Mirror at Heidelberg",
-            "id": 780,
-            "institution": {
-                "description": "With 28 member states, EMBL has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.",
-                "homeUrl": "http://embl.org/",
-                "id": 375,
-                "location": {
-                    "countryCode": "DE",
-                    "countryName": "Germany"
-                },
-                "name": "EMBL, Heidelberg",
-                "rorId": "https://ror.org/03mstc592"
-            },
-            "location": {
-                "countryCode": "DE",
-                "countryName": "Germany"
-            },
-            "mirId": "MIR:00100342",
-            "name": "STRING Mirror at Heidelberg",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://string-db.org/",
-            "sampleId": "P53350",
-            "urlPattern": "https://string-db.org/cgi/network?identifier={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "STRING at Heidelberg",
             "id": 779,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "http://string.embl.de/",
             "sampleId": "P53350",
             "urlPattern": "https://string.embl.de/cgi/network?identifier={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "STRING Mirror at Heidelberg",
+            "id": 780,
+            "institution": {
+                "description": "With 28 member states, EMBL has more than 110 independent research groups and service teams covering the spectrum of molecular biology at six sites in Barcelona, Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton, and Rome.",
+                "homeUrl": "http://embl.org/",
+                "id": 375,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "EMBL, Heidelberg",
+                "rorId": "https://ror.org/03mstc592"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100342",
+            "name": "STRING Mirror at Heidelberg",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://string-db.org/",
+            "sampleId": "P53350",
+            "urlPattern": "https://string-db.org/cgi/network?identifier={$id}"
         }
     ],
     "sampleId": "P53350",

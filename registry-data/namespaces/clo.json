@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Our vision is that all biomedical knowledge and data are disseminated on the Internet using principled ontologies in such a way that the knowledge and data are semantically interoperable and useful for furthering biomedical science and clinical care. Our mission is to create software and support services for the application of principled ontologies in biomedical science and clinical care, ranging from tools for application developers to software for end-users.",
-            "id": 3398,
-            "institution": {
-                "description": "Our vision is that all biomedical knowledge and data are disseminated on the Internet using principled ontologies in such a way that the knowledge and data are semantically interoperable and useful for furthering biomedical science and clinical care. Our mission is to create software and support services for the application of principled ontologies in biomedical science and clinical care, ranging from tools for application developers to software for end-users.",
-                "homeUrl": "https://bioportal.bioontology.org",
-                "id": 3397,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Center for Biomedical Informatics Research, Stanford",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00000984",
-            "name": "Center for Biomedical Informatics Research, Stanford",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "bioportal",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://bioportal.bioontology.org",
-            "sampleId": "0000091",
-            "urlPattern": "https://bioportal.bioontology.org/ontologies/CLO/?p=classes&conceptid=http://purl.obolibrary.org/obo/CLO_{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Cell Line Ontology (CLO) through OLS. The Ontology Lookup Service (OLS) is a repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions. You can browse the ontologies through the website as well as programmatically via the OLS API. OLS is developed and maintained by the Samples, Phenotypes, and Ontologies Team at EMBL-EBI.",
             "id": 3392,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/clo",
             "sampleId": "0000091",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/clo/terms?short_form=CLO_{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Our vision is that all biomedical knowledge and data are disseminated on the Internet using principled ontologies in such a way that the knowledge and data are semantically interoperable and useful for furthering biomedical science and clinical care. Our mission is to create software and support services for the application of principled ontologies in biomedical science and clinical care, ranging from tools for application developers to software for end-users.",
+            "id": 3398,
+            "institution": {
+                "description": "Our vision is that all biomedical knowledge and data are disseminated on the Internet using principled ontologies in such a way that the knowledge and data are semantically interoperable and useful for furthering biomedical science and clinical care. Our mission is to create software and support services for the application of principled ontologies in biomedical science and clinical care, ranging from tools for application developers to software for end-users.",
+                "homeUrl": "https://bioportal.bioontology.org",
+                "id": 3397,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Center for Biomedical Informatics Research, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000984",
+            "name": "Center for Biomedical Informatics Research, Stanford",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bioportal",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://bioportal.bioontology.org",
+            "sampleId": "0000091",
+            "urlPattern": "https://bioportal.bioontology.org/ontologies/CLO/?p=classes&conceptid=http://purl.obolibrary.org/obo/CLO_{$id}"
         }
     ],
     "sampleId": "0000091",

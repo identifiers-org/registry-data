@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Brenda Tissue Ontology through BioPortal",
-            "id": 357,
-            "institution": {
-                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
-                "homeUrl": "https://ncbo.bioontology.org/",
-                "id": 5,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Center for Biomedical Ontology, Stanford",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100233",
-            "name": "Brenda Tissue Ontology through BioPortal",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "bptl",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/BTO",
-            "sampleId": "0000146",
-            "urlPattern": "http://purl.bioontology.org/ontology/BTO/BTO:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Brenda Tissue Ontology through OLS",
             "id": 356,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/bto",
             "sampleId": "0000146",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/bto/terms?obo_id=BTO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Brenda Tissue Ontology through BioPortal",
+            "id": 357,
+            "institution": {
+                "description": "The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.",
+                "homeUrl": "https://ncbo.bioontology.org/",
+                "id": 5,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biomedical Ontology, Stanford",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100233",
+            "name": "Brenda Tissue Ontology through BioPortal",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "bptl",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://bioportal.bioontology.org/ontologies/BTO",
+            "sampleId": "0000146",
+            "urlPattern": "http://purl.bioontology.org/ontology/BTO/BTO:{$id}"
         }
     ],
     "sampleId": "0000146",

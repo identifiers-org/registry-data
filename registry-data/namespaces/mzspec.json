@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Institute for Systems Biology (ISB), Seattle, USA is an independent research institute focusing on systems biology.",
-            "id": 2394,
-            "institution": {
-                "description": "ISB was created in 2000 as the first-ever institute dedicated to systems biology.",
-                "homeUrl": "https://isbscience.org/",
-                "id": 193,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Institute for Systems Biology",
-                "rorId": "https://ror.org/02tpgw303"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00000771",
-            "name": "Institute for Systems Biology, Seattle, USA",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "pc",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://proteomecentral.proteomexchange.org/",
-            "sampleId": "PXD000865:00603_F01_P004608_B00F_A00_R1:scan:14453:SSLLDVLAAR/2",
-            "urlPattern": "http://proteomecentral.proteomexchange.org/usi/?usi=mzspec:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "PRIDE is a database of PRoteomics IDEntifications. It contains protein and peptide identifications (including details of post-translational modifications) together with the mass spectrometric evidence supporting these identifications. PRIDE acts as a repository for mass spectrometry data, specifically the fragment ion spectra used to identify peptide sequences.",
             "id": 1,
             "institution": {
@@ -119,6 +84,41 @@
             "resourceHomeUrl": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/ShowObservedSpectrum",
             "sampleId": "PXD002255:ES_XP_Ubi_97H_HCD_349:scan:9617:LAEIYVNSSFYK/2",
             "urlPattern": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/ShowObservedSpectrum?usi=mzspec:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Institute for Systems Biology (ISB), Seattle, USA is an independent research institute focusing on systems biology.",
+            "id": 2394,
+            "institution": {
+                "description": "ISB was created in 2000 as the first-ever institute dedicated to systems biology.",
+                "homeUrl": "https://isbscience.org/",
+                "id": 193,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Institute for Systems Biology",
+                "rorId": "https://ror.org/02tpgw303"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00000771",
+            "name": "Institute for Systems Biology, Seattle, USA",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "pc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://proteomecentral.proteomexchange.org/",
+            "sampleId": "PXD000865:00603_F01_P004608_B00F_A00_R1:scan:14453:SSLLDVLAAR/2",
+            "urlPattern": "http://proteomecentral.proteomexchange.org/usi/?usi=mzspec:{$id}"
         }
     ],
     "sampleId": "PXD002255:ES_XP_Ubi_97H_HCD_349:scan:9617:LAEIYVNSSFYK/2",

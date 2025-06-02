@@ -18,41 +18,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Human Pluripotent Stem Cell Registry",
-            "id": 2630,
-            "institution": {
-                "description": "Operating in the international growth markets for life sciences and medicine/(bio)medical engineering, since its foundation in 1987/1992 the Fraunhofer Institute for Biomedical Engineering (IBMT) has worked primarily as a technology developer and device manufacturer for customers from all over the world. As a founding member of the Group for Health of the Fraunhofer-Gesellschaft, which now comprises six institutes and one research establishment, the Fraunhofer IBMT cooperates closely with its industrial customers as well as public and private customers. The IBMT's strategy is focused on the areas of biomedical/medical engineering (especially non-invasive and minimally invasive as well as miniaturized technologies), biotechnology, intelligent sensors, implants, cryotechnology, biobanks and stem cell research. Trend-setting automated laboratory technologies, the development of mobile special laboratories (S3, GMP, GCLP, etc.) and information technologies for healthcare solutions round off the portfolio of the Fraunhofer IBMT. Decades of expertise in biotechnological and medical research and development fields also allows us to solve a variety of purely technical tasks. This includes ultrasound-based level metering, special transducers for acoustic applications, sonars, but also microelectrodes and miniaturized manipulation systems as well as automated in vitro culture devices.",
-                "homeUrl": "https://www.ibmt.fraunhofer.de/en.html",
-                "id": 2629,
-                "location": {
-                    "countryCode": "DE",
-                    "countryName": "Germany"
-                },
-                "name": "Fraunhofer Institute for Biomedical Engineering",
-                "rorId": "https://ror.org/05tpsgh61"
-            },
-            "location": {
-                "countryCode": "DE",
-                "countryName": "Germany"
-            },
-            "mirId": "MIR:00000810",
-            "name": "Fraunhofer Institute for Biomedical Engineering",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "ibmt",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://hpscreg.eu/",
-            "sampleId": "BCRTi001-A",
-            "urlPattern": "https://hpscreg.eu/cell-line/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": true,
             "deprecationDate": "2021-05-10T19:10:24.237+00:00",
             "deprecationOfflineDate": null,
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://hpscreg.eu/",
             "sampleId": "BCRTi001-A",
             "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100898/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Pluripotent Stem Cell Registry",
+            "id": 2630,
+            "institution": {
+                "description": "Operating in the international growth markets for life sciences and medicine/(bio)medical engineering, since its foundation in 1987/1992 the Fraunhofer Institute for Biomedical Engineering (IBMT) has worked primarily as a technology developer and device manufacturer for customers from all over the world. As a founding member of the Group for Health of the Fraunhofer-Gesellschaft, which now comprises six institutes and one research establishment, the Fraunhofer IBMT cooperates closely with its industrial customers as well as public and private customers. The IBMT's strategy is focused on the areas of biomedical/medical engineering (especially non-invasive and minimally invasive as well as miniaturized technologies), biotechnology, intelligent sensors, implants, cryotechnology, biobanks and stem cell research. Trend-setting automated laboratory technologies, the development of mobile special laboratories (S3, GMP, GCLP, etc.) and information technologies for healthcare solutions round off the portfolio of the Fraunhofer IBMT. Decades of expertise in biotechnological and medical research and development fields also allows us to solve a variety of purely technical tasks. This includes ultrasound-based level metering, special transducers for acoustic applications, sonars, but also microelectrodes and miniaturized manipulation systems as well as automated in vitro culture devices.",
+                "homeUrl": "https://www.ibmt.fraunhofer.de/en.html",
+                "id": 2629,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Fraunhofer Institute for Biomedical Engineering",
+                "rorId": "https://ror.org/05tpsgh61"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00000810",
+            "name": "Fraunhofer Institute for Biomedical Engineering",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "ibmt",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://hpscreg.eu/",
+            "sampleId": "BCRTi001-A",
+            "urlPattern": "https://hpscreg.eu/cell-line/{$id}"
         }
     ],
     "sampleId": "BCRTi001-A",
