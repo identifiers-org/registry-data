@@ -43,7 +43,7 @@
             "name": "LigandBook",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://ligandbook.org/",

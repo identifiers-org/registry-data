@@ -43,7 +43,7 @@
             "name": "SIDER Drug v2 at EMBL (Heidelberg)",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://sideeffects.embl.de/",

@@ -43,7 +43,7 @@
             "name": "STAP at Korean Bioinformation Center",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://psb.kobic.re.kr/STAP/refinement/",

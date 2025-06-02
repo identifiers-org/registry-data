@@ -218,7 +218,7 @@
             "name": "Proteopedia",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.proteopedia.org/",

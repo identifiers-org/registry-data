@@ -43,7 +43,7 @@
             "name": "GRSDB v2 at  Ramapo College of New Jersey",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://bioinformatics.ramapo.edu/GRSDB2/",

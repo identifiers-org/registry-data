@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "GPMDB",
-            "id": 1804,
-            "institution": {
-                "description": "The Global Proteome Machine Organisation. The organisation supports open source bioinformatics tools for large scale proteomics and systems biology.",
-                "homeUrl": "https://thegpm.org/",
-                "id": 1803,
-                "location": {
-                    "countryCode": "CA",
-                    "countryName": "Canada"
-                },
-                "name": "The Global Proteome Machine Organization",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "CA",
-                "countryName": "Canada"
-            },
-            "mirId": "MIR:00100864",
-            "name": "GPMDB",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://gpmdb.thegpm.org/",
-            "sampleId": "GPM32310002988",
-            "urlPattern": "http://gpmdb.thegpm.org/~/dblist_gpmnum/gpmnum={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "GPMDB through OmicsDI",
             "id": 1805,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.omicsdi.org/",
             "sampleId": "GPM32310002988",
             "urlPattern": "https://www.omicsdi.org/dataset/gpmdb/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GPMDB",
+            "id": 1804,
+            "institution": {
+                "description": "The Global Proteome Machine Organisation. The organisation supports open source bioinformatics tools for large scale proteomics and systems biology.",
+                "homeUrl": "https://thegpm.org/",
+                "id": 1803,
+                "location": {
+                    "countryCode": "CA",
+                    "countryName": "Canada"
+                },
+                "name": "The Global Proteome Machine Organization",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "CA",
+                "countryName": "Canada"
+            },
+            "mirId": "MIR:00100864",
+            "name": "GPMDB",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://gpmdb.thegpm.org/",
+            "sampleId": "GPM32310002988",
+            "urlPattern": "http://gpmdb.thegpm.org/~/dblist_gpmnum/gpmnum={$id}"
         }
     ],
     "sampleId": "GPM32310002988",

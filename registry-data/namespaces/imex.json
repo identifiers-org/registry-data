@@ -78,7 +78,7 @@
             "name": "IMEx Consortium though Intact",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.ebi.ac.uk/intact/",

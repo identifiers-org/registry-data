@@ -43,7 +43,7 @@
             "name": "TarBase v7 at University of Thessaly",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=tarbase/index",

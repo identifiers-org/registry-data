@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "ENA through GenBank",
-            "id": 1070,
-            "institution": {
-                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
-                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
-                "id": 26,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Center for Biotechnology Information",
-                "rorId": "https://ror.org/02meqm098"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100889",
-            "name": "ENA through GenBank",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/Genbank/",
-            "sampleId": "BN000065",
-            "urlPattern": "https://www.ncbi.nlm.nih.gov/nuccore/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "ENA at European Bioinformatics Institute",
             "id": 1069,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ena/",
             "sampleId": "BN000065",
             "urlPattern": "https://www.ebi.ac.uk/ena/browser/view/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "ENA through GenBank",
+            "id": 1070,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100889",
+            "name": "ENA through GenBank",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/Genbank/",
+            "sampleId": "BN000065",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/nuccore/{$id}"
         }
     ],
     "sampleId": "BN000065",

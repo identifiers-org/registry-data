@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "LINCS Data at University of Miami",
-            "id": 1636,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 1526,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "University of Miami, BD2K-LINCS DCIC",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100785",
-            "name": "LINCS Data at University of Miami",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://lincsportal.ccs.miami.edu/datasets/",
-            "sampleId": "LDS-1110",
-            "urlPattern": "http://lincsportal.ccs.miami.edu/datasets/#/view/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Lincs through OmicsDI",
             "id": 1637,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.omicsdi.org/",
             "sampleId": "LDS-1110",
             "urlPattern": "https://www.omicsdi.org/dataset/lincs/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "LINCS Data at University of Miami",
+            "id": 1636,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 1526,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "University of Miami, BD2K-LINCS DCIC",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100785",
+            "name": "LINCS Data at University of Miami",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://lincsportal.ccs.miami.edu/datasets/",
+            "sampleId": "LDS-1110",
+            "urlPattern": "http://lincsportal.ccs.miami.edu/datasets/#/view/{$id}"
         }
     ],
     "sampleId": "LDS-1110",

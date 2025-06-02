@@ -22,76 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "InChI through Chemspider",
-            "id": 1106,
-            "institution": {
-                "description": "We publish new research. We develop, recognise and celebrate professional capabilities. We bring people together to spark new ideas and new partnerships. We support teachers to inspire future generations of scientists. And we speak up to influence the people making decisions that affect us all.",
-                "homeUrl": "http://www.rsc.org/",
-                "id": 439,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "Royal Society of Chemistry, Cambridge",
-                "rorId": "https://ror.org/025sbr097"
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100492",
-            "name": "InChI through Chemspider",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.chemspider.com/",
-            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
-            "urlPattern": "http://www.chemspider.com/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "InChI through NIST",
-            "id": 1108,
-            "institution": {
-                "description": "NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life. ",
-                "homeUrl": "http://www.nist.gov/",
-                "id": 1107,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Institute of Standards and Technology, Gaithersburg, Maryland",
-                "rorId": "https://ror.org/05xpvk416"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100493",
-            "name": "InChI through NIST",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://webbook.nist.gov/chemistry",
-            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
-            "urlPattern": "http://webbook.nist.gov/cgi/cbook.cgi?{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "InChI through ChEBI",
             "id": 1109,
             "institution": {
@@ -154,6 +84,76 @@
             "resourceHomeUrl": "http://rdf.openmolecules.net/",
             "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
             "urlPattern": "http://rdf.openmolecules.net/?{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChI through Chemspider",
+            "id": 1106,
+            "institution": {
+                "description": "We publish new research. We develop, recognise and celebrate professional capabilities. We bring people together to spark new ideas and new partnerships. We support teachers to inspire future generations of scientists. And we speak up to influence the people making decisions that affect us all.",
+                "homeUrl": "http://www.rsc.org/",
+                "id": 439,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Royal Society of Chemistry, Cambridge",
+                "rorId": "https://ror.org/025sbr097"
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100492",
+            "name": "InChI through Chemspider",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.chemspider.com/",
+            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "urlPattern": "http://www.chemspider.com/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "InChI through NIST",
+            "id": 1108,
+            "institution": {
+                "description": "NIST promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life. ",
+                "homeUrl": "http://www.nist.gov/",
+                "id": 1107,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Institute of Standards and Technology, Gaithersburg, Maryland",
+                "rorId": "https://ror.org/05xpvk416"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100493",
+            "name": "InChI through NIST",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://webbook.nist.gov/chemistry",
+            "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "urlPattern": "http://webbook.nist.gov/cgi/cbook.cgi?{$id}"
         }
     ],
     "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",

@@ -43,7 +43,7 @@
             "name": "Biocatalysis/Biodegradation Database Mirror (Reaction) at ETH Zurich",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://umbbd.ethz.ch/",

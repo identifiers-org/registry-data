@@ -43,7 +43,7 @@
             "name": "NeuronDB at SenseLab",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://senselab.med.yale.edu/NeuronDB/",

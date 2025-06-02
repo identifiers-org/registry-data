@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Microbial Protein Interaction Database",
-            "id": 394,
-            "institution": {
-                "description": "The J. Craig Venter Institute (JCVI) is a world leader in genomic research with approximately 120 scientists and staff who are bold innovators fearlessly pursuing revolutionary ideas. With a long track-record of creativity and an interdisciplinary approach to genomics, JCVI is committed to accelerating foundational scientific research to drive advances in human health and environmental sustainability.",
-                "homeUrl": "https://www.jcvi.org",
-                "id": 393,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "J. Craig Venter Institute, Maryland",
-                "rorId": "https://ror.org/049r1ts75"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100157",
-            "name": "Microbial Protein Interaction Database",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.jcvi.org/mpidb/about.php",
-            "sampleId": "172",
-            "urlPattern": "http://www.jcvi.org/mpidb/experiment.php?interaction_id={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Microbial Protein Interaction Database subset through IntAct",
             "id": 395,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/intact/",
             "sampleId": "1776",
             "urlPattern": "https://www.ebi.ac.uk/intact/query/interaction_id:MPIDB-INT-{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Microbial Protein Interaction Database",
+            "id": 394,
+            "institution": {
+                "description": "The J. Craig Venter Institute (JCVI) is a world leader in genomic research with approximately 120 scientists and staff who are bold innovators fearlessly pursuing revolutionary ideas. With a long track-record of creativity and an interdisciplinary approach to genomics, JCVI is committed to accelerating foundational scientific research to drive advances in human health and environmental sustainability.",
+                "homeUrl": "https://www.jcvi.org",
+                "id": 393,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "J. Craig Venter Institute, Maryland",
+                "rorId": "https://ror.org/049r1ts75"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100157",
+            "name": "Microbial Protein Interaction Database",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.jcvi.org/mpidb/about.php",
+            "sampleId": "172",
+            "urlPattern": "http://www.jcvi.org/mpidb/experiment.php?interaction_id={$id}"
         }
     ],
     "sampleId": "172",

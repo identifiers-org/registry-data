@@ -43,7 +43,7 @@
             "name": "Hovergen",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://pbil.univ-lyon1.fr/databases/hovergen.php",

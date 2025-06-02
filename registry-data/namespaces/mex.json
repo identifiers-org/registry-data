@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Metabolome Express",
-            "id": 1800,
-            "institution": {
-                "description": "The Australian Research Council Centre of Excellence in Plant Energy Biology (PEB) is a cutting-edge research centre focused on better understanding the ways plants capture, convert and use energy in response to environmental change, with a view towards improved plant energy efficiency.",
-                "homeUrl": "https://plantenergy.edu.au/",
-                "id": 1799,
-                "location": {
-                    "countryCode": "AU",
-                    "countryName": "Australia"
-                },
-                "name": "Centre of Excellence in Plant Energy Biology",
-                "rorId": "https://ror.org/01a1mq059"
-            },
-            "location": {
-                "countryCode": "AU",
-                "countryName": "Australia"
-            },
-            "mirId": "MIR:00100862",
-            "name": "Metabolome Express",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.metabolome-express.org/",
-            "sampleId": "36",
-            "urlPattern": "https://www.metabolome-express.org/datasetview.php?datasetid={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Metabolome Express through OmicsDI",
             "id": 1801,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.omicsdi.org/",
             "sampleId": "36",
             "urlPattern": "https://www.omicsdi.org/dataset/metabolome_express/MEX{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Metabolome Express",
+            "id": 1800,
+            "institution": {
+                "description": "The Australian Research Council Centre of Excellence in Plant Energy Biology (PEB) is a cutting-edge research centre focused on better understanding the ways plants capture, convert and use energy in response to environmental change, with a view towards improved plant energy efficiency.",
+                "homeUrl": "https://plantenergy.edu.au/",
+                "id": 1799,
+                "location": {
+                    "countryCode": "AU",
+                    "countryName": "Australia"
+                },
+                "name": "Centre of Excellence in Plant Energy Biology",
+                "rorId": "https://ror.org/01a1mq059"
+            },
+            "location": {
+                "countryCode": "AU",
+                "countryName": "Australia"
+            },
+            "mirId": "MIR:00100862",
+            "name": "Metabolome Express",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.metabolome-express.org/",
+            "sampleId": "36",
+            "urlPattern": "https://www.metabolome-express.org/datasetview.php?datasetid={$id}"
         }
     ],
     "sampleId": "36",

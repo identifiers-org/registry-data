@@ -43,7 +43,7 @@
             "name": "Virtual International Authority File",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://viaf.org",

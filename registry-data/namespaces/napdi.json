@@ -43,7 +43,7 @@
             "name": "Natural Product-Drug Interaction Research Data Repository",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://repo.napdi.org/",

@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "KEGG Ligand Database for Enzyme Nomenclature",
-            "id": 16,
-            "institution": {
-                "description": "The Bioinformatics Center aims at developing new informatics technologies for deciphering the genome, especially from the viewpoint of how life operates as a system, and promoting both basic and applied research areas in bioinformatics. The Center consists of three research laboratories, named Chemical Life Science, Mathematical Bioinformatics, and Bio-Knowledge Engineering, which focus on scientific discovery, algorithms, and data mining, respectively. ",
-                "homeUrl": "https://www.bic.kyoto-u.ac.jp/",
-                "id": 15,
-                "location": {
-                    "countryCode": "JP",
-                    "countryName": "Japan"
-                },
-                "name": "Kyoto University Bioinformatics Center",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "JP",
-                "countryName": "Japan"
-            },
-            "mirId": "MIR:00100002",
-            "name": "KEGG Ligand Database for Enzyme Nomenclature",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.genome.jp/dbget-bin/www_bfind?enzyme",
-            "sampleId": "1.1.1.1",
-            "urlPattern": "https://www.genome.jp/dbget-bin/www_bget?ec:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "ExploreEnz at Trinity College",
             "id": 20,
             "institution": {
@@ -189,6 +154,41 @@
             "resourceHomeUrl": "https://enzyme.expasy.org/",
             "sampleId": "1.1.1.1",
             "urlPattern": "https://enzyme.expasy.org/EC/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "KEGG Ligand Database for Enzyme Nomenclature",
+            "id": 16,
+            "institution": {
+                "description": "The Bioinformatics Center aims at developing new informatics technologies for deciphering the genome, especially from the viewpoint of how life operates as a system, and promoting both basic and applied research areas in bioinformatics. The Center consists of three research laboratories, named Chemical Life Science, Mathematical Bioinformatics, and Bio-Knowledge Engineering, which focus on scientific discovery, algorithms, and data mining, respectively. ",
+                "homeUrl": "https://www.bic.kyoto-u.ac.jp/",
+                "id": 15,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "Kyoto University Bioinformatics Center",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100002",
+            "name": "KEGG Ligand Database for Enzyme Nomenclature",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.genome.jp/dbget-bin/www_bfind?enzyme",
+            "sampleId": "1.1.1.1",
+            "urlPattern": "https://www.genome.jp/dbget-bin/www_bget?ec:{$id}"
         }
     ],
     "sampleId": "1.1.1.1",

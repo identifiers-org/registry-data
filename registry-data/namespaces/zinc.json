@@ -43,7 +43,7 @@
             "name": "ZINC at University of California (San Francisco)",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://zinc15.docking.org/",

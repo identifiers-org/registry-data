@@ -43,7 +43,7 @@
             "name": "GeneFarm at Unité de Recherche en Génomique Végétale",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://urgi.versailles.inra.fr/Genefarm/",

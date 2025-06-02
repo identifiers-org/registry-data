@@ -43,7 +43,7 @@
             "name": "OriDB Schizosaccharomyces at University of Nottingham",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://pombe.oridb.org/index.php",

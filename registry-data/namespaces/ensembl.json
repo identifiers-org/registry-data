@@ -78,47 +78,12 @@
             "name": "Ensembl US East mirror",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://useast.ensembl.org/",
             "sampleId": "ENSG00000139618",
             "urlPattern": "http://useast.ensembl.org/id/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Ensembl Asia mirror",
-            "id": 12,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 8,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "Sanger Institute and European Bioinformatics Institute, Hinxton, Cambridge",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "SG",
-                "countryName": "Singapore"
-            },
-            "mirId": "MIR:00100563",
-            "name": "Ensembl Asia mirror",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://asia.ensembl.org/",
-            "sampleId": "ENSG00000139618",
-            "urlPattern": "http://asia.ensembl.org/id/{$id}"
         },
         {
             "authHelpDescription": null,
@@ -148,12 +113,47 @@
             "name": "Ensembl US West mirror",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": true,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://uswest.ensembl.org/",
             "sampleId": "ENSG00000139618",
             "urlPattern": "http://uswest.ensembl.org/id/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Ensembl Asia mirror",
+            "id": 12,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 8,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "Sanger Institute and European Bioinformatics Institute, Hinxton, Cambridge",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "SG",
+                "countryName": "Singapore"
+            },
+            "mirId": "MIR:00100563",
+            "name": "Ensembl Asia mirror",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://asia.ensembl.org/",
+            "sampleId": "ENSG00000139618",
+            "urlPattern": "http://asia.ensembl.org/id/{$id}"
         }
     ],
     "sampleId": "ENSG00000139618",

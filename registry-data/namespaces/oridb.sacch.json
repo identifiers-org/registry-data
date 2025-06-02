@@ -43,7 +43,7 @@
             "name": "OriDB Saccharomyces at University of Nottingham",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://cerevisiae.oridb.org/index.php",

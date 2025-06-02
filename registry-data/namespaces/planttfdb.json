@@ -43,7 +43,7 @@
             "name": "PlantTFDB at Peking University",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://planttfdb.cbi.pku.edu.cn",

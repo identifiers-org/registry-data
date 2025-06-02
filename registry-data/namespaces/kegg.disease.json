@@ -43,7 +43,7 @@
             "name": "KEGG Disease at Kyoto University Bioinformatics Center",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.genome.jp/kegg/disease/",

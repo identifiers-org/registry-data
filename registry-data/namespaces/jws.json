@@ -22,6 +22,41 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
+            "description": "JWS Online Model Repository at Amsterdam",
+            "id": 416,
+            "institution": {
+                "description": "The University of Amsterdam is ambitious, creative and committed: a leader in international science and a partner in innovation, the UvA has been inspiring generations since 1632. Read our mission and vision.",
+                "homeUrl": "https://www.uva.nl/en/home",
+                "id": 415,
+                "location": {
+                    "countryCode": "NL",
+                    "countryName": "Netherlands"
+                },
+                "name": "University of Amsterdam",
+                "rorId": "https://ror.org/04dkp9463"
+            },
+            "location": {
+                "countryCode": "NL",
+                "countryName": "Netherlands"
+            },
+            "mirId": "MIR:00100169",
+            "name": "JWS Online Model Repository at Amsterdam",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://jjj.bio.vu.nl/models/",
+            "sampleId": "curien1",
+            "urlPattern": "http://jjj.bio.vu.nl/models/{$id}/"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
             "description": "JWS Online Model Repository at Stellenbosch",
             "id": 414,
             "institution": {
@@ -43,7 +78,7 @@
             "name": "JWS Online Model Repository at Stellenbosch",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://jjj.biochem.sun.ac.za/models/",
@@ -78,47 +113,12 @@
             "name": "JWS Online Model Repository at Manchester",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://jjj.mib.ac.uk/models",
             "sampleId": "curien1",
             "urlPattern": "http://jjj.mib.ac.uk/models/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "JWS Online Model Repository at Amsterdam",
-            "id": 416,
-            "institution": {
-                "description": "The University of Amsterdam is ambitious, creative and committed: a leader in international science and a partner in innovation, the UvA has been inspiring generations since 1632. Read our mission and vision.",
-                "homeUrl": "https://www.uva.nl/en/home",
-                "id": 415,
-                "location": {
-                    "countryCode": "NL",
-                    "countryName": "Netherlands"
-                },
-                "name": "University of Amsterdam",
-                "rorId": "https://ror.org/04dkp9463"
-            },
-            "location": {
-                "countryCode": "NL",
-                "countryName": "Netherlands"
-            },
-            "mirId": "MIR:00100169",
-            "name": "JWS Online Model Repository at Amsterdam",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://jjj.bio.vu.nl/models/",
-            "sampleId": "curien1",
-            "urlPattern": "http://jjj.bio.vu.nl/models/{$id}/"
         }
     ],
     "sampleId": "curien1",

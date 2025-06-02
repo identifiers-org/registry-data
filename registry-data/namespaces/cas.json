@@ -78,7 +78,7 @@
             "name": "CAS Common Chemistry",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://commonchemistry.cas.org/",

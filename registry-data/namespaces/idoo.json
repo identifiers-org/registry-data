@@ -43,7 +43,7 @@
             "name": "Identifiers.org Ontology",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://registry.api.hq.identifiers.org/semanticApi/getRegistryOntology",

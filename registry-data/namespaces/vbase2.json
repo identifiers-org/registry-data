@@ -43,7 +43,7 @@
             "name": "Vbase2 at German Research Centre for Biotechnology",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.vbase2.org/vbase2.php",

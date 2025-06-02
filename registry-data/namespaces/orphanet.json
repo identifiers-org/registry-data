@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Orphanet at Inserm",
-            "id": 655,
-            "institution": {
-                "description": "Founded in 1964, Inserm is a public scientific and technological institute which operates under the joint authority of the French Ministries of Health and Research. The institute is dedicated to biomedical research and human health, and is involved in the entire range of activities from the laboratory to the patient’s bedside. It also partners with the most prestigious research institutions in the world that are committed to scientific challenges and progress in these fields.",
-                "homeUrl": "https://www.inserm.fr/en/home/",
-                "id": 654,
-                "location": {
-                    "countryCode": "FR",
-                    "countryName": "France"
-                },
-                "name": "Inserm, Hôpital Broussais, Paris",
-                "rorId": "https://ror.org/02vjkv261"
-            },
-            "location": {
-                "countryCode": "FR",
-                "countryName": "France"
-            },
-            "mirId": "MIR:00100279",
-            "name": "Orphanet at Inserm",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.orpha.net/consor/",
-            "sampleId": "85163",
-            "urlPattern": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=EN&Expert={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Bio2RDF",
             "id": 656,
             "institution": {
@@ -78,12 +43,47 @@
             "name": "Bio2RDF",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://bio2rdf.org/",
             "sampleId": "85163",
             "urlPattern": "http://bio2rdf.org/orphanet:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Orphanet at Inserm",
+            "id": 655,
+            "institution": {
+                "description": "Founded in 1964, Inserm is a public scientific and technological institute which operates under the joint authority of the French Ministries of Health and Research. The institute is dedicated to biomedical research and human health, and is involved in the entire range of activities from the laboratory to the patient’s bedside. It also partners with the most prestigious research institutions in the world that are committed to scientific challenges and progress in these fields.",
+                "homeUrl": "https://www.inserm.fr/en/home/",
+                "id": 654,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "Inserm, Hôpital Broussais, Paris",
+                "rorId": "https://ror.org/02vjkv261"
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100279",
+            "name": "Orphanet at Inserm",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.orpha.net/consor/",
+            "sampleId": "85163",
+            "urlPattern": "http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=EN&Expert={$id}"
         }
     ],
     "sampleId": "85163",

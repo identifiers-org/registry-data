@@ -43,7 +43,7 @@
             "name": "OpenCitations Corpus",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://w3id.org/oc/corpus",

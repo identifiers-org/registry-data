@@ -43,7 +43,7 @@
             "name": "H-Invitational Protein View at BIRC",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://h-invitational.jp/hinv/ahg-db/index.jsp",

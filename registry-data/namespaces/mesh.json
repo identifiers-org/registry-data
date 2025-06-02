@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "MeSH Linked Data at National Library of Medicine",
-            "id": 1564,
-            "institution": {
-                "description": "The National Library of Medicine (NLM), on the campus of the National Institutes of Health in Bethesda, Maryland, has been a center of information innovation since its founding in 1836. The world’s largest biomedical library, NLM maintains and makes available a vast print collection and produces electronic information resources on a wide range of topics that are searched billions of times each year by millions of people around the globe. It also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates an 8,000+ member Network of the National Library of Medicine that promotes and provides access to health information in communities across the United States.",
-                "homeUrl": "https://www.nlm.nih.gov/",
-                "id": 316,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Library of Medicine, Maryland",
-                "rorId": "https://ror.org/0060t0j89"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100737",
-            "name": "MeSH Linked Data at National Library of Medicine",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://id.nlm.nih.gov/mesh/",
-            "sampleId": "C000100",
-            "urlPattern": "http://id.nlm.nih.gov/mesh/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "MeSH via National Library of Medicine",
             "id": 4154,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.nlm.nih.gov/",
             "sampleId": "C000100",
             "urlPattern": "https://www.ncbi.nlm.nih.gov/mesh/?term={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "MeSH Linked Data at National Library of Medicine",
+            "id": 1564,
+            "institution": {
+                "description": "The National Library of Medicine (NLM), on the campus of the National Institutes of Health in Bethesda, Maryland, has been a center of information innovation since its founding in 1836. The world’s largest biomedical library, NLM maintains and makes available a vast print collection and produces electronic information resources on a wide range of topics that are searched billions of times each year by millions of people around the globe. It also supports and conducts research, development, and training in biomedical informatics and health information technology. In addition, the Library coordinates an 8,000+ member Network of the National Library of Medicine that promotes and provides access to health information in communities across the United States.",
+                "homeUrl": "https://www.nlm.nih.gov/",
+                "id": 316,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Library of Medicine, Maryland",
+                "rorId": "https://ror.org/0060t0j89"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100737",
+            "name": "MeSH Linked Data at National Library of Medicine",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://id.nlm.nih.gov/mesh/",
+            "sampleId": "C000100",
+            "urlPattern": "http://id.nlm.nih.gov/mesh/{$id}"
         }
     ],
     "sampleId": "C000100",

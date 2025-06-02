@@ -43,7 +43,7 @@
             "name": "Cancer Data Standards Registry and Repository",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://wiki.nci.nih.gov/display/caDSR/caDSR+Wiki",

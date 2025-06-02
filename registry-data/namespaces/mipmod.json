@@ -43,7 +43,7 @@
             "name": "MIPModDB at Indian Institute of Technology Kanpur",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://bioinfo.iitk.ac.in/MIPModDB",

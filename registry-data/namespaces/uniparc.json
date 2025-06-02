@@ -18,41 +18,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "UniParc through UniProt",
-            "id": 161,
-            "institution": {
-                "description": "The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.",
-                "homeUrl": "https://www.uniprot.org",
-                "id": 24,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "UniProt Consortium",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100476",
-            "name": "UniParc through UniProt",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.uniprot.org/uniparc/",
-            "sampleId": "UPI000000000A",
-            "urlPattern": "https://www.uniprot.org/uniparc/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": true,
             "deprecationDate": "2024-11-15T14:21:25.605+00:00",
             "deprecationOfflineDate": null,
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/uniparc/",
             "sampleId": "UPI000000000A",
             "urlPattern": "https://www.ebi.ac.uk/cgi-bin/dbfetch?db=uniparc&id={$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "UniParc through UniProt",
+            "id": 161,
+            "institution": {
+                "description": "The Universal Protein Resource (UniProt) is a comprehensive resource for protein sequence and annotation data. The UniProt databases are the UniProt Knowledgebase (UniProtKB), the UniProt Reference Clusters (UniRef), and the UniProt Archive (UniParc). The UniProt consortium and host institutions EMBL-EBI, SIB and PIR are committed to the long-term preservation of the UniProt databases.",
+                "homeUrl": "https://www.uniprot.org",
+                "id": 24,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "UniProt Consortium",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100476",
+            "name": "UniParc through UniProt",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.uniprot.org/uniparc/",
+            "sampleId": "UPI000000000A",
+            "urlPattern": "https://www.uniprot.org/uniparc/{$id}"
         }
     ],
     "sampleId": "UPI000000000A",

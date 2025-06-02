@@ -43,7 +43,7 @@
             "name": "CGSC at Yale university",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://cgsc.biology.yale.edu/index.php",

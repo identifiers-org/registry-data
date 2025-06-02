@@ -43,7 +43,7 @@
             "name": "Yeast Intron Database version 4.3 at Baskin School of Engineering",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://intron.ucsc.edu/yeast4.3/",

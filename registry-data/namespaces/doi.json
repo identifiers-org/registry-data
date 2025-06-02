@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Digital Object Identifier",
-            "id": 77,
-            "institution": {
-                "description": "The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.",
-                "homeUrl": "https://www.doi.org/",
-                "id": 76,
-                "location": {
-                    "countryCode": "GB",
-                    "countryName": "United Kingdom"
-                },
-                "name": "International DOI Foundation",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "GB",
-                "countryName": "United Kingdom"
-            },
-            "mirId": "MIR:00100010",
-            "name": "Digital Object Identifier",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.doi.org/",
-            "sampleId": "10.1038/nbt1156",
-            "urlPattern": "https://doi.org/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Scholia is a service that creates visual scholarly profiles for topic, people, organizations, species, chemicals, etc using bibliographic and other information in Wikidata.",
             "id": 2462,
             "institution": {
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://scholia.toolforge.org/",
             "sampleId": "10.1186/S13321-016-0161-3",
             "urlPattern": "https://scholia.toolforge.org/doi/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Digital Object Identifier",
+            "id": 77,
+            "institution": {
+                "description": "The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.",
+                "homeUrl": "https://www.doi.org/",
+                "id": 76,
+                "location": {
+                    "countryCode": "GB",
+                    "countryName": "United Kingdom"
+                },
+                "name": "International DOI Foundation",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "GB",
+                "countryName": "United Kingdom"
+            },
+            "mirId": "MIR:00100010",
+            "name": "Digital Object Identifier",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.doi.org/",
+            "sampleId": "10.1038/nbt1156",
+            "urlPattern": "https://doi.org/{$id}"
         }
     ],
     "sampleId": "10.1038/nbt1156",

@@ -43,7 +43,7 @@
             "name": "Cooperative Patent Classification at Espace",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://worldwide.espacenet.com/classification",

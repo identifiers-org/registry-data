@@ -43,7 +43,7 @@
             "name": "DrugBank Target information version 4",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.drugbank.ca/targets",

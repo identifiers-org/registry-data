@@ -18,41 +18,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": true,
-            "deprecationDate": "2021-05-10T19:10:24.237+00:00",
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "Human Pluripotent Stem Cell Registry",
-            "id": 1869,
-            "institution": {
-                "description": "Charité is one of the largest university hospitals in Europe. All of our clinical care, research, and teaching are delivered by physicians and researchers of the highest international standard. Charité proudly lays claim to more than half of all German Nobel Prize winners in Physiology or Medicine, including Emil von Behring, Robert Koch, and Paul Ehrlich. Charité is internationally renowned for its excellence in teaching and training.  Charité – Universitätsmedizin Berlin represents a single medical faculty, which serves both Humboldt Universität zu Berlin and Freie Universität Berlin. Charité extends over four campuses and has over 100 different Departments and Institutes, which make up a total of 17 different CharitéCenters. Having marked its 300-year anniversary in 2010, Charité is now one of the largest employers in Berlin, employing 17,600 staff (or 20,900 if including its subsidiaries), and with a total annual turnover of €2.3 billion (including external funding and investment grants).",
-                "homeUrl": "https://www.charite.de/en/",
-                "id": 1868,
-                "location": {
-                    "countryCode": "DE",
-                    "countryName": "Germany"
-                },
-                "name": "Charité Berlin",
-                "rorId": "https://ror.org/001w7jn25"
-            },
-            "location": {
-                "countryCode": "DE",
-                "countryName": "Germany"
-            },
-            "mirId": "MIR:00100898",
-            "name": "Human Pluripotent Stem Cell Registry",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://hpscreg.eu/",
-            "sampleId": "BCRTi001-A",
-            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100898/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": false,
             "deprecationDate": null,
             "deprecationOfflineDate": null,
@@ -84,6 +49,41 @@
             "resourceHomeUrl": "https://hpscreg.eu/",
             "sampleId": "BCRTi001-A",
             "urlPattern": "https://hpscreg.eu/cell-line/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": true,
+            "deprecationDate": "2021-05-10T19:10:24.237+00:00",
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Human Pluripotent Stem Cell Registry",
+            "id": 1869,
+            "institution": {
+                "description": "Charité is one of the largest university hospitals in Europe. All of our clinical care, research, and teaching are delivered by physicians and researchers of the highest international standard. Charité proudly lays claim to more than half of all German Nobel Prize winners in Physiology or Medicine, including Emil von Behring, Robert Koch, and Paul Ehrlich. Charité is internationally renowned for its excellence in teaching and training.  Charité – Universitätsmedizin Berlin represents a single medical faculty, which serves both Humboldt Universität zu Berlin and Freie Universität Berlin. Charité extends over four campuses and has over 100 different Departments and Institutes, which make up a total of 17 different CharitéCenters. Having marked its 300-year anniversary in 2010, Charité is now one of the largest employers in Berlin, employing 17,600 staff (or 20,900 if including its subsidiaries), and with a total annual turnover of €2.3 billion (including external funding and investment grants).",
+                "homeUrl": "https://www.charite.de/en/",
+                "id": 1868,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "Charité Berlin",
+                "rorId": "https://ror.org/001w7jn25"
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00100898",
+            "name": "Human Pluripotent Stem Cell Registry",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://hpscreg.eu/",
+            "sampleId": "BCRTi001-A",
+            "urlPattern": "https://registry.identifiers.org/deprecation/resources/MIR:00100898/{$id}"
         }
     ],
     "sampleId": "BCRTi001-A",

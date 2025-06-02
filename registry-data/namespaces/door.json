@@ -43,7 +43,7 @@
             "name": "DOOR v1 at University of Georgia",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://csbl.bmb.uga.edu/DOOR/operon.php",

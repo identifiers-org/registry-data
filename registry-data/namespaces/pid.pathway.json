@@ -43,7 +43,7 @@
             "name": "NCI Pathway Interaction Database (Pathway)",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://pid.nci.nih.gov/",

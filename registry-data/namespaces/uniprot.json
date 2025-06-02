@@ -78,7 +78,7 @@
             "name": "Universal Protein Resource using Persistent URL system",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.uniprot.org/",

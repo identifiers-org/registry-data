@@ -78,7 +78,7 @@
             "name": "Human Phenotype Ontology at Institute for Medical Genetics and Human Genetics",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://hpo.jax.org/",

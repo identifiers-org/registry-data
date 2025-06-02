@@ -43,7 +43,7 @@
             "name": "Virtual Fly Brain",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://VirtualFlyBrain.org",

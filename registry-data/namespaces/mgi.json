@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Mouse Genome Informatics Database",
-            "id": 147,
-            "institution": {
-                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
-                "homeUrl": "https://www.jax.org/#",
-                "id": 91,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "The Jackson Laboratory",
-                "rorId": "https://ror.org/021sy4w91"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100062",
-            "name": "Mouse Genome Informatics Database",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.informatics.jax.org/",
-            "sampleId": "2442292",
-            "urlPattern": "http://www.informatics.jax.org/accession/MGI:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "MGD through BioEntity Link",
             "id": 148,
             "institution": {
@@ -119,6 +84,41 @@
             "resourceHomeUrl": "https://www.alliancegenome.org",
             "sampleId": "2442292",
             "urlPattern": "https://www.alliancegenome.org/gene/MGI:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Mouse Genome Informatics Database",
+            "id": 147,
+            "institution": {
+                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
+                "homeUrl": "https://www.jax.org/#",
+                "id": 91,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Jackson Laboratory",
+                "rorId": "https://ror.org/021sy4w91"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100062",
+            "name": "Mouse Genome Informatics Database",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.informatics.jax.org/",
+            "sampleId": "2442292",
+            "urlPattern": "http://www.informatics.jax.org/accession/MGI:{$id}"
         }
     ],
     "sampleId": "2442292",

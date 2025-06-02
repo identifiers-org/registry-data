@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "Sequence Ontology",
-            "id": 275,
-            "institution": {
-                "description": "The teaching and research activities of the Department of Molecular and Cell Biology (MCB) concern the molecular structures and processes of cellular life and their roles in the function, reproduction, and development of living organisms. This agenda covers a broad range of specialized disciplines, including biochemistry, biophysics, molecular biology, structural biology, genetics, genomics, bioinformatics, cell biology, developmental biology, tumor biology, microbiology, immunology, pathogenesis and neurobiology. The types of living organisms from which the departmental faculty draws its working materials are as diverse as its disciplinary specializations, ranging from viruses and microbes through plants, roundworms, annelids, arthropods, and mollusks to fish, amphibia, and mammals. The faculty of the department is organized into five divisions: Biochemistry and Molecular Biology; Cell and Developmental Biology; Genetics, Genomics and Development; Neurobiology; and Immunology and Molecular Medicine.",
-                "homeUrl": "https://mcb.berkeley.edu/",
-                "id": 274,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Department of Molecular and Cellular Biology, University of California, Berkeley",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100112",
-            "name": "Sequence Ontology",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.sequenceontology.org/",
-            "sampleId": "0000704",
-            "urlPattern": "http://www.sequenceontology.org/miso/current_release/term/SO:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "Sequence Ontology through BioPortal",
             "id": 276,
             "institution": {
@@ -119,6 +84,41 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/so",
             "sampleId": "0000704",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/so/terms?obo_id=SO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Sequence Ontology",
+            "id": 275,
+            "institution": {
+                "description": "The teaching and research activities of the Department of Molecular and Cell Biology (MCB) concern the molecular structures and processes of cellular life and their roles in the function, reproduction, and development of living organisms. This agenda covers a broad range of specialized disciplines, including biochemistry, biophysics, molecular biology, structural biology, genetics, genomics, bioinformatics, cell biology, developmental biology, tumor biology, microbiology, immunology, pathogenesis and neurobiology. The types of living organisms from which the departmental faculty draws its working materials are as diverse as its disciplinary specializations, ranging from viruses and microbes through plants, roundworms, annelids, arthropods, and mollusks to fish, amphibia, and mammals. The faculty of the department is organized into five divisions: Biochemistry and Molecular Biology; Cell and Developmental Biology; Genetics, Genomics and Development; Neurobiology; and Immunology and Molecular Medicine.",
+                "homeUrl": "https://mcb.berkeley.edu/",
+                "id": 274,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Department of Molecular and Cellular Biology, University of California, Berkeley",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100112",
+            "name": "Sequence Ontology",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.sequenceontology.org/",
+            "sampleId": "0000704",
+            "urlPattern": "http://www.sequenceontology.org/miso/current_release/term/SO:{$id}"
         }
     ],
     "sampleId": "0000704",

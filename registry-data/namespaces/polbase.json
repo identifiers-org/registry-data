@@ -43,7 +43,7 @@
             "name": "PolBase at New England BioLabs",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://polbase.neb.com/",

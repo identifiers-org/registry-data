@@ -43,7 +43,7 @@
             "name": "Proteomics DB Peptide at Center for Integrated Protein Science",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.proteomicsdb.org/#peptideSearch",

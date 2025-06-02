@@ -43,7 +43,7 @@
             "name": "Phytozome Locus at Joint Genome Institute",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.phytozome.net/",

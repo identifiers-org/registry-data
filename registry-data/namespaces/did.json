@@ -43,7 +43,7 @@
             "name": "Decentralized Identifiers (DIDs)",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://w3c-ccg.github.io/did-spec/",

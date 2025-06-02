@@ -43,7 +43,7 @@
             "name": "Canadian Drug Identification Number at Health Canada",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/drug-product-database.html",

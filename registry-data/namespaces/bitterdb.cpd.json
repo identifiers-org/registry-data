@@ -43,7 +43,7 @@
             "name": "BitterDB Compound at The Hebrew University of Jerusalem",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://bitterdb.agri.huji.ac.il/dbbitter.php",

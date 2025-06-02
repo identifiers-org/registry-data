@@ -43,7 +43,7 @@
             "name": "CLDB at Genova",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://bioinformatics.hsanmartino.it/hypercldb/indexes.html",

@@ -43,7 +43,7 @@
             "name": "miRTarBase at National Chiao Tung University",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://mirtarbase.mbc.nctu.edu.tw/",

@@ -43,7 +43,7 @@
             "name": "PeptideAtlas Dataset",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://db.systemsbiology.net/sbeams/cgi/PeptideAtlas/PASS_Summary",

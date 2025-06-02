@@ -43,7 +43,7 @@
             "name": "FuncBase Fly at Harvard Medical School",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://func.mshri.on.ca/fly",

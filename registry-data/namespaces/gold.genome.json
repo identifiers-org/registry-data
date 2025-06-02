@@ -43,7 +43,7 @@
             "name": "GOLD genome at Department of Energy Joint Genome Institute",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.genomesonline.org/cgi-bin/GOLD/index.cgi",

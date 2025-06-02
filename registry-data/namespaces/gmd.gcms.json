@@ -43,7 +43,7 @@
             "name": "Golm Metabolome Database (GC-MS Spectra) at Max Planck Institute of Molecular Plant Physiology",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://gmd.mpimp-golm.mpg.de/",

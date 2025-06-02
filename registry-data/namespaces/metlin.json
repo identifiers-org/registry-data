@@ -43,7 +43,7 @@
             "name": "METLIN at Scripps Center, Molecular Biology and Center for Mass Spectrometry, La Jolla",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://masspec.scripps.edu/",

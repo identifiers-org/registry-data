@@ -92,41 +92,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "GO Browser",
-            "id": 92,
-            "institution": {
-                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
-                "homeUrl": "https://www.jax.org/#",
-                "id": 91,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "The Jackson Laboratory",
-                "rorId": "https://ror.org/021sy4w91"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100015",
-            "name": "GO Browser",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.informatics.jax.org/searches/GO_form.shtml",
-            "sampleId": "0006915",
-            "urlPattern": "http://www.informatics.jax.org/searches/GO.cgi?id=GO:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "GO through BioPortal",
             "id": 93,
             "institution": {
@@ -162,41 +127,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "GO through PANTHER",
-            "id": 95,
-            "institution": {
-                "description": "Keck Medicine of USC is the University of Southern California’s medical enterprise, one of only two university-based medical systems in the Los Angeles area. Keck Medicine combines academic excellence, world-class research and state-of-the-art facilities to provide highly specialized care for some of the most acute patients in the country. ",
-                "homeUrl": "https://www.keckmedicine.org/",
-                "id": 94,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "Keck School of Medicine, University of Southern California",
-                "rorId": "https://ror.org/01rq8ck58"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100585",
-            "name": "GO through PANTHER",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.pantherdb.org/",
-            "sampleId": "0000003",
-            "urlPattern": "http://www.pantherdb.org/panther/category.do?categoryAcc=GO:{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "GO through OLS",
             "id": 96,
             "institution": {
@@ -224,6 +154,76 @@
             "resourceHomeUrl": "https://www.ebi.ac.uk/ols4/ontologies/go",
             "sampleId": "0006915",
             "urlPattern": "https://www.ebi.ac.uk/ols4/ontologies/go/terms?obo_id=GO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GO Browser",
+            "id": 92,
+            "institution": {
+                "description": "The Jackson Laboratory (JAX) is an independent, nonprofit biomedical research organization that leverages a unique combination of research, education and resources to achieve our mission: We DISCOVER precise genomic solutions for disease and EMPOWER the global biomedical community in its shared quest to improve human health.",
+                "homeUrl": "https://www.jax.org/#",
+                "id": 91,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "The Jackson Laboratory",
+                "rorId": "https://ror.org/021sy4w91"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100015",
+            "name": "GO Browser",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.informatics.jax.org/searches/GO_form.shtml",
+            "sampleId": "0006915",
+            "urlPattern": "http://www.informatics.jax.org/searches/GO.cgi?id=GO:{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "GO through PANTHER",
+            "id": 95,
+            "institution": {
+                "description": "Keck Medicine of USC is the University of Southern California’s medical enterprise, one of only two university-based medical systems in the Los Angeles area. Keck Medicine combines academic excellence, world-class research and state-of-the-art facilities to provide highly specialized care for some of the most acute patients in the country. ",
+                "homeUrl": "https://www.keckmedicine.org/",
+                "id": 94,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "Keck School of Medicine, University of Southern California",
+                "rorId": "https://ror.org/01rq8ck58"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100585",
+            "name": "GO through PANTHER",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.pantherdb.org/",
+            "sampleId": "0000003",
+            "urlPattern": "http://www.pantherdb.org/panther/category.do?categoryAcc=GO:{$id}"
         }
     ],
     "sampleId": "0006915",

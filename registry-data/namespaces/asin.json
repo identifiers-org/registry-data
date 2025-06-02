@@ -43,7 +43,7 @@
             "name": "Amazon Standard Identification Number (ASIN)",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.amazon.co.uk/gp/help/customer/display.html/277-3416785-8259466?ie=UTF8&nodeId=898182",

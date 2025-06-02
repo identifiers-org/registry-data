@@ -43,7 +43,7 @@
             "name": "Aclame database of mobile genetic elements",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://aclame.ulb.ac.be/",

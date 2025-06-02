@@ -43,7 +43,7 @@
             "name": "Broad Fungal Genome Initiative at Broad Institute",
             "official": true,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.broadinstitute.org/annotation/genome/magnaporthe_grisea/",

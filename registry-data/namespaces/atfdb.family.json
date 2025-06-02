@@ -43,7 +43,7 @@
             "name": "Animal TFDB at Hubei Bioinformatics & Molecular Imaging Key Laboratory",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.bioguo.org/AnimalTFDB/family_index.php",

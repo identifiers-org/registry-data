@@ -43,7 +43,7 @@
             "name": "Gene Wiki through BioGPS",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://en.wikipedia.org/wiki/Gene_Wiki",

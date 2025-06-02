@@ -18,41 +18,6 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
-            "description": "IMGT LIGM at CNRS",
-            "id": 846,
-            "institution": {
-                "description": "CURATOR_REVIEW",
-                "homeUrl": "CURATOR_REVIEW",
-                "id": 845,
-                "location": {
-                    "countryCode": "FR",
-                    "countryName": "France"
-                },
-                "name": "CNRS, Montpellier University, Montpellier",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "FR",
-                "countryName": "France"
-            },
-            "mirId": "MIR:00100428",
-            "name": "IMGT LIGM at CNRS",
-            "official": true,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.imgt.org/",
-            "sampleId": "M94112",
-            "urlPattern": "http://www.imgt.org/ligmdb/view?id={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
             "deprecated": true,
             "deprecationDate": "2024-10-30T16:22:59.023+00:00",
             "deprecationOfflineDate": null,
@@ -78,12 +43,47 @@
             "name": "IMGT LIGM through DKFZ (SRS)",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://genius.embnet.dkfz-heidelberg.de/",
             "sampleId": "M94112",
             "urlPattern": "http://genius.embnet.dkfz-heidelberg.de/menu/cgi-bin/srs7.1.3.1/wgetz?-id+4ktAl1fNMTA+-e+[IMGT:'{$id}']"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "IMGT LIGM at CNRS",
+            "id": 846,
+            "institution": {
+                "description": "CURATOR_REVIEW",
+                "homeUrl": "CURATOR_REVIEW",
+                "id": 845,
+                "location": {
+                    "countryCode": "FR",
+                    "countryName": "France"
+                },
+                "name": "CNRS, Montpellier University, Montpellier",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "FR",
+                "countryName": "France"
+            },
+            "mirId": "MIR:00100428",
+            "name": "IMGT LIGM at CNRS",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.imgt.org/",
+            "sampleId": "M94112",
+            "urlPattern": "http://www.imgt.org/ligmdb/view?id={$id}"
         }
     ],
     "sampleId": "M94112",

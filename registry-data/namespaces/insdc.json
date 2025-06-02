@@ -22,41 +22,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "INSDC through GenBank",
-            "id": 120,
-            "institution": {
-                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
-                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
-                "id": 26,
-                "location": {
-                    "countryCode": "US",
-                    "countryName": "United States"
-                },
-                "name": "National Center for Biotechnology Information",
-                "rorId": "https://ror.org/02meqm098"
-            },
-            "location": {
-                "countryCode": "US",
-                "countryName": "United States"
-            },
-            "mirId": "MIR:00100049",
-            "name": "INSDC through GenBank",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/Genbank/",
-            "sampleId": "X58356",
-            "urlPattern": "https://www.ncbi.nlm.nih.gov/nuccore/{$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "INSDC through European Nucleotide Archive (ENA)",
             "id": 123,
             "institution": {
@@ -92,41 +57,6 @@
             "deprecationDate": null,
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
-            "description": "INSDC through DDBJ",
-            "id": 122,
-            "institution": {
-                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
-                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
-                "id": 121,
-                "location": {
-                    "countryCode": "JP",
-                    "countryName": "Japan"
-                },
-                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
-                "rorId": null
-            },
-            "location": {
-                "countryCode": "JP",
-                "countryName": "Japan"
-            },
-            "mirId": "MIR:00100066",
-            "name": "INSDC through DDBJ",
-            "official": false,
-            "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
-            "renderDeprecatedLanding": false,
-            "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.ddbj.nig.ac.jp/",
-            "sampleId": "X58356",
-            "urlPattern": "https://getentry.ddbj.nig.ac.jp/getentry?database=ddbj&accession_number={$id}"
-        },
-        {
-            "authHelpDescription": null,
-            "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
-            "deprecationOfflineDate": null,
-            "deprecationStatement": null,
             "description": "INSDC through Nucleotide database at NCBI",
             "id": 124,
             "institution": {
@@ -154,6 +84,76 @@
             "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/nuccore/",
             "sampleId": "X58356",
             "urlPattern": "https://www.ncbi.nlm.nih.gov/nuccore/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "INSDC through GenBank",
+            "id": 120,
+            "institution": {
+                "description": "The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information.",
+                "homeUrl": "https://www.ncbi.nlm.nih.gov/",
+                "id": 26,
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "name": "National Center for Biotechnology Information",
+                "rorId": "https://ror.org/02meqm098"
+            },
+            "location": {
+                "countryCode": "US",
+                "countryName": "United States"
+            },
+            "mirId": "MIR:00100049",
+            "name": "INSDC through GenBank",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://www.ncbi.nlm.nih.gov/Genbank/",
+            "sampleId": "X58356",
+            "urlPattern": "https://www.ncbi.nlm.nih.gov/nuccore/{$id}"
+        },
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "INSDC through DDBJ",
+            "id": 122,
+            "institution": {
+                "description": "DDBJ Center collects nucleotide sequence data as a member of INSDC(International Nucleotide Sequence Database Collaboration) and provides freely available nucleotide sequence data and supercomputer system, to support research　activities in life science.",
+                "homeUrl": "https://www.ddbj.nig.ac.jp/index-e.html",
+                "id": 121,
+                "location": {
+                    "countryCode": "JP",
+                    "countryName": "Japan"
+                },
+                "name": "DNA Data Bank of Japan, Mishima, Shizuoka",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "JP",
+                "countryName": "Japan"
+            },
+            "mirId": "MIR:00100066",
+            "name": "INSDC through DDBJ",
+            "official": false,
+            "protectedUrls": false,
+            "providerCode": "",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.ddbj.nig.ac.jp/",
+            "sampleId": "X58356",
+            "urlPattern": "https://getentry.ddbj.nig.ac.jp/getentry?database=ddbj&accession_number={$id}"
         }
     ],
     "sampleId": "X58356",

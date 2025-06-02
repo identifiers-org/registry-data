@@ -43,7 +43,7 @@
             "name": "CAPS-DB at Leeds Institute of Molecular Medicine",
             "official": false,
             "protectedUrls": false,
-            "providerCode": "CURATOR_REVIEW",
+            "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.bioinsilico.org/cgi-bin/CAPSDB/staticHTML/home",
