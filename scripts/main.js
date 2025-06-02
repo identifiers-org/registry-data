@@ -13,6 +13,10 @@ const main = async () => {
             .then(json => json.payload.namespaces),
         ]).catch (err => console.error("Failed to read files", err));
     
+    // Ensure resources list is ordered by ID for consistency
+    liveDataset.forEach(ns => {
+        ns.resources = _.orderBy(ns.resources, 'id')
+    });
 
     // Checking if versions are equal
     const fileByKey = _.keyBy(fileDataset, "prefix");
