@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://mycobrowser.epfl.ch/marinolist.html",
+            "resourceHomeUrl": "https://mycobrowser.epfl.ch",
             "sampleId": "MMAR_2462",
-            "urlPattern": "http://mycobrowser.epfl.ch/marinosearch.php?gene+name={$id}"
+            "urlPattern": "https://mycobrowser.epfl.ch/genes/{$id}"
         }
     ],
     "sampleId": "MMAR_2462",

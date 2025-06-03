@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:17.382+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-02T14:55:05.626+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "H-Invitational Database (H-InvDB) is an integrated database of human genes and transcripts. It provides curated annotations of human genes and transcripts including gene structures, alternative splicing isoforms, non-coding functional RNAs, protein functions, functional domains, sub-cellular localizations, metabolic pathways, protein 3D structure, genetic polymorphisms (SNPs, indels and microsatellite repeats), relation with diseases, gene expression profiling, molecular evolutionary features, protein-protein interactions (PPIs) and gene families/groups. This datatype provides access to the 'Locus' view.",
     "id": 517,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000167",
-    "modified": "2019-06-11T14:16:17.382+00:00",
+    "modified": "2025-06-02T14:55:09.405+00:00",
     "name": "H-InvDb Locus",
     "namespaceEmbeddedInLui": false,
     "pattern": "^HIX\\d{7}(\\.\\d+)?$",
     "prefix": "hinv.locus",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

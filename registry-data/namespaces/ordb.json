@@ -8,7 +8,7 @@
     "id": 1415,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000499",
-    "modified": "2019-06-11T14:17:34.104+00:00",
+    "modified": "2025-06-02T15:51:33.121+00:00",
     "name": "Olfactory Receptor Database",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://senselab.med.yale.edu/OrDB/",
             "sampleId": "8497",
-            "urlPattern": "http://senselab.med.yale.edu/ORDB/Data/{$id}"
+            "urlPattern": "https://ordb.biotech.ttu.edu/ORDB/Data/{$id}"
         }
     ],
     "sampleId": "8497",

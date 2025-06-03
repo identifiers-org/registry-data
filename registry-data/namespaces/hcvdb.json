@@ -4,11 +4,11 @@
     "deprecationDate": null,
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
-    "description": "the European Hepatitis C Virus Database (euHCVdb, http://euhcvdb.ibcp.fr), a collection of computer-annotated sequences based on reference genomes.mainly dedicated to HCV protein sequences, 3D structures and functional analyses.",
+    "description": "the European Hepatitis C Virus Database (euHCVdb, euhcvdb.lyon.inserm.fr), a collection of computer-annotated sequences based on reference genomes.mainly dedicated to HCV protein sequences, 3D structures and functional analyses.",
     "id": 617,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000207",
-    "modified": "2019-06-11T14:16:26.018+00:00",
+    "modified": "2025-06-02T15:00:04.644+00:00",
     "name": "HCVDB",
     "namespaceEmbeddedInLui": false,
     "pattern": "^M\\d{5}$",
@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://euhcvdb.ibcp.fr/euHCVdb/",
+            "resourceHomeUrl": "https://euhcvdb.lyon.inserm.fr/euHCVdb",
             "sampleId": "M58335",
-            "urlPattern": "https://euhcvdb.ibcp.fr/euHCVdb/do/displayHCVEntry?primaryAC={$id}"
+            "urlPattern": "https://euhcvdb.lyon.inserm.fr/euHCVdb/do/displayHCVEntry?primaryAC={$id}"
         }
     ],
     "sampleId": "M58335",

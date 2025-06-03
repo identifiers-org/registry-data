@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://pir0.georgetown.edu/resid/",
+            "resourceHomeUrl": "https://proteininformationresource.org/resid/",
             "sampleId": "AA0001",
-            "urlPattern": "http://pir0.georgetown.edu/cgi-bin/resid?id={$id}"
+            "urlPattern": "https://proteininformationresource.org/cgi-bin/resid?id={$id}"
         }
     ],
     "sampleId": "AA0001",

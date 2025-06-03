@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.homd.org/index.php",
+            "resourceHomeUrl": "http://www.homd.org/",
             "sampleId": "811",
-            "urlPattern": "http://www.homd.org/modules.php?op=modload&name=HOMD&file=index&oraltaxonid={$id}&view=dynamic"
+            "urlPattern": "https://www.homd.org/taxa/tax_description?otid={$id}"
         }
     ],
     "sampleId": "811",

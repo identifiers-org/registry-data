@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://tuberculist.epfl.ch/",
             "sampleId": "Rv1908c",
-            "urlPattern": "http://tuberculist.epfl.ch/quicksearch.php?gene+name={$id}"
+            "urlPattern": "https://mycobrowser.epfl.ch/genes/{$id}"
         }
     ],
     "sampleId": "Rv1908c",

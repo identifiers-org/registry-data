@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://senselab.med.yale.edu/OdorDB",
+            "resourceHomeUrl": "https://ordb.biotech.ttu.edu/OdorDB",
             "sampleId": "74",
-            "urlPattern": "http://senselab.med.yale.edu/OdorDB/Data/{$id}/?db=5"
+            "urlPattern": "https://ordb.biotech.ttu.edu/OdorDB/Data/{$id}"
         }
     ],
     "sampleId": "74",

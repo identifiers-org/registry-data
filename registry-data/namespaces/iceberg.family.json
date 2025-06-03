@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://db-mml.sjtu.edu.cn/ICEberg/",
+            "resourceHomeUrl": "https://bioinfo-mml.sjtu.edu.cn/ICEberg2",
             "sampleId": "1",
-            "urlPattern": "http://db-mml.sjtu.edu.cn/ICEberg/browse_result.php?type=fam&fam_id={$id}"
+            "urlPattern": "https://bioinfo-mml.sjtu.edu.cn/ICEberg2/browse_result.php?type=fam&fam_id={$id}"
         }
     ],
     "sampleId": "1",

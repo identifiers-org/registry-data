@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://caps.ncbs.res.in/pass2/",
+            "resourceHomeUrl": "https://caps.ncbs.res.in/pass2.8",
             "sampleId": "46977",
-            "urlPattern": "http://caps.ncbs.res.in/cgi-bin/pass2//show_sf.py?sf_id={$id}"
+            "urlPattern": "https://caps.ncbs.res.in/pass2.8/?q=superfamily/{$id}"
         }
     ],
     "sampleId": "46977",

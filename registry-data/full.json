@@ -20721,15 +20721,15 @@
     },
     {
         "created": "2019-06-11T14:16:16.885+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T14:53:19.190+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "A 16S rRNA gene database which provides chimera screening, standard alignment, and taxonomic classification using multiple published taxonomies.",
         "id": 511,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000165",
-        "modified": "2019-06-11T14:16:16.885+00:00",
+        "modified": "2025-06-02T14:53:36.387+00:00",
         "name": "GreenGenes",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
@@ -21600,11 +21600,11 @@
         "deprecationDate": null,
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
-        "description": "the European Hepatitis C Virus Database (euHCVdb, http://euhcvdb.ibcp.fr), a collection of computer-annotated sequences based on reference genomes.mainly dedicated to HCV protein sequences, 3D structures and functional analyses.",
+        "description": "the European Hepatitis C Virus Database (euHCVdb, euhcvdb.lyon.inserm.fr), a collection of computer-annotated sequences based on reference genomes.mainly dedicated to HCV protein sequences, 3D structures and functional analyses.",
         "id": 617,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000207",
-        "modified": "2019-06-11T14:16:26.018+00:00",
+        "modified": "2025-06-02T15:00:04.644+00:00",
         "name": "HCVDB",
         "namespaceEmbeddedInLui": false,
         "pattern": "^M\\d{5}$",
@@ -21642,9 +21642,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://euhcvdb.ibcp.fr/euHCVdb/",
+                "resourceHomeUrl": "https://euhcvdb.lyon.inserm.fr/euHCVdb",
                 "sampleId": "M58335",
-                "urlPattern": "https://euhcvdb.ibcp.fr/euHCVdb/do/displayHCVEntry?primaryAC={$id}"
+                "urlPattern": "https://euhcvdb.lyon.inserm.fr/euHCVdb/do/displayHCVEntry?primaryAC={$id}"
             }
         ],
         "sampleId": "M58335",
@@ -21652,20 +21652,20 @@
     },
     {
         "created": "2019-06-11T14:17:33.593+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T14:50:53.816+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "The Homeodomain Resource is a curated collection of sequence, structure, interaction, genomic and functional information on the homeodomain family. It contains sets of curated homeodomain sequences from fully sequenced genomes, including experimentally derived homeodomain structures, homeodomain protein-protein interactions, homeodomain DNA-binding sites and homeodomain proteins implicated in human genetic disorders.",
         "id": 1409,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000497",
-        "modified": "2019-06-11T14:17:33.593+00:00",
+        "modified": "2025-06-02T14:51:33.847+00:00",
         "name": "Homeodomain Research",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
         "prefix": "hdr",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -22044,20 +22044,20 @@
     },
     {
         "created": "2019-06-11T14:16:17.382+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T14:55:05.626+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "H-Invitational Database (H-InvDB) is an integrated database of human genes and transcripts. It provides curated annotations of human genes and transcripts including gene structures, alternative splicing isoforms, non-coding functional RNAs, protein functions, functional domains, sub-cellular localizations, metabolic pathways, protein 3D structure, genetic polymorphisms (SNPs, indels and microsatellite repeats), relation with diseases, gene expression profiling, molecular evolutionary features, protein-protein interactions (PPIs) and gene families/groups. This datatype provides access to the 'Locus' view.",
         "id": 517,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000167",
-        "modified": "2019-06-11T14:16:17.382+00:00",
+        "modified": "2025-06-02T14:55:09.405+00:00",
         "name": "H-InvDb Locus",
         "namespaceEmbeddedInLui": false,
         "pattern": "^HIX\\d{7}(\\.\\d+)?$",
         "prefix": "hinv.locus",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -22156,20 +22156,20 @@
     },
     {
         "created": "2019-06-11T14:16:17.622+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T15:08:27.243+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "H-Invitational Database (H-InvDB) is an integrated database of human genes and transcripts. It provides curated annotations of human genes and transcripts including gene structures, alternative splicing isoforms, non-coding functional RNAs, protein functions, functional domains, sub-cellular localizations, metabolic pathways, protein 3D structure, genetic polymorphisms (SNPs, indels and microsatellite repeats), relation with diseases, gene expression profiling, molecular evolutionary features, protein-protein interactions (PPIs) and gene families/groups. This datatype provides access to the 'Transcript' view.",
         "id": 520,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000168",
-        "modified": "2019-06-11T14:16:17.622+00:00",
+        "modified": "2025-06-02T15:08:30.878+00:00",
         "name": "H-InvDb Transcript",
         "namespaceEmbeddedInLui": false,
         "pattern": "^HIT\\d{9}(\\.\\d+)?$",
         "prefix": "hinv.transcript",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -22276,7 +22276,7 @@
         "id": 634,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000213",
-        "modified": "2019-06-11T14:16:27.678+00:00",
+        "modified": "2025-06-02T15:04:55.028+00:00",
         "name": "HOGENOM",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\w+$",
@@ -22314,12 +22314,12 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://pbil.univ-lyon1.fr/databases/hogenom/",
-                "sampleId": "HBG284870",
-                "urlPattern": "http://pbil.univ-lyon1.fr/cgi-bin/view-tree.pl?db=HOGENOM5&query={$id}"
+                "resourceHomeUrl": "http://hogenom.univ-lyon1.fr/",
+                "sampleId": "HOMO_3.PE998",
+                "urlPattern": "http://hogenom.univ-lyon1.fr/query_sequence?Go=Submit+Query&seq={$id}"
             }
         ],
-        "sampleId": "HBG284870",
+        "sampleId": "HOMO_3.PE998",
         "successor": null
     },
     {
@@ -22332,7 +22332,7 @@
         "id": 524,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000170",
-        "modified": "2019-06-11T14:16:18.019+00:00",
+        "modified": "2025-06-02T15:16:30.250+00:00",
         "name": "HOMD Sequence Metainformation",
         "namespaceEmbeddedInLui": false,
         "pattern": "^SEQF\\d+$",
@@ -22370,12 +22370,12 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://www.homd.org/index.php",
-                "sampleId": "SEQF1003",
-                "urlPattern": "http://www.homd.org/modules.php?op=modload&name=GenomeList&file=index&link=detailinfo&seqid={$id}"
+                "resourceHomeUrl": "https://www.homd.org/",
+                "sampleId": "SEQF1003.1",
+                "urlPattern": "https://v31.homd.org/genome/genome_description?gid={$id}"
             }
         ],
-        "sampleId": "SEQF1003",
+        "sampleId": "SEQF1003.1",
         "successor": null
     },
     {
@@ -22426,9 +22426,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://www.homd.org/index.php",
+                "resourceHomeUrl": "http://www.homd.org/",
                 "sampleId": "811",
-                "urlPattern": "http://www.homd.org/modules.php?op=modload&name=HOMD&file=index&oraltaxonid={$id}&view=dynamic"
+                "urlPattern": "https://www.homd.org/taxa/tax_description?otid={$id}"
             }
         ],
         "sampleId": "811",
@@ -23406,9 +23406,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://db-mml.sjtu.edu.cn/ICEberg/",
+                "resourceHomeUrl": "https://bioinfo-mml.sjtu.edu.cn/ICEberg2",
                 "sampleId": "100",
-                "urlPattern": "http://db-mml.sjtu.edu.cn/ICEberg/feature_page.php?ice_id={$id}"
+                "urlPattern": "https://bioinfo-mml.sjtu.edu.cn/ICEberg2/feature_page.php?ice_id={$id}"
             }
         ],
         "sampleId": "100",
@@ -23462,9 +23462,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://db-mml.sjtu.edu.cn/ICEberg/",
+                "resourceHomeUrl": "https://bioinfo-mml.sjtu.edu.cn/ICEberg2",
                 "sampleId": "1",
-                "urlPattern": "http://db-mml.sjtu.edu.cn/ICEberg/browse_result.php?type=fam&fam_id={$id}"
+                "urlPattern": "https://bioinfo-mml.sjtu.edu.cn/ICEberg2/browse_result.php?type=fam&fam_id={$id}"
             }
         ],
         "sampleId": "1",
@@ -24262,7 +24262,7 @@
                 "renderProtectedLanding": false,
                 "resourceHomeUrl": "https://www.ebi.ac.uk/imgt/hla/allele.html",
                 "sampleId": "A*01:01:01:01",
-                "urlPattern": "https://www.ebi.ac.uk/cgi-bin/imgt/hla/get_allele.cgi?{$id}"
+                "urlPattern": "https://www.ebi.ac.uk/ipd/imgt/hla/alleles/?query=eq(name,%22{$id}%22)"
             }
         ],
         "sampleId": "A*01:01:01:01",
@@ -25411,20 +25411,20 @@
     },
     {
         "created": "2019-06-11T14:16:05.614+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T15:43:48.459+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "iRefWeb is an interface to a relational database containing the latest build of the interaction Reference Index (iRefIndex) which integrates protein interaction data from ten different interaction databases: BioGRID, BIND, CORUM, DIP, HPRD, INTACT, MINT, MPPI, MPACT and OPHID. In addition, iRefWeb associates interactions with the PubMed record from which they are derived.",
         "id": 389,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000123",
-        "modified": "2019-06-11T14:16:05.614+00:00",
+        "modified": "2025-06-02T15:43:56.693+00:00",
         "name": "iRefWeb",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
         "prefix": "irefweb",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -25558,15 +25558,15 @@
     },
     {
         "created": "2019-06-11T14:16:18.690+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T15:37:57.445+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "ISfinder is a database of bacterial insertion sequences (IS). It assigns IS nomenclature and acts as a repository for ISs. Each IS is annotated with information such as the open reading frame DNA sequence, the sequence of the ends of the element and target sites, its origin and distribution together with a bibliography, where available.",
         "id": 532,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000173",
-        "modified": "2019-06-11T14:16:18.690+00:00",
+        "modified": "2025-06-02T15:37:57.446+00:00",
         "name": "ISFinder",
         "namespaceEmbeddedInLui": false,
         "pattern": "^IS\\w+(\\-\\d)?$",
@@ -26041,15 +26041,15 @@
     },
     {
         "created": "2019-06-11T14:17:29.437+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T15:31:19.959+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "JCGGDB (Japan Consortium for Glycobiology and Glycotechnology DataBase) is a database that aims to integrate all glycan-related data held in various repositories in Japan. This includes databases for large-quantity synthesis of glycogenes and glycans, analysis and detection of glycan structure and glycoprotein, glycan-related differentiation markers, glycan functions, glycan-related diseases and transgenic and knockout animals, etc.",
         "id": 1363,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000479",
-        "modified": "2019-06-11T14:17:29.437+00:00",
+        "modified": "2025-06-02T15:31:19.959+00:00",
         "name": "JCGGDB",
         "namespaceEmbeddedInLui": false,
         "pattern": "^JCGG-STR\\d{6}$",
@@ -29545,9 +29545,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://merops.sanger.ac.uk/index.htm",
+                "resourceHomeUrl": "https://www.ebi.ac.uk/merops",
                 "sampleId": "I31.952",
-                "urlPattern": "http://merops.sanger.ac.uk/cgi-bin/pepsum?id={$id}"
+                "urlPattern": "https://www.ebi.ac.uk/merops/cgi-bin/pepsum?id={$id}"
             }
         ],
         "sampleId": "I31.952",
@@ -33084,7 +33084,7 @@
         "id": 392,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000124",
-        "modified": "2019-06-11T14:16:05.849+00:00",
+        "modified": "2025-06-02T15:35:33.502+00:00",
         "name": "Microbial Protein Interaction Database",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
@@ -33094,8 +33094,8 @@
             {
                 "authHelpDescription": null,
                 "authHelpUrl": null,
-                "deprecated": false,
-                "deprecationDate": null,
+                "deprecated": true,
+                "deprecationDate": "2025-06-02T15:35:21.369+00:00",
                 "deprecationOfflineDate": null,
                 "deprecationStatement": null,
                 "description": "Microbial Protein Interaction Database",
@@ -33162,7 +33162,7 @@
                 "urlPattern": "https://www.ebi.ac.uk/intact/query/interaction_id:MPIDB-INT-{$id}"
             }
         ],
-        "sampleId": "172",
+        "sampleId": "1776",
         "successor": null
     },
     {
@@ -33675,9 +33675,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://mycobrowser.epfl.ch/marinolist.html",
+                "resourceHomeUrl": "https://mycobrowser.epfl.ch",
                 "sampleId": "MMAR_2462",
-                "urlPattern": "http://mycobrowser.epfl.ch/marinosearch.php?gene+name={$id}"
+                "urlPattern": "https://mycobrowser.epfl.ch/genes/{$id}"
             }
         ],
         "sampleId": "MMAR_2462",
@@ -33731,9 +33731,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://mycobrowser.epfl.ch/smegmalist.html",
+                "resourceHomeUrl": "https://mycobrowser.epfl.ch",
                 "sampleId": "MSMEG_3769",
-                "urlPattern": "http://mycobrowser.epfl.ch/smegmasearch.php?gene+name={$id}"
+                "urlPattern": "https://mycobrowser.epfl.ch/genes/{$id}"
             }
         ],
         "sampleId": "MSMEG_3769",
@@ -33789,7 +33789,7 @@
                 "renderProtectedLanding": false,
                 "resourceHomeUrl": "http://tuberculist.epfl.ch/",
                 "sampleId": "Rv1908c",
-                "urlPattern": "http://tuberculist.epfl.ch/quicksearch.php?gene+name={$id}"
+                "urlPattern": "https://mycobrowser.epfl.ch/genes/{$id}"
             }
         ],
         "sampleId": "Rv1908c",
@@ -34095,11 +34095,11 @@
         "deprecationDate": null,
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
-        "description": "NAPP (Nucleic Acids Phylogenetic Profiling is a clustering method based on conserved noncoding RNA (ncRNA) elements in a bacterial genomes. Short intergenic regions from a reference genome are compared with other genomes to identify RNA rich clusters.",
+        "description": "NAPP (Nucleic Acids Phylogenetic Profiling) is a clustering method based on conserved noncoding RNA (ncRNA) elements in a bacterial genomes. Short intergenic regions from a reference genome are compared with other genomes to identify RNA rich clusters.",
         "id": 733,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000247",
-        "modified": "2019-06-11T14:16:36.669+00:00",
+        "modified": "2025-06-02T15:39:14.700+00:00",
         "name": "NAPP",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
@@ -34137,9 +34137,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://napp.u-psud.fr/",
+                "resourceHomeUrl": "http://rssf.i2bc.paris-saclay.fr/NAPP/index.php",
                 "sampleId": "351",
-                "urlPattern": "http://rna.igmors.u-psud.fr/NAPP/Niveau2.php?specie={$id}"
+                "urlPattern": "http://rssf.i2bc.paris-saclay.fr/NAPP/Niveau2.php?specie={$id}"
             }
         ],
         "sampleId": "351",
@@ -34802,9 +34802,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://ndc.bio2rdf.org/fct",
+                "resourceHomeUrl": "http://bio2rdf.org",
                 "sampleId": "0002-1975-61",
-                "urlPattern": "http://ndc.bio2rdf.org/describe/?url=http://bio2rdf.org/ndc:{$id}"
+                "urlPattern": "http://bio2rdf.org/ndc:{$id}"
             }
         ],
         "sampleId": "0002-1975-61",
@@ -35015,20 +35015,20 @@
     },
     {
         "created": "2019-06-11T14:15:58.106+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T15:41:07.312+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "NeuronDB provides a dynamically searchable database of three types of neuronal properties: voltage gated conductances, neurotransmitter receptors, and neurotransmitter substances. It contains tools that provide for integration of these properties in a given type of neuron and compartment, and for comparison of properties across different types of neurons and compartments.",
         "id": 309,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000094",
-        "modified": "2019-06-11T14:15:58.106+00:00",
+        "modified": "2025-06-02T15:41:11.651+00:00",
         "name": "NeuronDB",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
         "prefix": "neurondb",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -35351,20 +35351,20 @@
     },
     {
         "created": "2019-06-11T14:16:49.376+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T15:34:32.566+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "A catalog of mouse genes expressed in early embryos, embryonic and adult stem cells, including 250000 ESTs, was assembled by the NIA (National Institute on Aging) assembled.This collection represents the name and sequence from individual cDNA clones.",
         "id": 889,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000305",
-        "modified": "2019-06-11T14:16:49.376+00:00",
+        "modified": "2025-06-02T15:34:39.091+00:00",
         "name": "NIAEST",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\w\\d{4}\\w\\d{2}(\\-[35])?$",
         "prefix": "niaest",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -36734,9 +36734,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://senselab.med.yale.edu/OdorDB",
+                "resourceHomeUrl": "https://ordb.biotech.ttu.edu/OdorDB",
                 "sampleId": "74",
-                "urlPattern": "http://senselab.med.yale.edu/OdorDB/Data/{$id}/?db=5"
+                "urlPattern": "https://ordb.biotech.ttu.edu/OdorDB/Data/{$id}"
             }
         ],
         "sampleId": "74",
@@ -37368,7 +37368,7 @@
         "id": 1415,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000499",
-        "modified": "2019-06-11T14:17:34.104+00:00",
+        "modified": "2025-06-02T15:51:33.121+00:00",
         "name": "Olfactory Receptor Database",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
@@ -37408,7 +37408,7 @@
                 "renderProtectedLanding": false,
                 "resourceHomeUrl": "http://senselab.med.yale.edu/OrDB/",
                 "sampleId": "8497",
-                "urlPattern": "http://senselab.med.yale.edu/ORDB/Data/{$id}"
+                "urlPattern": "https://ordb.biotech.ttu.edu/ORDB/Data/{$id}"
             }
         ],
         "sampleId": "8497",
@@ -38505,9 +38505,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://caps.ncbs.res.in/pass2/",
+                "resourceHomeUrl": "https://caps.ncbs.res.in/pass2.8",
                 "sampleId": "46977",
-                "urlPattern": "http://caps.ncbs.res.in/cgi-bin/pass2//show_sf.py?sf_id={$id}"
+                "urlPattern": "https://caps.ncbs.res.in/pass2.8/?q=superfamily/{$id}"
             }
         ],
         "sampleId": "46977",
@@ -39992,15 +39992,15 @@
     },
     {
         "created": "2019-06-11T14:17:08.458+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T15:57:09.317+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "PhosphoPOINT is a database of the human kinase and phospho-protein interactome. It describes the interactions among kinases, their potential substrates and their interacting (phospho)-proteins. It also incorporates gene expression and uses gene ontology (GO) terms to annotate interactions. This collection references phosphoprotein information.",
         "id": 1118,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000386",
-        "modified": "2019-06-11T14:17:08.458+00:00",
+        "modified": "2025-06-02T15:57:09.319+00:00",
         "name": "PhosphoPoint Phosphoprotein",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\w+$",
@@ -40272,20 +40272,20 @@
     },
     {
         "created": "2019-06-11T14:16:08.872+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-06-02T14:46:16.019+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "The Pathway Interaction Database is a highly-structured, curated collection of information about known human biomolecular interactions and key cellular processes assembled into signaling pathways. This datatype provides access to pathway information.",
         "id": 424,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000133",
-        "modified": "2019-06-11T14:16:08.872+00:00",
+        "modified": "2025-06-02T14:46:23.449+00:00",
         "name": "NCI Pathway Interaction Database: Pathway",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\w+$",
         "prefix": "pid.pathway",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -43797,9 +43797,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://pir0.georgetown.edu/resid/",
+                "resourceHomeUrl": "https://proteininformationresource.org/resid/",
                 "sampleId": "AA0001",
-                "urlPattern": "http://pir0.georgetown.edu/cgi-bin/resid?id={$id}"
+                "urlPattern": "https://proteininformationresource.org/cgi-bin/resid?id={$id}"
             }
         ],
         "sampleId": "AA0001",

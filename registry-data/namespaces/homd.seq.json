@@ -8,7 +8,7 @@
     "id": 524,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000170",
-    "modified": "2019-06-11T14:16:18.019+00:00",
+    "modified": "2025-06-02T15:16:30.250+00:00",
     "name": "HOMD Sequence Metainformation",
     "namespaceEmbeddedInLui": false,
     "pattern": "^SEQF\\d+$",
@@ -46,11 +46,11 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.homd.org/index.php",
-            "sampleId": "SEQF1003",
-            "urlPattern": "http://www.homd.org/modules.php?op=modload&name=GenomeList&file=index&link=detailinfo&seqid={$id}"
+            "resourceHomeUrl": "https://www.homd.org/",
+            "sampleId": "SEQF1003.1",
+            "urlPattern": "https://v31.homd.org/genome/genome_description?gid={$id}"
         }
     ],
-    "sampleId": "SEQF1003",
+    "sampleId": "SEQF1003.1",
     "successor": null
 }

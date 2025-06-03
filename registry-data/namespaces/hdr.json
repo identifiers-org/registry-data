@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:33.593+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-02T14:50:53.816+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The Homeodomain Resource is a curated collection of sequence, structure, interaction, genomic and functional information on the homeodomain family. It contains sets of curated homeodomain sequences from fully sequenced genomes, including experimentally derived homeodomain structures, homeodomain protein-protein interactions, homeodomain DNA-binding sites and homeodomain proteins implicated in human genetic disorders.",
     "id": 1409,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000497",
-    "modified": "2019-06-11T14:17:33.593+00:00",
+    "modified": "2025-06-02T14:51:33.847+00:00",
     "name": "Homeodomain Research",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "hdr",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

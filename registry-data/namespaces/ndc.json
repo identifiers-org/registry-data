@@ -81,9 +81,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://ndc.bio2rdf.org/fct",
+            "resourceHomeUrl": "http://bio2rdf.org",
             "sampleId": "0002-1975-61",
-            "urlPattern": "http://ndc.bio2rdf.org/describe/?url=http://bio2rdf.org/ndc:{$id}"
+            "urlPattern": "http://bio2rdf.org/ndc:{$id}"
         }
     ],
     "sampleId": "0002-1975-61",

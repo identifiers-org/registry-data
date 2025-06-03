@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:05.614+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-02T15:43:48.459+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "iRefWeb is an interface to a relational database containing the latest build of the interaction Reference Index (iRefIndex) which integrates protein interaction data from ten different interaction databases: BioGRID, BIND, CORUM, DIP, HPRD, INTACT, MINT, MPPI, MPACT and OPHID. In addition, iRefWeb associates interactions with the PubMed record from which they are derived.",
     "id": 389,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000123",
-    "modified": "2019-06-11T14:16:05.614+00:00",
+    "modified": "2025-06-02T15:43:56.693+00:00",
     "name": "iRefWeb",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "irefweb",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

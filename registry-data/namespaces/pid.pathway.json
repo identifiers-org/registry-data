@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:08.872+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-02T14:46:16.019+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The Pathway Interaction Database is a highly-structured, curated collection of information about known human biomolecular interactions and key cellular processes assembled into signaling pathways. This datatype provides access to pathway information.",
     "id": 424,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000133",
-    "modified": "2019-06-11T14:16:08.872+00:00",
+    "modified": "2025-06-02T14:46:23.449+00:00",
     "name": "NCI Pathway Interaction Database: Pathway",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\w+$",
     "prefix": "pid.pathway",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://mycobrowser.epfl.ch/smegmalist.html",
+            "resourceHomeUrl": "https://mycobrowser.epfl.ch",
             "sampleId": "MSMEG_3769",
-            "urlPattern": "http://mycobrowser.epfl.ch/smegmasearch.php?gene+name={$id}"
+            "urlPattern": "https://mycobrowser.epfl.ch/genes/{$id}"
         }
     ],
     "sampleId": "MSMEG_3769",

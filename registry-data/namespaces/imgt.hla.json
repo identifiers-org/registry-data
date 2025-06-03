@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.ebi.ac.uk/imgt/hla/allele.html",
             "sampleId": "A*01:01:01:01",
-            "urlPattern": "https://www.ebi.ac.uk/cgi-bin/imgt/hla/get_allele.cgi?{$id}"
+            "urlPattern": "https://www.ebi.ac.uk/ipd/imgt/hla/alleles/?query=eq(name,%22{$id}%22)"
         }
     ],
     "sampleId": "A*01:01:01:01",

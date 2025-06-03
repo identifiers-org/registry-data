@@ -8,7 +8,7 @@
     "id": 392,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000124",
-    "modified": "2019-06-11T14:16:05.849+00:00",
+    "modified": "2025-06-02T15:35:33.502+00:00",
     "name": "Microbial Protein Interaction Database",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
@@ -18,8 +18,8 @@
         {
             "authHelpDescription": null,
             "authHelpUrl": null,
-            "deprecated": false,
-            "deprecationDate": null,
+            "deprecated": true,
+            "deprecationDate": "2025-06-02T15:35:21.369+00:00",
             "deprecationOfflineDate": null,
             "deprecationStatement": null,
             "description": "Microbial Protein Interaction Database",
@@ -86,6 +86,6 @@
             "urlPattern": "https://www.ebi.ac.uk/intact/query/interaction_id:MPIDB-INT-{$id}"
         }
     ],
-    "sampleId": "172",
+    "sampleId": "1776",
     "successor": null
 }

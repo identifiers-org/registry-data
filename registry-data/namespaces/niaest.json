@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:49.376+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-02T15:34:32.566+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "A catalog of mouse genes expressed in early embryos, embryonic and adult stem cells, including 250000 ESTs, was assembled by the NIA (National Institute on Aging) assembled.This collection represents the name and sequence from individual cDNA clones.",
     "id": 889,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000305",
-    "modified": "2019-06-11T14:16:49.376+00:00",
+    "modified": "2025-06-02T15:34:39.091+00:00",
     "name": "NIAEST",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\w\\d{4}\\w\\d{2}(\\-[35])?$",
     "prefix": "niaest",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

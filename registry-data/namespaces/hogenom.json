@@ -8,7 +8,7 @@
     "id": 634,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000213",
-    "modified": "2019-06-11T14:16:27.678+00:00",
+    "modified": "2025-06-02T15:04:55.028+00:00",
     "name": "HOGENOM",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\w+$",
@@ -46,11 +46,11 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://pbil.univ-lyon1.fr/databases/hogenom/",
-            "sampleId": "HBG284870",
-            "urlPattern": "http://pbil.univ-lyon1.fr/cgi-bin/view-tree.pl?db=HOGENOM5&query={$id}"
+            "resourceHomeUrl": "http://hogenom.univ-lyon1.fr/",
+            "sampleId": "HOMO_3.PE998",
+            "urlPattern": "http://hogenom.univ-lyon1.fr/query_sequence?Go=Submit+Query&seq={$id}"
         }
     ],
-    "sampleId": "HBG284870",
+    "sampleId": "HOMO_3.PE998",
     "successor": null
 }
