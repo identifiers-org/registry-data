@@ -47159,6 +47159,62 @@
         "successor": null
     },
     {
+        "created": "2025-06-04T08:33:08.309+00:00",
+        "deprecated": false,
+        "deprecationDate": null,
+        "deprecationOfflineDate": null,
+        "deprecationStatement": null,
+        "description": "The SPARC Data Repository Service (DRS) is an implementation of the Global Alliance for Genomics and Health (GA4GH) DRS specification that provides a standardized API that enables researchers and other data consumers to access and retrieve data objects from various data repositories in a consistent and cloud-agnostic way. This implementation provides information for data objects in the SPARC repository (sparc.science).",
+        "id": 4353,
+        "infoOnPostmortemAccess": null,
+        "mirId": "MIR:00001102",
+        "modified": "2025-06-04T08:33:08.309+00:00",
+        "name": "SPARC DRS",
+        "namespaceEmbeddedInLui": false,
+        "pattern": "[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}",
+        "prefix": "sparc.drs",
+        "renderDeprecatedLanding": false,
+        "resources": [
+            {
+                "authHelpDescription": null,
+                "authHelpUrl": null,
+                "deprecated": false,
+                "deprecationDate": null,
+                "deprecationOfflineDate": null,
+                "deprecationStatement": null,
+                "description": "The FAIR Data Informatics Lab at UCSD is a leader in developing and providing novel informatics infrastructure and tools for making data FAIR: Findable, Accessible, Interoperable and Reusable.",
+                "id": 4504,
+                "institution": {
+                    "description": "is a public research university in San Diego, California.\nEstablished in 1960 near the pre-existing Scripps Institution of Oceanography, UC San Diego is the seventh-oldest of the 10 University of California campuses and offers over 200 undergraduate and graduate degree programs, enrolling approximately 30,000 undergraduate and 8,500 graduate students.",
+                    "homeUrl": "https://ucsd.edu/",
+                    "id": 190,
+                    "location": {
+                        "countryCode": "US",
+                        "countryName": "United States"
+                    },
+                    "name": "University of California, San Diego",
+                    "rorId": "https://ror.org/0168r3w48"
+                },
+                "location": {
+                    "countryCode": "US",
+                    "countryName": "United States"
+                },
+                "mirId": "MIR:00001101",
+                "name": "FAIR Data Informatics Laboratory",
+                "official": true,
+                "protectedUrls": false,
+                "providerCode": "fdilab",
+                "renderDeprecatedLanding": false,
+                "renderProtectedLanding": false,
+                "resourceHomeUrl": "https://www.fdilab.org",
+                "sampleId": "8ca67504-3167-4cc8-ba74-98137bb7cd0a",
+                "urlPattern": "https://services.scicrunch.io/sparc/drs/v1/package/{$id}"
+            }
+        ],
+        "sampleId": "8ca67504-3167-4cc8-ba74-98137bb7cd0a",
+        "successor": null
+    },
+    {
         "created": "2019-06-11T14:18:20.855+00:00",
         "deprecated": false,
         "deprecationDate": null,
