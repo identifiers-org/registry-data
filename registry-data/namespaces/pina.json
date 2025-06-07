@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://cbg.garvan.unsw.edu.au/pina/",
+            "resourceHomeUrl": "https://omics.bjcancer.org/pina/",
             "sampleId": "Q13485",
-            "urlPattern": "http://cbg.garvan.unsw.edu.au/pina/interactome.oneP.do?ac={$id}&showExtend=null"
+            "urlPattern": "https://omics.bjcancer.org/pina/quickSearch.action?keyword={$id}"
         }
     ],
     "sampleId": "Q13485",

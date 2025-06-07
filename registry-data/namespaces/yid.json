@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:25.610+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-06T15:15:27.265+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The YEast Intron Database (version 3) contains information on the spliceosomal introns of the yeast Saccharomyces cerevisiae. It includes expression data that relates to the efficiency of splicing relative to other processes in strains of yeast lacking nonessential splicing factors.  The data are displayed on each intron page. An updated version of the database is available through [MIR:00000521].",
     "id": 1318,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000460",
-    "modified": "2019-06-11T14:17:25.610+00:00",
+    "modified": "2025-06-06T15:15:31.511+00:00",
     "name": "Yeast Intron Database v3",
     "namespaceEmbeddedInLui": false,
     "pattern": "^[A-Z0-9]+$",
     "prefix": "yid",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

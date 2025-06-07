@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://opencitations.net",
             "sampleId": "01027931310-01022252312",
-            "urlPattern": "https://w3id.org/oc/oci/{$id}"
+            "urlPattern": "https://opencitations.net/index/ci/{$id}"
         }
     ],
     "sampleId": "01027931310-01022252312",

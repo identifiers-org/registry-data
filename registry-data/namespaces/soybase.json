@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://soybase.org/",
             "sampleId": "BARC-013845-01256",
-            "urlPattern": "http://www.soybase.org/sbt/search/search_results.php?category=SNP&search_term={$id}"
+            "urlPattern": "https://legacy.soybase.org/sbt/search/search_results.php?category=SNP&search_term={$id}"
         }
     ],
     "sampleId": "BARC-013845-01256",

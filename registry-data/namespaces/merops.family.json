@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://merops.sanger.ac.uk/index.htm",
+            "resourceHomeUrl": "https://www.ebi.ac.uk/merops/",
             "sampleId": "S1",
-            "urlPattern": "http://merops.sanger.ac.uk/cgi-bin/famsum?family={$id}"
+            "urlPattern": "https://www.ebi.ac.uk/merops/cgi-bin/famsum?family={$id}"
         }
     ],
     "sampleId": "S1",

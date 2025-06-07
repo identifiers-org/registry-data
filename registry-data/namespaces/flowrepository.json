@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "https://flowrepository.org/",
+            "resourceHomeUrl": "http://flowrepository.org/",
             "sampleId": "FR-FCM-ZYGW",
-            "urlPattern": "https://flowrepository.org/id/{$id}"
+            "urlPattern": "http://flowrepository.org/id/{$id}"
         }
     ],
     "sampleId": "FR-FCM-ZYGW",

@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:56.122+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-06T15:10:26.342+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "NameBank is a \"biological name server\" focused on storing names and objectively-derived nomenclatural attributes. NameBank is a repository for all recorded names including scientific names, vernacular (or common names), misspelled names, as well as ad-hoc nomenclatural labels that may have limited context.",
     "id": 970,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000338",
-    "modified": "2019-06-11T14:16:56.122+00:00",
+    "modified": "2025-06-06T15:10:30.416+00:00",
     "name": "uBio NameBank",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "ubio.namebank",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

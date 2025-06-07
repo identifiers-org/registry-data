@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:37.867+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-06T14:08:13.517+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "SitEx is a database containing information on eukaryotic protein functional sites. It stores the amino acid sequence positions in the functional site, in relation to the exon structure of encoding gene This can be used to detect the exons involved in shuffling in protein evolution, or to design protein-engineering experiments.",
     "id": 748,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000252",
-    "modified": "2019-06-11T14:16:37.867+00:00",
+    "modified": "2025-06-06T14:08:17.845+00:00",
     "name": "SitEx",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "sitex",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

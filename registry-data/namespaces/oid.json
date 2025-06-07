@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.oid-info.com/introduction.htm",
+            "resourceHomeUrl": "https://oid-base.com",
             "sampleId": "2.16.840",
-            "urlPattern": "http://www.oid-info.com/cgi-bin/display?oid={$id}&submit=Display&action=display"
+            "urlPattern": "https://oid-base.com/cgi-bin/display?a=display&oid={$id}"
         }
     ],
     "sampleId": "2.16.840",

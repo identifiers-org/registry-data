@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.bioguo.org/AnimalTFDB/family_index.php",
+            "resourceHomeUrl": "https://guolab.wchscu.cn/AnimalTFDB4",
             "sampleId": "CUT",
-            "urlPattern": "http://www.bioguo.org/AnimalTFDB/family.php?fam={$id}"
+            "urlPattern": "https://guolab.wchscu.cn/AnimalTFDB4//#/family_summary/TF/{$id}"
         }
     ],
     "sampleId": "CUT",

@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:16:31.786+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-06T14:10:57.633+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "ProtoNet provides automatic hierarchical classification of protein sequences in the UniProt database, partitioning the protein space into clusters of similar proteins. This collection references cluster information.",
     "id": 679,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000229",
-    "modified": "2019-06-11T14:16:31.786+00:00",
+    "modified": "2025-06-06T14:11:00.872+00:00",
     "name": "ProtoNet Cluster",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "protonet.cluster",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

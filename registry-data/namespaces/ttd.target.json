@@ -8,10 +8,10 @@
     "id": 307,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000093",
-    "modified": "2019-06-11T14:15:57.896+00:00",
+    "modified": "2025-06-06T14:53:24.668+00:00",
     "name": "TTD Target",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^TTDS\\d+$",
+    "pattern": "^t\\d+$",
     "prefix": "ttd.target",
     "renderDeprecatedLanding": false,
     "resources": [
@@ -46,11 +46,11 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://bidd.nus.edu.sg/group/ttd/ttd.asp",
-            "sampleId": "TTDS00056",
-            "urlPattern": "http://bidd.nus.edu.sg/group/TTD/ZFTTDDetail.asp?ID={$id}"
+            "resourceHomeUrl": "https://db.idrblab.net/ttd",
+            "sampleId": "t59328",
+            "urlPattern": "https://db.idrblab.net/ttd/data/target/details/{$id}"
         }
     ],
-    "sampleId": "TTDS00056",
+    "sampleId": "t59328",
     "successor": null
 }

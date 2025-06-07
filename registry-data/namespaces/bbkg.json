@@ -1,19 +1,19 @@
 {
     "created": "2022-01-10T18:54:31.118+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-06T15:29:18.016+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "Blue Brain Project's published data as knowledge graphs and Web Studios.",
     "id": 3020,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000903",
-    "modified": "2022-01-10T18:54:31.118+00:00",
+    "modified": "2025-06-06T15:29:22.358+00:00",
     "name": "Blue Brain Project Knowledge Graph",
     "namespaceEmbeddedInLui": false,
     "pattern": "^[-\\w]+(?:\\/[-\\w]+)(?:\\/\\b[0-9a-f]{8}\\b-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-\\b[0-9a-f]{12}\\b)$",
     "prefix": "bbkg",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

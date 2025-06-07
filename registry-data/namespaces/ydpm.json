@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:26.654+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-06T14:57:45.738+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The YDPM database serves to support the Yeast Deletion and the Mitochondrial Proteomics Project. The project aims to increase the understanding of mitochondrial function and biogenesis in the context of the cell. In the Deletion Project, strains from the deletion collection were monitored under 9 different media conditions selected for the study of mitochondrial function. The YDPM database contains both the raw data and growth rates calculated for each strain in each media condition.",
     "id": 1330,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000465",
-    "modified": "2019-06-11T14:17:26.654+00:00",
+    "modified": "2025-06-06T14:57:49.489+00:00",
     "name": "YDPM",
     "namespaceEmbeddedInLui": false,
     "pattern": "^Y[A-Z]{2}\\d+[CW]$",
     "prefix": "ydpm",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

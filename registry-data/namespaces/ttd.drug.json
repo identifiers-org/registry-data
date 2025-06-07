@@ -8,10 +8,10 @@
     "id": 304,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000092",
-    "modified": "2019-06-11T14:15:57.654+00:00",
+    "modified": "2025-06-06T15:12:20.918+00:00",
     "name": "TTD Drug",
     "namespaceEmbeddedInLui": false,
-    "pattern": "^DAP\\d+$",
+    "pattern": "^\\w+$",
     "prefix": "ttd.drug",
     "renderDeprecatedLanding": false,
     "resources": [
@@ -46,11 +46,11 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://bidd.nus.edu.sg/group/ttd/ttd.asp",
-            "sampleId": "DAP000773",
-            "urlPattern": "http://bidd.nus.edu.sg/group/TTD/ZFTTDDRUG.asp?ID={$id}"
+            "resourceHomeUrl": "https://db.idrblab.net/ttd",
+            "sampleId": "D0N5OV",
+            "urlPattern": "https://db.idrblab.net/ttd/data/drug/details/{$id}"
         }
     ],
-    "sampleId": "DAP000773",
+    "sampleId": "D0N5OV",
     "successor": null
 }

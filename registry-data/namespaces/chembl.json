@@ -48,7 +48,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.ebi.ac.uk/chembl",
             "sampleId": "CHEMBL4303805",
-            "urlPattern": "https://www.ebi.ac.uk/chembl/entity/{$id}"
+            "urlPattern": "https://www.ebi.ac.uk/chembl/id_lookup/{$id}"
         }
     ],
     "sampleId": "CHEMBL4303805",

@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://peroxibase.toulouse.inra.fr/",
+            "resourceHomeUrl": "https://peroxibase.toulouse.inra.fr/",
             "sampleId": "5282",
-            "urlPattern": "http://peroxibase.toulouse.inra.fr/browse/process/view_perox.php?id={$id}"
+            "urlPattern": "https://redoxibase.toulouse.inrae.fr/display_perox/view_perox/{$id}"
         }
     ],
     "sampleId": "5282",

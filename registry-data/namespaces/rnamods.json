@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://rna-mdb.cas.albany.edu/RNAmods/rnaover.htm",
+            "resourceHomeUrl": "http://rna.rega.kuleuven.be/rnamods/",
             "sampleId": "101",
-            "urlPattern": "http://mods.rna.albany.edu/mods/modifications/view/{$id}"
+            "urlPattern": "http://rna.rega.kuleuven.be/rnamods/rnashow.pl?{$id}"
         }
     ],
     "sampleId": "101",

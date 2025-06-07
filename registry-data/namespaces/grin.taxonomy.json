@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://www.ars-grin.gov/cgi-bin/npgs/html/index.pl?language=en",
+            "resourceHomeUrl": "https://npgsweb.ars-grin.gov/gringlobal/taxon/abouttaxonomy",
             "sampleId": "19333",
-            "urlPattern": "http://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?{$id}"
+            "urlPattern": "https://npgsweb.ars-grin.gov/gringlobal/taxon/taxonomydetail?id={$id}"
         }
     ],
     "sampleId": "19333",
