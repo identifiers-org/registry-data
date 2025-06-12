@@ -1,0 +1,56 @@
+{
+    "created": "2025-06-11T11:00:19.548+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "The ontology Metadata4Ing provides a framework for the semantic description of research data and of the whole data generation process, embracing the object of investigation, all sample and data manipulation methods and tools, the data files themselves, and the roles of persons and institutions. The structure and application of the ontology are based on the principles of modularity and inheritance.",
+    "id": 4403,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001008",
+    "modified": "2025-06-11T11:00:19.548+00:00",
+    "name": "Metadata4Ing",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "[A-Za-z_0-9]*",
+    "prefix": "m4i",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/04xfq0f34' with Wikidata IDs [Q273263], and ISNI IDs [0000 0001 0728 696X]",
+            "id": 4554,
+            "institution": {
+                "description": "Organization information obtained from ROR API using ROR ID 'https://ror.org/04xfq0f34' with Wikidata IDs [Q273263], and ISNI IDs [0000 0001 0728 696X]",
+                "homeUrl": "http://www.rwth-aachen.de/cms/~a/root/lidx/1/",
+                "id": 4158,
+                "location": {
+                    "countryCode": "DE",
+                    "countryName": "Germany"
+                },
+                "name": "RWTH Aachen University",
+                "rorId": null
+            },
+            "location": {
+                "countryCode": "DE",
+                "countryName": "Germany"
+            },
+            "mirId": "MIR:00001103",
+            "name": "RWTH Aachen University",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "rwth",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "http://www.rwth-aachen.de/cms/~a/root/lidx/1/",
+            "sampleId": "ProcessingStep",
+            "urlPattern": "http://w3id.org/nfdi4ing/metadata4ing#{$id}"
+        }
+    ],
+    "sampleId": "ProcessingStep",
+    "successor": null
+}
