@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:15:56.548+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-12T15:38:06.071+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The Ligand-Gated Ion Channel database provides nucleic and proteic sequences of the subunits of ligand-gated ion channels. These transmembrane proteins can exist under different conformations, at least one of which forms a pore through the membrane connecting two neighbouring compartments. The database can be used to generate multiple sequence alignments from selected subunits, and gives the atomic coordinates of subunits, or portion of subunits, where available.",
     "id": 292,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000087",
-    "modified": "2019-06-11T14:15:56.548+00:00",
+    "modified": "2025-06-12T15:38:09.932+00:00",
     "name": "Ligand-Gated Ion Channel database",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\w+$",
     "prefix": "lgic",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

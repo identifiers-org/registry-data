@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:40.825+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-06-12T14:41:50.175+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "The Human Proteome Map (HPM) portal integrates the peptide sequencing result from the draft map of the human proteome project. The project was based on LC-MS/MS by utilizing of high resolution and high accuracy Fourier transform mass spectrometry. The HPM contains direct evidence of translation of a number of protein products derived from human genes, based on peptide identifications of multiple organs/tissues and cell types from individuals with clinically defined healthy tissues. The HPM portal provides data on individual proteins, as well as on individual peptide spectra. This collection references proteins.",
     "id": 1481,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000526",
-    "modified": "2019-06-11T14:17:40.825+00:00",
+    "modified": "2025-06-12T14:41:54.304+00:00",
     "name": "Human Proteome Map Protein",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "hpm.protein",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,
