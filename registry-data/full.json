@@ -1647,10 +1647,10 @@
         "id": 140,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000035",
-        "modified": "2019-06-11T14:15:41.707+00:00",
+        "modified": "2025-06-17T13:05:42.908+00:00",
         "name": "arXiv",
         "namespaceEmbeddedInLui": false,
-        "pattern": "^(\\w+(\\-\\w+)?(\\.\\w+)?)?\\d{4,7}(\\.\\d+(v\\d+)?)?$",
+        "pattern": "^(\\w+(\\-\\w+)?(\\.\\w+)?\\/?)?\\d{4,7}(\\.\\d+(v\\d+)?)?$",
         "prefix": "arxiv",
         "renderDeprecatedLanding": false,
         "resources": [
