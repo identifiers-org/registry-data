@@ -1,0 +1,56 @@
+{
+    "created": "2025-06-19T09:20:37.118+00:00",
+    "deprecated": false,
+    "deprecationDate": null,
+    "deprecationOfflineDate": null,
+    "deprecationStatement": null,
+    "description": "RAiD is an identifier and global system, governed by ISO 23527:2022, to uniquely identifiy research projects, collaboratively, collect and publicly share information about them.",
+    "id": 4453,
+    "infoOnPostmortemAccess": null,
+    "mirId": "MIR:00001107",
+    "modified": "2025-06-19T09:30:09.309+00:00",
+    "name": "Research Activity Identifier",
+    "namespaceEmbeddedInLui": false,
+    "pattern": "^102?\\.\\d+\\/.+$",
+    "prefix": "raid",
+    "renderDeprecatedLanding": false,
+    "resources": [
+        {
+            "authHelpDescription": null,
+            "authHelpUrl": null,
+            "deprecated": false,
+            "deprecationDate": null,
+            "deprecationOfflineDate": null,
+            "deprecationStatement": null,
+            "description": "The ARDC is Australia's leading research data infrastructure facility. It facilitates programs and partnerships that provide the research community and industry access to nationally significant, data-intensive digital research infrastructure, platforms, skills and collections of high-quality data. The ARDC also supports researchers and their organisations with digital research services, most of which are either available to all or to merit-based researchers at no cost",
+            "id": 4604,
+            "institution": {
+                "description": "The ARDC is Australia's leading research data infrastructure facility. It facilitates programs and partnerships that provide the research community and industry access to nationally significant, data-intensive digital research infrastructure, platforms, skills and collections of high-quality data. The ARDC also supports researchers and their organisations with digital research services, most of which are either available to all or to merit-based researchers at no cost",
+                "homeUrl": "https://ardc.edu.au/",
+                "id": 4208,
+                "location": {
+                    "countryCode": "AU",
+                    "countryName": "Australia"
+                },
+                "name": "Australian Research Data Commons",
+                "rorId": "https://ror.org/038sjwq14"
+            },
+            "location": {
+                "countryCode": "AU",
+                "countryName": "Australia"
+            },
+            "mirId": "MIR:00001105",
+            "name": "Australian Research Data Commons",
+            "official": true,
+            "protectedUrls": false,
+            "providerCode": "ardc",
+            "renderDeprecatedLanding": false,
+            "renderProtectedLanding": false,
+            "resourceHomeUrl": "https://ardc.edu.au/",
+            "sampleId": "10.26259/0e59e9a5",
+            "urlPattern": "https://raid.org/{$id}"
+        }
+    ],
+    "sampleId": "10.26259/0e59e9a5",
+    "successor": null
+}
