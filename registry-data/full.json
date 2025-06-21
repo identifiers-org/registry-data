@@ -28119,6 +28119,62 @@
         "successor": null
     },
     {
+        "created": "2025-06-20T08:21:59.847+00:00",
+        "deprecated": false,
+        "deprecationDate": null,
+        "deprecationOfflineDate": null,
+        "deprecationStatement": null,
+        "description": "LncBook accommodates a high-quality collection of human lncRNA genes and transcripts, and incorporates their abundant annotations at different omics levels, thereby enabling users to decipher functional signatures of lncRNAs in human diseases and different biological contexts.\n\n",
+        "id": 4454,
+        "infoOnPostmortemAccess": null,
+        "mirId": "MIR:00001109",
+        "modified": "2025-06-20T08:21:59.847+00:00",
+        "name": "LncBook",
+        "namespaceEmbeddedInLui": false,
+        "pattern": "^HSALNG\\d{7}$",
+        "prefix": "lncbook",
+        "renderDeprecatedLanding": false,
+        "resources": [
+            {
+                "authHelpDescription": null,
+                "authHelpUrl": null,
+                "deprecated": false,
+                "deprecationDate": null,
+                "deprecationOfflineDate": null,
+                "deprecationStatement": null,
+                "description": "The National Genomics Data Center (NGDC) advances life & health sciences by providing open access to a suite of resources, with the aim to translate big data into big discoveries and support worldwide activities in both academia and industry.",
+                "id": 4605,
+                "institution": {
+                    "description": "The China National Center for Bioinformation (CNCB) is a leading national and international hub for bioinformatics and life science big data. Established in 2019 and affiliated with the Beijing Institute of Genomics, Chinese Academy of Sciences, CNCB is dedicated to the archiving, integration, management, and sharing of massive multi-omics data, supporting both academic and industrial research worldwide.",
+                    "homeUrl": "https://www.cncb.ac.cn/?lang=en",
+                    "id": 4210,
+                    "location": {
+                        "countryCode": "CN",
+                        "countryName": "China"
+                    },
+                    "name": "China National Center for Bioinformation, Beijing, China",
+                    "rorId": null
+                },
+                "location": {
+                    "countryCode": "CN",
+                    "countryName": "China"
+                },
+                "mirId": "MIR:00001108",
+                "name": "National Genomics Data Center",
+                "official": true,
+                "protectedUrls": false,
+                "providerCode": "ngdc",
+                "renderDeprecatedLanding": false,
+                "renderProtectedLanding": false,
+                "resourceHomeUrl": "https://ngdc.cncb.ac.cn/?lang=en",
+                "sampleId": "HSALNG0006197",
+                "urlPattern": "https://ngdc.cncb.ac.cn/lncbook/gene?geneid={$id}"
+            }
+        ],
+        "sampleId": "HSALNG0006197",
+        "successor": null
+    },
+    {
         "created": "2019-06-11T14:17:05.115+00:00",
         "deprecated": false,
         "deprecationDate": null,
