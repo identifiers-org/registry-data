@@ -27,7 +27,8 @@ jobs:
             git config --local user.name "Registry Bot"
             git config --local user.email "identifiers-org@ebi.ac.uk"
             git add registry-data/
-            git commit -m 'Update repository from live dataset'
+            local COMMIT_MSG=$(git status --porcelain | node scripts/gen-commit-msg.js)
+            git commit -m "$COMMIT_MSG"
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master

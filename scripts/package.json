@@ -2,9 +2,8 @@
   "name": "registry-repo-update",
   "version": "1.0.0",
   "type": "module",
-  "main": "main.js",
   "scripts": {
-    "update-from-live": "node main.js"
+    "update-from-live": "node sync.js"
   },
   "author": "Renato Juacaba Neto",
   "license": "MIT",
