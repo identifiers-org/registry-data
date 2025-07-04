@@ -83,7 +83,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.chemspider.com/",
             "sampleId": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3",
-            "urlPattern": "http://www.chemspider.com/{$id}"
+            "urlPattern": "https://www.chemspider.com/search?params={$id}"
         },
         {
             "authHelpDescription": null,
