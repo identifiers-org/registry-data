@@ -118,7 +118,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.ddbj.nig.ac.jp/",
             "sampleId": "BP100000",
-            "urlPattern": "http://getentry.ddbj.nig.ac.jp/getentry/na/{$id}"
+            "urlPattern": "https://getentry.ddbj.nig.ac.jp/getentry/na/{$id}"
         }
     ],
     "sampleId": "BP100000",

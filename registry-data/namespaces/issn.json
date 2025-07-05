@@ -46,9 +46,9 @@
             "providerCode": "",
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
-            "resourceHomeUrl": "http://catalog.loc.gov/webvoy.htm",
+            "resourceHomeUrl": "http://catalog.loc.gov",
             "sampleId": "0745-4570",
-            "urlPattern": "https://catalog.loc.gov/vwebv/search?searchCode=STNO&searchArg={$id}&searchType=1&recCount=25"
+            "urlPattern": "https://search.catalog.loc.gov/search?option=keyword&query={$id}"
         },
         {
             "authHelpDescription": null,

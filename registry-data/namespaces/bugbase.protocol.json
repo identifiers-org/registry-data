@@ -1,19 +1,19 @@
 {
     "created": "2019-06-11T14:17:12.749+00:00",
-    "deprecated": false,
-    "deprecationDate": null,
+    "deprecated": true,
+    "deprecationDate": "2025-07-04T10:42:10.531+00:00",
     "deprecationOfflineDate": null,
     "deprecationStatement": null,
     "description": "BugBase is a MIAME-compliant microbial gene expression and comparative genomic database. It stores experimental annotation and multiple raw and analysed data formats, as well as protocols for bacterial microarray designs. This collection references design protocols.",
     "id": 1169,
     "infoOnPostmortemAccess": null,
     "mirId": "MIR:00000403",
-    "modified": "2019-06-11T14:17:12.749+00:00",
+    "modified": "2025-07-04T10:42:10.536+00:00",
     "name": "BugBase Protocol",
     "namespaceEmbeddedInLui": false,
     "pattern": "^\\d+$",
     "prefix": "bugbase.protocol",
-    "renderDeprecatedLanding": false,
+    "renderDeprecatedLanding": true,
     "resources": [
         {
             "authHelpDescription": null,

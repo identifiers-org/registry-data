@@ -5461,20 +5461,20 @@
     },
     {
         "created": "2019-06-11T14:17:12.968+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-07-04T10:41:44.933+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "BugBase is a MIAME-compliant microbial gene expression and comparative genomic database. It stores experimental annotation and multiple raw and analysed data formats, as well as protocols for bacterial microarray designs. This collection references microarray experiments.",
         "id": 1172,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000404",
-        "modified": "2019-06-11T14:17:12.968+00:00",
+        "modified": "2025-07-04T10:41:44.936+00:00",
         "name": "BugBase Expt",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
         "prefix": "bugbase.expt",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -5517,20 +5517,20 @@
     },
     {
         "created": "2019-06-11T14:17:12.749+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-07-04T10:42:10.531+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "BugBase is a MIAME-compliant microbial gene expression and comparative genomic database. It stores experimental annotation and multiple raw and analysed data formats, as well as protocols for bacterial microarray designs. This collection references design protocols.",
         "id": 1169,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000403",
-        "modified": "2019-06-11T14:17:12.749+00:00",
+        "modified": "2025-07-04T10:42:10.536+00:00",
         "name": "BugBase Protocol",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d+$",
         "prefix": "bugbase.protocol",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
@@ -10948,7 +10948,7 @@
                 "renderProtectedLanding": false,
                 "resourceHomeUrl": "http://www.ddbj.nig.ac.jp/",
                 "sampleId": "BP100000",
-                "urlPattern": "http://getentry.ddbj.nig.ac.jp/getentry/na/{$id}"
+                "urlPattern": "https://getentry.ddbj.nig.ac.jp/getentry/na/{$id}"
             }
         ],
         "sampleId": "BP100000",
@@ -25716,9 +25716,9 @@
                 "providerCode": "",
                 "renderDeprecatedLanding": false,
                 "renderProtectedLanding": false,
-                "resourceHomeUrl": "http://catalog.loc.gov/webvoy.htm",
+                "resourceHomeUrl": "http://catalog.loc.gov",
                 "sampleId": "0745-4570",
-                "urlPattern": "https://catalog.loc.gov/vwebv/search?searchCode=STNO&searchArg={$id}&searchType=1&recCount=25"
+                "urlPattern": "https://search.catalog.loc.gov/search?option=keyword&query={$id}"
             },
             {
                 "authHelpDescription": null,
@@ -30297,20 +30297,20 @@
     },
     {
         "created": "2019-06-11T14:16:52.640+00:00",
-        "deprecated": false,
-        "deprecationDate": null,
+        "deprecated": true,
+        "deprecationDate": "2025-07-04T10:50:10.765+00:00",
         "deprecationOfflineDate": null,
         "deprecationStatement": null,
         "description": "The METLIN (Metabolite and Tandem Mass Spectrometry) Database is a repository of metabolite information as well as tandem mass spectrometry data, providing public access to its comprehensive MS and MS/MS metabolite data. An annotated list of known metabolites and their mass, chemical formula, and structure are available, with each metabolite linked to external resources for further reference and inquiry.",
         "id": 929,
         "infoOnPostmortemAccess": null,
         "mirId": "MIR:00000322",
-        "modified": "2019-06-11T14:16:52.640+00:00",
+        "modified": "2025-07-04T10:51:17.567+00:00",
         "name": "METLIN",
         "namespaceEmbeddedInLui": false,
         "pattern": "^\\d{4}$",
         "prefix": "metlin",
-        "renderDeprecatedLanding": false,
+        "renderDeprecatedLanding": true,
         "resources": [
             {
                 "authHelpDescription": null,
