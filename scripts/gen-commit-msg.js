@@ -13,7 +13,7 @@ const changes = {
 }
 
 const parsePorcelainChangeString = (line) => {
-    if (!line) return;
+    if (!line || !line.trim()) return;
 
     const changeArr = line.trim().split(/\s+/);
     if (changeArr.length !== 2) {
@@ -40,17 +40,36 @@ const parsePorcelainChangeString = (line) => {
 }
 
 const printCommitMessage = () => {
+    const {created, modified, other} = changes;
     const messages = [];
-    if (changes.created.length > 0) {
+    if (created.length > 0) {
         messages.push("Created: " + changes.created.join(', '));
     }
-    if (changes.modified.length > 0) {
+    if (modified.length > 0) {
         messages.push("Modified: " + changes.modified.join(', '));
     }
-    if (changes.other) {
+    if (other) {
         messages.push("Other changes");
     }
-    console.log(`Update repository from live dataset. ${messages.join("; ")}.`);
+    
+    const prefix = "Sync w/ live."
+    let changesStr = messages.join("; ") + '.';
+
+    // Git commit titles are usually capped at 72 characters. 
+    //   So we if the messages are too large, we replace the string.
+    //   Using a lower number to have a little error margin.
+    if (prefix.length + changesStr.length > 68) { 
+        if (created.length > 0 && modified.length > 0) {
+            changesStr = 'Several namespaces created and modified.'
+        } else if (created.length > 0) {
+            changesStr = 'Several namespaces created.'
+        } else if (modified.length > 0) {
+            changesStr = 'Several namespaces modified.'
+        }
+    }
+
+    // Space is important here for readability
+    console.log(`${prefix} ${changesStr}`)
 }
 
 
