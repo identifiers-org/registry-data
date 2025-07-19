@@ -47,8 +47,8 @@
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "http://www.massbank.jp",
-            "sampleId": "PB000166",
-            "urlPattern": "https://massbank.jp/RecordDisplay?id={$id}"
+            "sampleId": "MSBNK-IPB_Halle-PB000166",
+            "urlPattern": "https://massbank.jp/MassBank/RecordDisplay?id={$id}"
         },
         {
             "authHelpDescription": null,
@@ -82,7 +82,7 @@
             "renderDeprecatedLanding": false,
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://massbank.eu/",
-            "sampleId": "PB000166",
+            "sampleId": "MSBNK-IPB_Halle-PB000166",
             "urlPattern": "https://massbank.eu/MassBank/RecordDisplay?id={$id}"
         }
     ],
