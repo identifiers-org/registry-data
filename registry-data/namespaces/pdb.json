@@ -223,7 +223,7 @@
             "renderProtectedLanding": false,
             "resourceHomeUrl": "https://www.wwpdb.org/",
             "sampleId": "2g4c",
-            "urlPattern": "https://www.wwpdb.org/pdb?id={$id}"
+            "urlPattern": "https://www.wwpdb.org/pdb?id=pdb_0000{$id}"
         }
     ],
     "sampleId": "2gc4",
